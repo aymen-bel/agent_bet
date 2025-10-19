@@ -1,0 +1,141 @@
+{
+  "report_id": "performance_report_20251019_213158",
+  "generated_at": "2025-10-19T21:31:58.645338",
+  "executive_summary": {
+    "overall_accuracy": 0.3340909090909091,
+    "overall_roi": 14.291419344013304,
+    "performance_rating": "بحاجة للتحسين",
+    "total_bets_placed": 981,
+    "key_strengths": [
+      "ربحية ممتازة"
+    ],
+    "key_improvements": [
+      "تحسين دقة النماذج التنبؤية"
+    ]
+  },
+  "detailed_analysis": {
+    "model_performance": {
+      "accuracy_analysis": {
+        "historical": {
+          "score_accuracy": 0.058,
+          "result_accuracy": 0.316
+        },
+        "current": {
+          "score_accuracy": 0.05,
+          "result_accuracy": 0.35789473684210527
+        }
+      },
+      "consistency_analysis": {
+        "average_accuracy": 0.33694736842105266,
+        "accuracy_std": 0.02094736842105263,
+        "min_accuracy": 0.316,
+        "max_accuracy": 0.35789473684210527
+      },
+      "improvement_recommendations": [
+        "🔄 إعادة تدريب النماذج مع بيانات أحدث",
+        "📊 إضافة ميزات تحليلية جديدة"
+      ]
+    },
+    "betting_performance": {
+      "by_market": {
+        "1x2": {
+          "total_bets": 981,
+          "winning_bets": 326,
+          "win_rate": 0.33231396534148827,
+          "total_profit": 26100.0,
+          "roi": 14.291419344013304,
+          "average_odds": 4.059235474006116,
+          "performance_rating": "ممتاز"
+        }
+      },
+      "by_season": {
+        "historical": {
+          "model_accuracy": {
+            "score_accuracy": 0.058,
+            "result_accuracy": 0.316,
+            "total_predictions": 500
+          },
+          "betting_performance": {
+            "total_bets": 500,
+            "winning_bets": 194,
+            "losing_bets": 306,
+            "push_bets": 0,
+            "win_rate": 0.388,
+            "total_profit": 17900.0,
+            "total_stake": 99133.5,
+            "roi": 18.056459219133796,
+            "bankroll_growth": 179.0,
+            "initial_bankroll": 10000.0,
+            "final_bankroll": 27900.0
+          },
+          "risk_metrics": {
+            "max_drawdown": 7.6923076923076925,
+            "sharpe_ratio": 0.20990530192960838,
+            "profit_factor": 1.5849673202614378
+          }
+        },
+        "current": {
+          "model_accuracy": {
+            "score_accuracy": 0.05,
+            "result_accuracy": 0.35789473684210527,
+            "total_predictions": 380
+          },
+          "betting_performance": {
+            "total_bets": 380,
+            "winning_bets": 132,
+            "losing_bets": 248,
+            "push_bets": 0,
+            "win_rate": 0.3473684210526316,
+            "total_profit": 8200.0,
+            "total_stake": 50945.5,
+            "roi": 16.095631606324407,
+            "bankroll_growth": 82.0,
+            "initial_bankroll": 10000.0,
+            "final_bankroll": 18200.0
+          },
+          "risk_metrics": {
+            "max_drawdown": 22.540983606557376,
+            "sharpe_ratio": 0.12948903728357614,
+            "profit_factor": 1.3306451612903225
+          }
+        },
+        "future": {
+          "expected_performance": {
+            "total_expected_profit": 60376.961371038946,
+            "expected_roi": 185.50091198895456,
+            "expected_growth": 603.7696137103894,
+            "total_bets": 101,
+            "average_expected_value": 1.9550683168316825
+          }
+        }
+      },
+      "risk_analysis": {
+        "volatility": 160.34047721747444,
+        "consistency": 7,
+        "drawdown_analysis": {
+          "max_winning_streak": 7,
+          "max_losing_streak": 102
+        },
+        "betting_patterns": {}
+      },
+      "recommendations": [
+        "🎯 ركز على رهانات 1x2 (ROI: 14.3%)",
+        "⚠️ تحسين إدارة المخاطر (أطول سلسلة خسائر: 102)",
+        "🔧 تحسين نماذج التنبؤ لزيادة الدقة"
+      ]
+    },
+    "risk_analysis": {
+      "volatility": 160.34047721747444,
+      "consistency": 7,
+      "drawdown_analysis": {
+        "max_winning_streak": 7,
+        "max_losing_streak": 102
+      },
+      "betting_patterns": {}
+    }
+  },
+  "recommendations": [
+    "🎯 إعطاء أولوية لتحسين دقة النماذج التنبؤية",
+    "🚀 التركيز على رهانات 1x2 لتحقيق أعلى عوائد"
+  ]
+}

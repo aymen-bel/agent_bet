@@ -1,0 +1,4310 @@
+{
+  "metadata": {
+    "total_historical_matches": 3800,
+    "current_season_matches": 70,
+    "temporal_integration": true,
+    "merge_strategy": "weighted_temporal"
+  },
+  "training_data": [
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 4,
+        "conceded_per_match": 1,
+        "current_form": 0.5735653264534296,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 1,
+        "conceded_per_match": 4,
+        "current_form": 0.3002732968514394,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Liverpool",
+        "away_team": "Norwich",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5469976090579474,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9662131762865163
+      },
+      "actual_result": {
+        "home_goals": 4,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -5,
+        "goals_per_match": 0,
+        "conceded_per_match": 5,
+        "current_form": 0.7766790925138538,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 5,
+        "goals_per_match": 5,
+        "conceded_per_match": 0,
+        "current_form": 0.4386642214416745,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "West Ham",
+        "away_team": "Man City",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.22819804436968494,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7037232734787722
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 5,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.2419404235035606,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.7551851936897065,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Bournemouth",
+        "away_team": "Sheffield United",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6992366784358461,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7842637903567647
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 3,
+        "conceded_per_match": 0,
+        "current_form": 0.604752728037224,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 0,
+        "conceded_per_match": 3,
+        "current_form": 0.6079338769088098,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Burnley",
+        "away_team": "Southampton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6114218429284171,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8805668654978039
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.2545621568647089,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.36566987577141397,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Crystal Palace",
+        "away_team": "Everton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.22607697276546362,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8299107309895815
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 0,
+        "conceded_per_match": 3,
+        "current_form": 0.48707523493889765,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 3,
+        "conceded_per_match": 0,
+        "current_form": 0.4169983310942703,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Watford",
+        "away_team": "Brighton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.20437192160777257,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9394447456450539
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.8407274255593493,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.5054255913012182,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.032258064516129004,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Tottenham",
+        "away_team": "Aston Villa",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.41238716552980603,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9390804991460762
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.7924766542683821,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.7702234818078912,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Leicester",
+        "away_team": "Wolves",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6903370085516405,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8219379537330908
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.8271735610151423,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.5753402799973821,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Newcastle",
+        "away_team": "Arsenal",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.4202795720539306,
+        "current_motivation": 1.0,
+        "injury_impact": 0.969702622836655
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 4,
+        "goals_per_match": 4,
+        "conceded_per_match": 0,
+        "current_form": 0.7994671647681713,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -4,
+        "goals_per_match": 0,
+        "conceded_per_match": 4,
+        "current_form": 0.2330229773893316,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Man United",
+        "away_team": "Chelsea",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.4177248274624164,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7632059331503643
+      },
+      "actual_result": {
+        "home_goals": 4,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.5745619563221915,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.4444444444444444,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.7345971945980838,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Arsenal",
+        "away_team": "Burnley",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.7015428591617412,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9761323627362163
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.2963789965681266,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.2669142508642339,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.5454545454545454,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Aston Villa",
+        "away_team": "Bournemouth",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7190069878835756,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9384793800316609
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.559747888358234,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.6493761417334466,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.375,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Brighton",
+        "away_team": "West Ham",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6353161658753943,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9923599643649763
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.4646959105912766,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.3265012117070889,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Everton",
+        "away_team": "Watford",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.47024103587840965,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9945920383515297
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.32430454294288286,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.32994021844866256,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Norwich",
+        "away_team": "Newcastle",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7014532287751556,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8143600359500738
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.4372528155461666,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.5230625093549925,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Southampton",
+        "away_team": "Liverpool",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6334112116454543,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7840159167202603
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.573474631484445,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.7395154257042234,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.33333333333333337,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Man City",
+        "away_team": "Tottenham",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.7485295623342603,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8772136452919662
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.4537338224205327,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.7628481552254895,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.33333333333333337,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Sheffield United",
+        "away_team": "Crystal Palace",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.48155212509903306,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8493906281987431
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.7258044253565885,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.6724324834705395,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Chelsea",
+        "away_team": "Leicester",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5568538243418353,
+        "current_motivation": 1.0,
+        "injury_impact": 0.940208341552768
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.7572695940887586,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.7732185702571506,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Wolves",
+        "away_team": "Man United",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.7917355377981941,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9997308010837134
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.3589332652329998,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.32673949408763936,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Aston Villa",
+        "away_team": "Everton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.5672946851892143,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7896569902068397
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 2,
+        "conceded_per_match": 3,
+        "current_form": 0.8347232746596569,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 3,
+        "conceded_per_match": 2,
+        "current_form": 0.4794183014556022,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Norwich",
+        "away_team": "Chelsea",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.2980730457060117,
+        "current_motivation": 1.0,
+        "injury_impact": 0.935145089443495
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.6160781781805375,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.46383699631204384,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Brighton",
+        "away_team": "Southampton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.30998684945242555,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8672663624655073
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.5036686904061,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.8023566525416286,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.5454545454545454,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Man United",
+        "away_team": "Crystal Palace",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.3991510448279372,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9797694871686152
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.6873397432099619,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.6202801571111676,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Sheffield United",
+        "away_team": "Leicester",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.2835394060918033,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9230518965876118
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.30032861693339175,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.7989722244721866,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.5652173913043479,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Watford",
+        "away_team": "West Ham",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7479898750844982,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7735352154709753
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.3083029151293,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.2087763189965195,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Liverpool",
+        "away_team": "Arsenal",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.34034227155004343,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7989139512244
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.24112932787166708,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.728022457376517,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Bournemouth",
+        "away_team": "Man City",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.7421161550443447,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7053201544186893
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.7997932657232345,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.44297106866347524,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Tottenham",
+        "away_team": "Newcastle",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5050926243010088,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9198876635962906
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.25890905651806684,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.5366156944802256,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.4117647058823529,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Wolves",
+        "away_team": "Burnley",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.2220458061880047,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7918795145815146
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.27251825608305374,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.5238095238095238,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.6654121559014933,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Southampton",
+        "away_team": "Man United",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.3829422304854426,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8591066273034846
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.6882130492636614,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.2637635491464115,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Chelsea",
+        "away_team": "Sheffield United",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.7047397704830922,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7153707879636573
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.24567981663589056,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.6946634524618293,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.5454545454545454,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Crystal Palace",
+        "away_team": "Aston Villa",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6020923719726027,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7626350648205104
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.7826321412054833,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.2744441908458163,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Leicester",
+        "away_team": "Bournemouth",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7553918783530382,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9522704568922873
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 4,
+        "goals_per_match": 4,
+        "conceded_per_match": 0,
+        "current_form": 0.6718273916334365,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -4,
+        "goals_per_match": 0,
+        "conceded_per_match": 4,
+        "current_form": 0.7471912431943777,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Man City",
+        "away_team": "Brighton",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6251915535897659,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7408351332644932
+      },
+      "actual_result": {
+        "home_goals": 4,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.6252334644158573,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.4606533477677766,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Newcastle",
+        "away_team": "Watford",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.4512395102162756,
+        "current_motivation": 1.0,
+        "injury_impact": 0.823527672414764
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.2940939117061205,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.6331852888752594,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "West Ham",
+        "away_team": "Norwich",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.2705219941271721,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7519970632159918
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 0,
+        "conceded_per_match": 3,
+        "current_form": 0.8065245487775088,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 3,
+        "conceded_per_match": 0,
+        "current_form": 0.6610851901845769,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Burnley",
+        "away_team": "Liverpool",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.4994215417161343,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9223189279674594
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 3,
+        "conceded_per_match": 2,
+        "current_form": 0.8835061809855809,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 2,
+        "conceded_per_match": 3,
+        "current_form": 0.2146693106163486,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Everton",
+        "away_team": "Wolves",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.3945216207330361,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8163528766990458
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.5491797700760609,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.4985678830938535,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Arsenal",
+        "away_team": "Tottenham",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.6270836518535645,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9264847990219268
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.24948595532357795,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.2707156099418857,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Liverpool",
+        "away_team": "Newcastle",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.7677090005924958,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8131751867150238
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.4465259164072709,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.3017879068317315,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Brighton",
+        "away_team": "Burnley",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7275507365901408,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8812986065936188
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.7416610328953201,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.497262811506892,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Man United",
+        "away_team": "Leicester",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.27287865839258957,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9589108114623733
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.2528826694715503,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.09090909090909083,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.7582761225416605,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Sheffield United",
+        "away_team": "Southampton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7486868859615357,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8084189374374748
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 4,
+        "goals_per_match": 4,
+        "conceded_per_match": 0,
+        "current_form": 0.8637749603021387,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -4,
+        "goals_per_match": 0,
+        "conceded_per_match": 4,
+        "current_form": 0.24534653797651979,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Tottenham",
+        "away_team": "Crystal Palace",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5446083248158499,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9070104003947084
+      },
+      "actual_result": {
+        "home_goals": 4,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 2,
+        "conceded_per_match": 5,
+        "current_form": 0.26076270097522997,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 5,
+        "conceded_per_match": 2,
+        "current_form": 0.3867174912876644,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Wolves",
+        "away_team": "Chelsea",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.23124065925615983,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7918920572068009
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 5,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 3,
+        "conceded_per_match": 2,
+        "current_form": 0.3469985894711004,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.19999999999999996,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 2,
+        "conceded_per_match": 3,
+        "current_form": 0.2935172971518515,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Norwich",
+        "away_team": "Man City",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.27949552049630044,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8529224185708919
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.41119798058658596,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.8770827432173798,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Bournemouth",
+        "away_team": "Everton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7736530127169574,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7369393632388359
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.6866403986336456,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.7775710897264894,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.3548387096774194,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Watford",
+        "away_team": "Arsenal",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6905213465243565,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8652297298670512
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.2576550155978681,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.2953038986711693,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Aston Villa",
+        "away_team": "West Ham",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6978089507384366,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8161746255602019
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.29737224308381965,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.7686270882142396,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.6,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Southampton",
+        "away_team": "Bournemouth",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.34844976305633185,
+        "current_motivation": 1.0,
+        "injury_impact": 0.94302260352188
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.2327415952661385,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.09090909090909083,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.7977068510298291,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Leicester",
+        "away_team": "Tottenham",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.3096005521348163,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7550010974607311
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.8116674126167502,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.6602260875066587,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Burnley",
+        "away_team": "Norwich",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.5471833446092109,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9396920359102299
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.5279562184652384,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.5233438352572464,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Everton",
+        "away_team": "Sheffield United",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.5498475259966822,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9677281844327683
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 8,
+        "goals_per_match": 8,
+        "conceded_per_match": 0,
+        "current_form": 0.20310973398886306,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -8,
+        "goals_per_match": 0,
+        "conceded_per_match": 8,
+        "current_form": 0.5274748906481461,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Man City",
+        "away_team": "Watford",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.39481304124491606,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9820540071643451
+      },
+      "actual_result": {
+        "home_goals": 8,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.6871168792857609,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.41241604675866034,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Newcastle",
+        "away_team": "Brighton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.26926215605392745,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9396692417582123
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.565221694273683,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.4954212331544204,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Crystal Palace",
+        "away_team": "Wolves",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.49073287468301496,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7448119584167915
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.8512017294320613,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.24979152565496654,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "West Ham",
+        "away_team": "Man United",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6206181267716178,
+        "current_motivation": 1.0,
+        "injury_impact": 0.987141160675458
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 3,
+        "conceded_per_match": 2,
+        "current_form": 0.8548181408028259,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 2,
+        "conceded_per_match": 3,
+        "current_form": 0.682651602365224,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Arsenal",
+        "away_team": "Aston Villa",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5183635394129675,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8610620572351129
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.5829732177197025,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.5904668107208189,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.4412275528923246,
+        "current_motivation": 1.0,
+        "injury_impact": 0.82861064106633
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.6507937779824949,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.375,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.3017629923053122,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "Sheffield United",
+        "away_team": "Liverpool",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5519130048318617,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9119745497319592
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.38108332829136465,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.8137796123502574,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Aston Villa",
+        "away_team": "Burnley",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6032897586588175,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7872993202632294
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.8480944995219712,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.40849529013583535,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Bournemouth",
+        "away_team": "West Ham",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.38575020078465905,
+        "current_motivation": 1.0,
+        "injury_impact": 0.808954236266576
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.26396170204571134,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.5123789604316441,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Chelsea",
+        "away_team": "Brighton",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5958027986731449,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7400057396517052
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.6509615888715586,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.8623326750202298,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Crystal Palace",
+        "away_team": "Norwich",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7837986402752561,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9636943023503358
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.6077032721210509,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.8229818822930177,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Tottenham",
+        "away_team": "Southampton",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5138423343037462,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9252059204829841
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.712544497296763,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.5231009106136024,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Wolves",
+        "away_team": "Watford",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.41956585042934846,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8764379895952906
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.4105626338526012,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.8481455945262981,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Everton",
+        "away_team": "Man City",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6587249295675758,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9512507829641677
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 5,
+        "goals_per_match": 5,
+        "conceded_per_match": 0,
+        "current_form": 0.2876414815858608,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -5,
+        "goals_per_match": 0,
+        "conceded_per_match": 5,
+        "current_form": 0.7291419685406688,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Leicester",
+        "away_team": "Newcastle",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.33347144763066133,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8190423379611419
+      },
+      "actual_result": {
+        "home_goals": 5,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.6995316838422494,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.46223469768903774,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.375,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Man United",
+        "away_team": "Arsenal",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.281013956731061,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8888482545950287
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 3,
+        "conceded_per_match": 0,
+        "current_form": 0.2151657546787854,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 0,
+        "conceded_per_match": 3,
+        "current_form": 0.5857792480768859,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Brighton",
+        "away_team": "Tottenham",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5066022460055268,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8288129402451618
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.41372668302319315,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.6803710175890365,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Burnley",
+        "away_team": "Everton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.6041834172987439,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8760138437076612
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.20118916136535195,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.6358053754395688,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Liverpool",
+        "away_team": "Leicester",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.3444302443284627,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9718062143629225
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -4,
+        "goals_per_match": 1,
+        "conceded_per_match": 5,
+        "current_form": 0.31781206337718126,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 4,
+        "goals_per_match": 5,
+        "conceded_per_match": 1,
+        "current_form": 0.7293171932660698,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.5238095238095238,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Norwich",
+        "away_team": "Aston Villa",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.5977764113205153,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7005791961809834
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 5,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.4043342637841649,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.3744238290629227,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Watford",
+        "away_team": "Sheffield United",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.3087102417237564,
+        "current_motivation": 1.0,
+        "injury_impact": 0.784952640751775
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.6289481236293599,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.8017518656871667,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "context": {
+        "home_team": "West Ham",
+        "away_team": "Crystal Palace",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.5184363872943363,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7788971464333552
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.695076566075189,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.25059972894188204,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Arsenal",
+        "away_team": "Bournemouth",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.3635034855646858,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9926918813737167
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.7967919027699588,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.6796735427545905,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Man City",
+        "away_team": "Wolves",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.28132739879387864,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8596248565124426
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 1,
+        "conceded_per_match": 4,
+        "current_form": 0.7817745938842522,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 4,
+        "conceded_per_match": 1,
+        "current_form": 0.3038265373671306,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Southampton",
+        "away_team": "Chelsea",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.743597351703922,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9682195809756791
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 4,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.37787932654595574,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.8571573776123016,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Newcastle",
+        "away_team": "Man United",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.5407808904704059,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9761820143362092
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.37479775509635715,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.2301414224582529,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Everton",
+        "away_team": "West Ham",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.5967096691051588,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7573002946298594
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.2979084208340448,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.5,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.7981254112736897,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Aston Villa",
+        "away_team": "Brighton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.623597876219149,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8229810284488859
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.8854635914494531,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.25487510644769007,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Bournemouth",
+        "away_team": "Norwich",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7035509592970901,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9888781109635327
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.5562892448390551,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.5849025867597932,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.375,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Chelsea",
+        "away_team": "Newcastle",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.39638442738228796,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9542100189272933
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.8880999417975195,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.8850291114948488,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Leicester",
+        "away_team": "Burnley",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.27300794493101943,
+        "current_motivation": 1.0,
+        "injury_impact": 0.951351923812926
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.8130194735771632,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.4380538343226792,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Tottenham",
+        "away_team": "Watford",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.2639206501109534,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8347865526567719
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.646946402248501,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.2857142857142858,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.24632939508843546,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Wolves",
+        "away_team": "Southampton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.563524653295618,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7312203042571184
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 0,
+        "conceded_per_match": 2,
+        "current_form": 0.27927245152635877,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.04761904761904767,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 2,
+        "conceded_per_match": 0,
+        "current_form": 0.8986166664251978,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Crystal Palace",
+        "away_team": "Man City",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.20297548697258064,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7239627199690305
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.8954404964722249,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.2850675251402216,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Man United",
+        "away_team": "Liverpool",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.30430112252375313,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9663581239501027
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 1,
+        "conceded_per_match": 0,
+        "current_form": 0.4446339010849766,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 0,
+        "conceded_per_match": 1,
+        "current_form": 0.640673695290569,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Sheffield United",
+        "away_team": "Arsenal",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6265746991180485,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9460889210028552
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -9,
+        "goals_per_match": 0,
+        "conceded_per_match": 9,
+        "current_form": 0.38843425251248054,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 9,
+        "goals_per_match": 9,
+        "conceded_per_match": 0,
+        "current_form": 0.41928029602629724,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Southampton",
+        "away_team": "Leicester",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7087147371583309,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7050542146333929
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 9,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 3,
+        "goals_per_match": 3,
+        "conceded_per_match": 0,
+        "current_form": 0.4803435600249346,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.3
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -3,
+        "goals_per_match": 0,
+        "conceded_per_match": 3,
+        "current_form": 0.7978344194104992,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "context": {
+        "home_team": "Man City",
+        "away_team": "Aston Villa",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.7256281412245864,
+        "current_motivation": 1.0,
+        "injury_impact": 0.91213897668535
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 3,
+        "conceded_per_match": 2,
+        "current_form": 0.8047480449111872,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 2,
+        "conceded_per_match": 3,
+        "current_form": 0.7800246334445602,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Brighton",
+        "away_team": "Everton",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.7813083349569703,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8949893974716595
+      },
+      "actual_result": {
+        "home_goals": 3,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.6306999572390457,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 0,
+        "conceded_per_match": 0,
+        "current_form": 0.6952546332153492,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 1.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Watford",
+        "away_team": "Bournemouth",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.31797493478917543,
+        "current_motivation": 1.0,
+        "injury_impact": 0.911872608090512
+      },
+      "actual_result": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.6430099545134158,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.8848895459271662,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.16666666666666674,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "West Ham",
+        "away_team": "Sheffield United",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.4070307875864232,
+        "current_motivation": 1.0,
+        "injury_impact": 0.7831381992614155
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 2,
+        "conceded_per_match": 4,
+        "current_form": 0.3720433125116099,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 4,
+        "conceded_per_match": 2,
+        "current_form": 0.7247185385934629,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Burnley",
+        "away_team": "Chelsea",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.48301365609526486,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8482411924425357
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 4,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.810993564869269,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 1,
+        "conceded_per_match": 1,
+        "current_form": 0.4514875280852433,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.23076923076923073,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Newcastle",
+        "away_team": "Wolves",
+        "home_advantage": 1.15,
+        "match_importance": 1.0,
+        "season_stage": 0.38224819254679787,
+        "current_motivation": 1.0,
+        "injury_impact": 0.9140891348810571
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.24235783790100437,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "opponent_metrics": {
+        "points_per_match": 1.0,
+        "win_rate": 0.0,
+        "goal_difference": 0,
+        "goals_per_match": 2,
+        "conceded_per_match": 2,
+        "current_form": 0.27009820577581245,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.0
+      },
+      "context": {
+        "home_team": "Arsenal",
+        "away_team": "Crystal Palace",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.6247118367085895,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8393992328835228
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 2,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 1,
+        "goals_per_match": 2,
+        "conceded_per_match": 1,
+        "current_form": 0.21516441849876464,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.09090909090909083,
+        "motivation_factor": 1.1
+      },
+      "opponent_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -1,
+        "goals_per_match": 1,
+        "conceded_per_match": 2,
+        "current_form": 0.6908975055457696,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.04761904761904767,
+        "motivation_factor": 0.9
+      },
+      "context": {
+        "home_team": "Liverpool",
+        "away_team": "Tottenham",
+        "home_advantage": 1.15,
+        "match_importance": 1.5,
+        "season_stage": 0.5032659598020223,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8740494774596761
+      },
+      "actual_result": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    },
+    {
+      "team_metrics": {
+        "points_per_match": 0.0,
+        "win_rate": 0.0,
+        "goal_difference": -2,
+        "goals_per_match": 1,
+        "conceded_per_match": 3,
+        "current_form": 0.8566300068546604,
+        "home_advantage": 1.15,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 0.7
+      },
+      "opponent_metrics": {
+        "points_per_match": 3.0,
+        "win_rate": 1.0,
+        "goal_difference": 2,
+        "goals_per_match": 3,
+        "conceded_per_match": 1,
+        "current_form": 0.6218206502649245,
+        "away_advantage": 0.85,
+        "defensive_efficiency": 0.0,
+        "motivation_factor": 1.3
+      },
+      "context": {
+        "home_team": "Norwich",
+        "away_team": "Man United",
+        "home_advantage": 1.15,
+        "match_importance": 1.2,
+        "season_stage": 0.25451778421330423,
+        "current_motivation": 1.0,
+        "injury_impact": 0.8593942213869632
+      },
+      "actual_result": {
+        "home_goals": 1,
+        "away_goals": 3,
+        "match_played": true
+      },
+      "season_context": {
+        "is_historical": true,
+        "season_weight": 0.7,
+        "temporal_adjustment": 0.8
+      }
+    }
+  ]
+}

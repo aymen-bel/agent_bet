@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,Season
+12/09/2020,Fulham,Arsenal,2020
+12/09/2020,Crystal Palace,Southampton,2020
+12/09/2020,Liverpool,Leeds,2020
+12/09/2020,West Ham,Newcastle,2020
+13/09/2020,West Brom,Leicester,2020
+13/09/2020,Tottenham,Everton,2020
+14/09/2020,Brighton,Chelsea,2020
+14/09/2020,Sheffield United,Wolves,2020
+19/09/2020,Everton,West Brom,2020
+19/09/2020,Leeds,Fulham,2020
+19/09/2020,Man United,Crystal Palace,2020
+19/09/2020,Arsenal,West Ham,2020
+20/09/2020,Southampton,Tottenham,2020
+20/09/2020,Newcastle,Brighton,2020
+20/09/2020,Chelsea,Liverpool,2020
+20/09/2020,Leicester,Burnley,2020
+21/09/2020,Aston Villa,Sheffield United,2020
+21/09/2020,Wolves,Man City,2020
+26/09/2020,Brighton,Man United,2020
+26/09/2020,Crystal Palace,Everton,2020
+26/09/2020,West Brom,Chelsea,2020
+26/09/2020,Burnley,Southampton,2020
+27/09/2020,Sheffield United,Leeds,2020
+27/09/2020,Tottenham,Newcastle,2020
+27/09/2020,Man City,Leicester,2020
+27/09/2020,West Ham,Wolves,2020
+28/09/2020,Fulham,Aston Villa,2020
+28/09/2020,Liverpool,Arsenal,2020
+03/10/2020,Chelsea,Crystal Palace,2020
+03/10/2020,Everton,Brighton,2020
+03/10/2020,Leeds,Man City,2020
+03/10/2020,Newcastle,Burnley,2020
+04/10/2020,Leicester,West Ham,2020
+04/10/2020,Southampton,West Brom,2020
+04/10/2020,Arsenal,Sheffield United,2020
+04/10/2020,Wolves,Fulham,2020
+04/10/2020,Man United,Tottenham,2020
+04/10/2020,Aston Villa,Liverpool,2020
+17/10/2020,Everton,Liverpool,2020
+17/10/2020,Chelsea,Southampton,2020
+17/10/2020,Man City,Arsenal,2020
+17/10/2020,Newcastle,Man United,2020
+18/10/2020,Sheffield United,Fulham,2020
+18/10/2020,Crystal Palace,Brighton,2020
+18/10/2020,Tottenham,West Ham,2020
+18/10/2020,Leicester,Aston Villa,2020
+19/10/2020,West Brom,Burnley,2020
+19/10/2020,Leeds,Wolves,2020
+23/10/2020,Aston Villa,Leeds,2020
+24/10/2020,West Ham,Man City,2020
+24/10/2020,Fulham,Crystal Palace,2020
+24/10/2020,Man United,Chelsea,2020
+24/10/2020,Liverpool,Sheffield United,2020
+25/10/2020,Southampton,Everton,2020
+25/10/2020,Wolves,Newcastle,2020
+25/10/2020,Arsenal,Leicester,2020
+26/10/2020,Brighton,West Brom,2020
+26/10/2020,Burnley,Tottenham,2020
+30/10/2020,Wolves,Crystal Palace,2020
+31/10/2020,Sheffield United,Man City,2020
+31/10/2020,Burnley,Chelsea,2020
+31/10/2020,Liverpool,West Ham,2020
+01/11/2020,Aston Villa,Southampton,2020
+01/11/2020,Newcastle,Everton,2020
+01/11/2020,Man United,Arsenal,2020
+01/11/2020,Tottenham,Brighton,2020
+02/11/2020,Fulham,West Brom,2020
+02/11/2020,Leeds,Leicester,2020
+06/11/2020,Brighton,Burnley,2020
+06/11/2020,Southampton,Newcastle,2020
+07/11/2020,Everton,Man United,2020
+07/11/2020,Crystal Palace,Leeds,2020
+07/11/2020,Chelsea,Sheffield United,2020
+07/11/2020,West Ham,Fulham,2020
+08/11/2020,West Brom,Tottenham,2020
+08/11/2020,Leicester,Wolves,2020
+08/11/2020,Man City,Liverpool,2020
+08/11/2020,Arsenal,Aston Villa,2020
+21/11/2020,Newcastle,Chelsea,2020
+21/11/2020,Aston Villa,Brighton,2020
+21/11/2020,Tottenham,Man City,2020
+21/11/2020,Man United,West Brom,2020
+22/11/2020,Fulham,Everton,2020
+22/11/2020,Sheffield United,West Ham,2020
+22/11/2020,Leeds,Arsenal,2020
+22/11/2020,Liverpool,Leicester,2020
+23/11/2020,Burnley,Crystal Palace,2020
+23/11/2020,Wolves,Southampton,2020
+27/11/2020,Crystal Palace,Newcastle,2020
+28/11/2020,Brighton,Liverpool,2020
+28/11/2020,Man City,Burnley,2020
+28/11/2020,Everton,Leeds,2020
+28/11/2020,West Brom,Sheffield United,2020
+29/11/2020,Southampton,Man United,2020
+29/11/2020,Chelsea,Tottenham,2020
+29/11/2020,Arsenal,Wolves,2020
+30/11/2020,Leicester,Fulham,2020
+30/11/2020,West Ham,Aston Villa,2020
+05/12/2020,Burnley,Everton,2020
+05/12/2020,Man City,Fulham,2020
+05/12/2020,West Ham,Man United,2020
+05/12/2020,Chelsea,Leeds,2020
+06/12/2020,West Brom,Crystal Palace,2020
+06/12/2020,Sheffield United,Leicester,2020
+06/12/2020,Tottenham,Arsenal,2020
+06/12/2020,Liverpool,Wolves,2020
+07/12/2020,Brighton,Southampton,2020
+11/12/2020,Leeds,West Ham,2020
+12/12/2020,Wolves,Aston Villa,2020
+12/12/2020,Newcastle,West Brom,2020
+12/12/2020,Man United,Man City,2020
+12/12/2020,Everton,Chelsea,2020
+13/12/2020,Southampton,Sheffield United,2020
+13/12/2020,Crystal Palace,Tottenham,2020
+13/12/2020,Fulham,Liverpool,2020
+13/12/2020,Arsenal,Burnley,2020
+13/12/2020,Leicester,Brighton,2020
+15/12/2020,Wolves,Chelsea,2020
+15/12/2020,Man City,West Brom,2020
+16/12/2020,Arsenal,Southampton,2020
+16/12/2020,Leeds,Newcastle,2020
+16/12/2020,Leicester,Everton,2020
+16/12/2020,Fulham,Brighton,2020
+16/12/2020,Liverpool,Tottenham,2020
+16/12/2020,West Ham,Crystal Palace,2020
+17/12/2020,Aston Villa,Burnley,2020
+17/12/2020,Sheffield United,Man United,2020
+19/12/2020,Crystal Palace,Liverpool,2020
+19/12/2020,Southampton,Man City,2020
+19/12/2020,Everton,Arsenal,2020
+19/12/2020,Newcastle,Fulham,2020
+20/12/2020,Brighton,Sheffield United,2020
+20/12/2020,Tottenham,Leicester,2020
+20/12/2020,Man United,Leeds,2020
+20/12/2020,West Brom,Aston Villa,2020
+21/12/2020,Burnley,Wolves,2020
+21/12/2020,Chelsea,West Ham,2020
+26/12/2020,Leicester,Man United,2020
+26/12/2020,Aston Villa,Crystal Palace,2020
+26/12/2020,Fulham,Southampton,2020
+26/12/2020,Arsenal,Chelsea,2020
+26/12/2020,Man City,Newcastle,2020
+26/12/2020,Sheffield United,Everton,2020
+27/12/2020,Leeds,Burnley,2020
+27/12/2020,West Ham,Brighton,2020
+27/12/2020,Liverpool,West Brom,2020
+27/12/2020,Wolves,Tottenham,2020
+28/12/2020,Crystal Palace,Leicester,2020
+28/12/2020,Chelsea,Aston Villa,2020
+29/12/2020,Brighton,Arsenal,2020
+29/12/2020,Burnley,Sheffield United,2020
+29/12/2020,Southampton,West Ham,2020
+29/12/2020,West Brom,Leeds,2020
+29/12/2020,Man United,Wolves,2020
+30/12/2020,Newcastle,Liverpool,2020
+01/01/2021,Everton,West Ham,2020
+01/01/2021,Man United,Aston Villa,2020
+02/01/2021,Tottenham,Leeds,2020
+02/01/2021,Crystal Palace,Sheffield United,2020
+02/01/2021,Brighton,Wolves,2020
+02/01/2021,West Brom,Arsenal,2020
+03/01/2021,Newcastle,Leicester,2020
+03/01/2021,Chelsea,Man City,2020
+04/01/2021,Southampton,Liverpool,2020
+12/01/2021,Sheffield United,Newcastle,2020
+12/01/2021,Burnley,Man United,2020
+12/01/2021,Wolves,Everton,2020
+13/01/2021,Man City,Brighton,2020
+13/01/2021,Tottenham,Fulham,2020
+14/01/2021,Arsenal,Crystal Palace,2020
+16/01/2021,Wolves,West Brom,2020
+16/01/2021,Leeds,Brighton,2020
+16/01/2021,West Ham,Burnley,2020
+16/01/2021,Fulham,Chelsea,2020
+16/01/2021,Leicester,Southampton,2020
+17/01/2021,Sheffield United,Tottenham,2020
+17/01/2021,Liverpool,Man United,2020
+17/01/2021,Man City,Crystal Palace,2020
+18/01/2021,Arsenal,Newcastle,2020
+19/01/2021,West Ham,West Brom,2020
+19/01/2021,Leicester,Chelsea,2020
+20/01/2021,Man City,Aston Villa,2020
+20/01/2021,Fulham,Man United,2020
+21/01/2021,Liverpool,Burnley,2020
+23/01/2021,Aston Villa,Newcastle,2020
+26/01/2021,Crystal Palace,West Ham,2020
+26/01/2021,Newcastle,Leeds,2020
+26/01/2021,Southampton,Arsenal,2020
+26/01/2021,West Brom,Man City,2020
+27/01/2021,Burnley,Aston Villa,2020
+27/01/2021,Chelsea,Wolves,2020
+27/01/2021,Brighton,Fulham,2020
+27/01/2021,Everton,Leicester,2020
+27/01/2021,Man United,Sheffield United,2020
+28/01/2021,Tottenham,Liverpool,2020
+30/01/2021,Everton,Newcastle,2020
+30/01/2021,Crystal Palace,Wolves,2020
+30/01/2021,Man City,Sheffield United,2020
+30/01/2021,West Brom,Fulham,2020
+30/01/2021,Arsenal,Man United,2020
+30/01/2021,Southampton,Aston Villa,2020
+31/01/2021,Chelsea,Burnley,2020
+31/01/2021,Leicester,Leeds,2020
+31/01/2021,West Ham,Liverpool,2020
+31/01/2021,Brighton,Tottenham,2020
+02/02/2021,Sheffield United,West Brom,2020
+02/02/2021,Wolves,Arsenal,2020
+02/02/2021,Man United,Southampton,2020
+02/02/2021,Newcastle,Crystal Palace,2020
+03/02/2021,Burnley,Man City,2020
+03/02/2021,Fulham,Leicester,2020
+03/02/2021,Leeds,Everton,2020
+03/02/2021,Aston Villa,West Ham,2020
+03/02/2021,Liverpool,Brighton,2020
+04/02/2021,Tottenham,Chelsea,2020
+06/02/2021,Aston Villa,Arsenal,2020
+06/02/2021,Burnley,Brighton,2020
+06/02/2021,Newcastle,Southampton,2020
+06/02/2021,Fulham,West Ham,2020
+06/02/2021,Man United,Everton,2020
+07/02/2021,Tottenham,West Brom,2020
+07/02/2021,Wolves,Leicester,2020
+07/02/2021,Liverpool,Man City,2020
+07/02/2021,Sheffield United,Chelsea,2020
+08/02/2021,Leeds,Crystal Palace,2020
+13/02/2021,Leicester,Liverpool,2020
+13/02/2021,Crystal Palace,Burnley,2020
+13/02/2021,Man City,Tottenham,2020
+13/02/2021,Brighton,Aston Villa,2020
+14/02/2021,Southampton,Wolves,2020
+14/02/2021,West Brom,Man United,2020
+14/02/2021,Arsenal,Leeds,2020
+14/02/2021,Everton,Fulham,2020
+15/02/2021,West Ham,Sheffield United,2020
+15/02/2021,Chelsea,Newcastle,2020
+17/02/2021,Burnley,Fulham,2020
+17/02/2021,Everton,Man City,2020
+19/02/2021,Wolves,Leeds,2020
+20/02/2021,Southampton,Chelsea,2020
+20/02/2021,Burnley,West Brom,2020
+20/02/2021,Liverpool,Everton,2020
+20/02/2021,Fulham,Sheffield United,2020
+21/02/2021,West Ham,Tottenham,2020
+21/02/2021,Aston Villa,Leicester,2020
+21/02/2021,Arsenal,Man City,2020
+21/02/2021,Man United,Newcastle,2020
+22/02/2021,Brighton,Crystal Palace,2020
+23/02/2021,Leeds,Southampton,2020
+27/02/2021,Man City,West Ham,2020
+27/02/2021,West Brom,Brighton,2020
+27/02/2021,Leeds,Aston Villa,2020
+27/02/2021,Newcastle,Wolves,2020
+28/02/2021,Crystal Palace,Fulham,2020
+28/02/2021,Leicester,Arsenal,2020
+28/02/2021,Tottenham,Burnley,2020
+28/02/2021,Chelsea,Man United,2020
+28/02/2021,Sheffield United,Liverpool,2020
+01/03/2021,Everton,Southampton,2020
+02/03/2021,Man City,Wolves,2020
+03/03/2021,Burnley,Leicester,2020
+03/03/2021,Sheffield United,Aston Villa,2020
+03/03/2021,Crystal Palace,Man United,2020
+04/03/2021,Fulham,Tottenham,2020
+04/03/2021,West Brom,Everton,2020
+04/03/2021,Liverpool,Chelsea,2020
+06/03/2021,Burnley,Arsenal,2020
+06/03/2021,Sheffield United,Southampton,2020
+06/03/2021,Aston Villa,Wolves,2020
+06/03/2021,Brighton,Leicester,2020
+07/03/2021,West Brom,Newcastle,2020
+07/03/2021,Liverpool,Fulham,2020
+07/03/2021,Man City,Man United,2020
+07/03/2021,Tottenham,Crystal Palace,2020
+08/03/2021,Chelsea,Everton,2020
+08/03/2021,West Ham,Leeds,2020
+10/03/2021,Man City,Southampton,2020
+12/03/2021,Newcastle,Aston Villa,2020
+13/03/2021,Leeds,Chelsea,2020
+13/03/2021,Crystal Palace,West Brom,2020
+13/03/2021,Everton,Burnley,2020
+13/03/2021,Fulham,Man City,2020
+14/03/2021,Southampton,Brighton,2020
+14/03/2021,Leicester,Sheffield United,2020
+14/03/2021,Arsenal,Tottenham,2020
+14/03/2021,Man United,West Ham,2020
+15/03/2021,Wolves,Liverpool,2020
+19/03/2021,Fulham,Leeds,2020
+20/03/2021,Brighton,Newcastle,2020
+21/03/2021,West Ham,Arsenal,2020
+21/03/2021,Aston Villa,Tottenham,2020
+03/04/2021,Chelsea,West Brom,2020
+03/04/2021,Leeds,Sheffield United,2020
+03/04/2021,Leicester,Man City,2020
+03/04/2021,Arsenal,Liverpool,2020
+04/04/2021,Southampton,Burnley,2020
+04/04/2021,Newcastle,Tottenham,2020
+04/04/2021,Aston Villa,Fulham,2020
+04/04/2021,Man United,Brighton,2020
+05/04/2021,Everton,Crystal Palace,2020
+05/04/2021,Wolves,West Ham,2020
+09/04/2021,Fulham,Wolves,2020
+10/04/2021,Man City,Leeds,2020
+10/04/2021,Liverpool,Aston Villa,2020
+10/04/2021,Crystal Palace,Chelsea,2020
+11/04/2021,Burnley,Newcastle,2020
+11/04/2021,West Ham,Leicester,2020
+11/04/2021,Tottenham,Man United,2020
+11/04/2021,Sheffield United,Arsenal,2020
+12/04/2021,West Brom,Southampton,2020
+12/04/2021,Brighton,Everton,2020
+16/04/2021,Everton,Tottenham,2020
+17/04/2021,Newcastle,West Ham,2020
+17/04/2021,Wolves,Sheffield United,2020
+18/04/2021,Arsenal,Fulham,2020
+18/04/2021,Man United,Burnley,2020
+19/04/2021,Leeds,Liverpool,2020
+20/04/2021,Chelsea,Brighton,2020
+21/04/2021,Tottenham,Southampton,2020
+21/04/2021,Aston Villa,Man City,2020
+22/04/2021,Leicester,West Brom,2020
+23/04/2021,Arsenal,Everton,2020
+24/04/2021,Liverpool,Newcastle,2020
+24/04/2021,West Ham,Chelsea,2020
+24/04/2021,Sheffield United,Brighton,2020
+25/04/2021,Wolves,Burnley,2020
+25/04/2021,Leeds,Man United,2020
+25/04/2021,Aston Villa,West Brom,2020
+26/04/2021,Leicester,Crystal Palace,2020
+30/04/2021,Southampton,Leicester,2020
+01/05/2021,Crystal Palace,Man City,2020
+01/05/2021,Brighton,Leeds,2020
+01/05/2021,Chelsea,Fulham,2020
+01/05/2021,Everton,Aston Villa,2020
+02/05/2021,Newcastle,Arsenal,2020
+02/05/2021,Tottenham,Sheffield United,2020
+03/05/2021,West Brom,Wolves,2020
+03/05/2021,Burnley,West Ham,2020
+07/05/2021,Leicester,Newcastle,2020
+08/05/2021,Leeds,Tottenham,2020
+08/05/2021,Sheffield United,Crystal Palace,2020
+08/05/2021,Man City,Chelsea,2020
+08/05/2021,Liverpool,Southampton,2020
+09/05/2021,Wolves,Brighton,2020
+09/05/2021,Aston Villa,Man United,2020
+09/05/2021,West Ham,Everton,2020
+09/05/2021,Arsenal,West Brom,2020
+10/05/2021,Fulham,Burnley,2020
+11/05/2021,Man United,Leicester,2020
+11/05/2021,Southampton,Crystal Palace,2020
+12/05/2021,Chelsea,Arsenal,2020
+13/05/2021,Aston Villa,Everton,2020
+13/05/2021,Man United,Liverpool,2020
+14/05/2021,Newcastle,Man City,2020
+15/05/2021,Burnley,Leeds,2020
+15/05/2021,Southampton,Fulham,2020
+15/05/2021,Brighton,West Ham,2020
+16/05/2021,Crystal Palace,Aston Villa,2020
+16/05/2021,Tottenham,Wolves,2020
+16/05/2021,West Brom,Liverpool,2020
+16/05/2021,Everton,Sheffield United,2020
+18/05/2021,Man United,Fulham,2020
+18/05/2021,Southampton,Leeds,2020
+18/05/2021,Brighton,Man City,2020
+18/05/2021,Chelsea,Leicester,2020
+19/05/2021,Everton,Wolves,2020
+19/05/2021,Newcastle,Sheffield United,2020
+19/05/2021,Tottenham,Aston Villa,2020
+19/05/2021,Crystal Palace,Arsenal,2020
+19/05/2021,Burnley,Liverpool,2020
+19/05/2021,West Brom,West Ham,2020
+23/05/2021,Arsenal,Brighton,2020
+23/05/2021,Aston Villa,Chelsea,2020
+23/05/2021,Fulham,Newcastle,2020
+23/05/2021,Leeds,West Brom,2020
+23/05/2021,Leicester,Tottenham,2020
+23/05/2021,Liverpool,Crystal Palace,2020
+23/05/2021,Man City,Everton,2020
+23/05/2021,Sheffield United,Burnley,2020
+23/05/2021,West Ham,Southampton,2020
+23/05/2021,Wolves,Man United,2020

@@ -1,0 +1,28 @@
+{
+  "episode_number": 88,
+  "timestamp": "2025-10-19T22:01:12.344643",
+  "reward_achieved": 0.42471677079366144,
+  "exploration_rate": 0.01,
+  "current_weights": {
+    "points_per_match": 0.0508,
+    "win_rate": 0.0501,
+    "goal_difference": 0.0504,
+    "shot_efficiency": 0.0513,
+    "conversion_rate": 0.0492,
+    "attacking_pressure": 0.0518,
+    "defensive_efficiency": 0.0486,
+    "clean_sheet_rate": 0.0513,
+    "goals_conceded_per_match": 0.0491,
+    "consistency_score": 0.0486,
+    "current_form": 0.052,
+    "form_momentum": 0.0532,
+    "motivation_factor": 0.0466,
+    "external_factor": 0.0496,
+    "home_advantage": 0.0461,
+    "opponent_strength": 0.0498,
+    "performance_trend": 0.051,
+    "pressure_handling": 0.0496,
+    "attacking_consistency": 0.0502,
+    "defensive_consistency": 0.0508
+  }
+}

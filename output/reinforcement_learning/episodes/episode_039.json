@@ -1,0 +1,28 @@
+{
+  "episode_number": 39,
+  "timestamp": "2025-10-19T22:01:02.706628",
+  "reward_achieved": 0.4365326087985321,
+  "exploration_rate": 0.01,
+  "current_weights": {
+    "points_per_match": 0.049,
+    "win_rate": 0.0488,
+    "goal_difference": 0.0516,
+    "shot_efficiency": 0.0509,
+    "conversion_rate": 0.0478,
+    "attacking_pressure": 0.0512,
+    "defensive_efficiency": 0.0526,
+    "clean_sheet_rate": 0.0506,
+    "goals_conceded_per_match": 0.0466,
+    "consistency_score": 0.0505,
+    "current_form": 0.0523,
+    "form_momentum": 0.05,
+    "motivation_factor": 0.0514,
+    "external_factor": 0.0497,
+    "home_advantage": 0.0494,
+    "opponent_strength": 0.0502,
+    "performance_trend": 0.048,
+    "pressure_handling": 0.0495,
+    "attacking_consistency": 0.0471,
+    "defensive_consistency": 0.0527
+  }
+}

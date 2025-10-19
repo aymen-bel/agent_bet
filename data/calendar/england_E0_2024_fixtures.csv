@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,Season
+16/08/2024,Man United,Fulham,2024
+17/08/2024,Ipswich,Liverpool,2024
+17/08/2024,Arsenal,Wolves,2024
+17/08/2024,Everton,Brighton,2024
+17/08/2024,Newcastle,Southampton,2024
+17/08/2024,Nott'm Forest,Bournemouth,2024
+17/08/2024,West Ham,Aston Villa,2024
+18/08/2024,Brentford,Crystal Palace,2024
+18/08/2024,Chelsea,Man City,2024
+19/08/2024,Leicester,Tottenham,2024
+24/08/2024,Brighton,Man United,2024
+24/08/2024,Crystal Palace,West Ham,2024
+24/08/2024,Fulham,Leicester,2024
+24/08/2024,Man City,Ipswich,2024
+24/08/2024,Southampton,Nott'm Forest,2024
+24/08/2024,Tottenham,Everton,2024
+24/08/2024,Aston Villa,Arsenal,2024
+25/08/2024,Bournemouth,Newcastle,2024
+25/08/2024,Wolves,Chelsea,2024
+25/08/2024,Liverpool,Brentford,2024
+31/08/2024,Arsenal,Brighton,2024
+31/08/2024,Brentford,Southampton,2024
+31/08/2024,Everton,Bournemouth,2024
+31/08/2024,Ipswich,Fulham,2024
+31/08/2024,Leicester,Aston Villa,2024
+31/08/2024,Nott'm Forest,Wolves,2024
+31/08/2024,West Ham,Man City,2024
+01/09/2024,Chelsea,Crystal Palace,2024
+01/09/2024,Newcastle,Tottenham,2024
+01/09/2024,Man United,Liverpool,2024
+14/09/2024,Southampton,Man United,2024
+14/09/2024,Brighton,Ipswich,2024
+14/09/2024,Crystal Palace,Leicester,2024
+14/09/2024,Fulham,West Ham,2024
+14/09/2024,Liverpool,Nott'm Forest,2024
+14/09/2024,Man City,Brentford,2024
+14/09/2024,Aston Villa,Everton,2024
+14/09/2024,Bournemouth,Chelsea,2024
+15/09/2024,Tottenham,Arsenal,2024
+15/09/2024,Wolves,Newcastle,2024
+21/09/2024,West Ham,Chelsea,2024
+21/09/2024,Aston Villa,Wolves,2024
+21/09/2024,Fulham,Newcastle,2024
+21/09/2024,Leicester,Everton,2024
+21/09/2024,Liverpool,Bournemouth,2024
+21/09/2024,Southampton,Ipswich,2024
+21/09/2024,Tottenham,Brentford,2024
+21/09/2024,Crystal Palace,Man United,2024
+22/09/2024,Brighton,Nott'm Forest,2024
+22/09/2024,Man City,Arsenal,2024
+28/09/2024,Newcastle,Man City,2024
+28/09/2024,Arsenal,Leicester,2024
+28/09/2024,Brentford,West Ham,2024
+28/09/2024,Chelsea,Brighton,2024
+28/09/2024,Everton,Crystal Palace,2024
+28/09/2024,Nott'm Forest,Fulham,2024
+28/09/2024,Wolves,Liverpool,2024
+29/09/2024,Ipswich,Aston Villa,2024
+29/09/2024,Man United,Tottenham,2024
+30/09/2024,Bournemouth,Southampton,2024
+05/10/2024,Crystal Palace,Liverpool,2024
+05/10/2024,Arsenal,Southampton,2024
+05/10/2024,Brentford,Wolves,2024
+05/10/2024,Leicester,Bournemouth,2024
+05/10/2024,Man City,Fulham,2024
+05/10/2024,West Ham,Ipswich,2024
+05/10/2024,Everton,Newcastle,2024
+06/10/2024,Aston Villa,Man United,2024
+06/10/2024,Chelsea,Nott'm Forest,2024
+06/10/2024,Brighton,Tottenham,2024
+19/10/2024,Tottenham,West Ham,2024
+19/10/2024,Fulham,Aston Villa,2024
+19/10/2024,Ipswich,Everton,2024
+19/10/2024,Man United,Brentford,2024
+19/10/2024,Newcastle,Brighton,2024
+19/10/2024,Southampton,Leicester,2024
+19/10/2024,Bournemouth,Arsenal,2024
+20/10/2024,Wolves,Man City,2024
+20/10/2024,Liverpool,Chelsea,2024
+21/10/2024,Nott'm Forest,Crystal Palace,2024
+25/10/2024,Leicester,Nott'm Forest,2024
+26/10/2024,Aston Villa,Bournemouth,2024
+26/10/2024,Brentford,Ipswich,2024
+26/10/2024,Brighton,Wolves,2024
+26/10/2024,Man City,Southampton,2024
+26/10/2024,Everton,Fulham,2024
+27/10/2024,Chelsea,Newcastle,2024
+27/10/2024,Crystal Palace,Tottenham,2024
+27/10/2024,West Ham,Man United,2024
+27/10/2024,Arsenal,Liverpool,2024
+02/11/2024,Newcastle,Arsenal,2024
+02/11/2024,Bournemouth,Man City,2024
+02/11/2024,Ipswich,Leicester,2024
+02/11/2024,Liverpool,Brighton,2024
+02/11/2024,Nott'm Forest,West Ham,2024
+02/11/2024,Southampton,Everton,2024
+02/11/2024,Wolves,Crystal Palace,2024
+03/11/2024,Tottenham,Aston Villa,2024
+03/11/2024,Man United,Chelsea,2024
+04/11/2024,Fulham,Brentford,2024
+09/11/2024,Brentford,Bournemouth,2024
+09/11/2024,Crystal Palace,Fulham,2024
+09/11/2024,West Ham,Everton,2024
+09/11/2024,Wolves,Southampton,2024
+09/11/2024,Brighton,Man City,2024
+09/11/2024,Liverpool,Aston Villa,2024
+10/11/2024,Man United,Leicester,2024
+10/11/2024,Nott'm Forest,Newcastle,2024
+10/11/2024,Tottenham,Ipswich,2024
+10/11/2024,Chelsea,Arsenal,2024
+23/11/2024,Leicester,Chelsea,2024
+23/11/2024,Arsenal,Nott'm Forest,2024
+23/11/2024,Aston Villa,Crystal Palace,2024
+23/11/2024,Bournemouth,Brighton,2024
+23/11/2024,Everton,Brentford,2024
+23/11/2024,Fulham,Wolves,2024
+23/11/2024,Man City,Tottenham,2024
+24/11/2024,Southampton,Liverpool,2024
+24/11/2024,Ipswich,Man United,2024
+25/11/2024,Newcastle,West Ham,2024
+29/11/2024,Brighton,Southampton,2024
+30/11/2024,Brentford,Leicester,2024
+30/11/2024,Crystal Palace,Newcastle,2024
+30/11/2024,Nott'm Forest,Ipswich,2024
+30/11/2024,Wolves,Bournemouth,2024
+30/11/2024,West Ham,Arsenal,2024
+01/12/2024,Chelsea,Aston Villa,2024
+01/12/2024,Man United,Everton,2024
+01/12/2024,Tottenham,Fulham,2024
+01/12/2024,Liverpool,Man City,2024
+03/12/2024,Ipswich,Crystal Palace,2024
+03/12/2024,Leicester,West Ham,2024
+04/12/2024,Everton,Wolves,2024
+04/12/2024,Man City,Nott'm Forest,2024
+04/12/2024,Newcastle,Liverpool,2024
+04/12/2024,Southampton,Chelsea,2024
+04/12/2024,Arsenal,Man United,2024
+04/12/2024,Aston Villa,Brentford,2024
+05/12/2024,Fulham,Brighton,2024
+05/12/2024,Bournemouth,Tottenham,2024
+07/12/2024,Aston Villa,Southampton,2024
+07/12/2024,Brentford,Newcastle,2024
+07/12/2024,Crystal Palace,Man City,2024
+07/12/2024,Man United,Nott'm Forest,2024
+08/12/2024,Fulham,Arsenal,2024
+08/12/2024,Ipswich,Bournemouth,2024
+08/12/2024,Leicester,Brighton,2024
+08/12/2024,Tottenham,Chelsea,2024
+09/12/2024,West Ham,Wolves,2024
+14/12/2024,Arsenal,Everton,2024
+14/12/2024,Liverpool,Fulham,2024
+14/12/2024,Newcastle,Leicester,2024
+14/12/2024,Wolves,Ipswich,2024
+14/12/2024,Nott'm Forest,Aston Villa,2024
+15/12/2024,Brighton,Crystal Palace,2024
+15/12/2024,Man City,Man United,2024
+15/12/2024,Chelsea,Brentford,2024
+15/12/2024,Southampton,Tottenham,2024
+16/12/2024,Bournemouth,West Ham,2024
+21/12/2024,Aston Villa,Man City,2024
+21/12/2024,Brentford,Nott'm Forest,2024
+21/12/2024,Ipswich,Newcastle,2024
+21/12/2024,West Ham,Brighton,2024
+21/12/2024,Crystal Palace,Arsenal,2024
+22/12/2024,Everton,Chelsea,2024
+22/12/2024,Fulham,Southampton,2024
+22/12/2024,Leicester,Wolves,2024
+22/12/2024,Man United,Bournemouth,2024
+22/12/2024,Tottenham,Liverpool,2024
+26/12/2024,Man City,Everton,2024
+26/12/2024,Bournemouth,Crystal Palace,2024
+26/12/2024,Chelsea,Fulham,2024
+26/12/2024,Newcastle,Aston Villa,2024
+26/12/2024,Nott'm Forest,Tottenham,2024
+26/12/2024,Southampton,West Ham,2024
+26/12/2024,Wolves,Man United,2024
+26/12/2024,Liverpool,Leicester,2024
+27/12/2024,Brighton,Brentford,2024
+27/12/2024,Arsenal,Ipswich,2024
+29/12/2024,Leicester,Man City,2024
+29/12/2024,Crystal Palace,Southampton,2024
+29/12/2024,Everton,Nott'm Forest,2024
+29/12/2024,Fulham,Bournemouth,2024
+29/12/2024,Tottenham,Wolves,2024
+29/12/2024,West Ham,Liverpool,2024
+30/12/2024,Aston Villa,Brighton,2024
+30/12/2024,Ipswich,Chelsea,2024
+30/12/2024,Man United,Newcastle,2024
+01/01/2025,Brentford,Arsenal,2024
+04/01/2025,Tottenham,Newcastle,2024
+04/01/2025,Aston Villa,Leicester,2024
+04/01/2025,Bournemouth,Everton,2024
+04/01/2025,Crystal Palace,Chelsea,2024
+04/01/2025,Man City,West Ham,2024
+04/01/2025,Southampton,Brentford,2024
+04/01/2025,Brighton,Arsenal,2024
+05/01/2025,Fulham,Ipswich,2024
+05/01/2025,Liverpool,Man United,2024
+06/01/2025,Wolves,Nott'm Forest,2024
+14/01/2025,Brentford,Man City,2024
+14/01/2025,Chelsea,Bournemouth,2024
+14/01/2025,West Ham,Fulham,2024
+14/01/2025,Nott'm Forest,Liverpool,2024
+15/01/2025,Everton,Aston Villa,2024
+15/01/2025,Leicester,Crystal Palace,2024
+15/01/2025,Newcastle,Wolves,2024
+15/01/2025,Arsenal,Tottenham,2024
+16/01/2025,Ipswich,Brighton,2024
+16/01/2025,Man United,Southampton,2024
+18/01/2025,Newcastle,Bournemouth,2024
+18/01/2025,Brentford,Liverpool,2024
+18/01/2025,Leicester,Fulham,2024
+18/01/2025,West Ham,Crystal Palace,2024
+18/01/2025,Arsenal,Aston Villa,2024
+19/01/2025,Everton,Tottenham,2024
+19/01/2025,Man United,Brighton,2024
+19/01/2025,Nott'm Forest,Southampton,2024
+19/01/2025,Ipswich,Man City,2024
+20/01/2025,Chelsea,Wolves,2024
+25/01/2025,Bournemouth,Nott'm Forest,2024
+25/01/2025,Brighton,Everton,2024
+25/01/2025,Liverpool,Ipswich,2024
+25/01/2025,Southampton,Newcastle,2024
+25/01/2025,Wolves,Arsenal,2024
+25/01/2025,Man City,Chelsea,2024
+26/01/2025,Crystal Palace,Brentford,2024
+26/01/2025,Tottenham,Leicester,2024
+26/01/2025,Aston Villa,West Ham,2024
+26/01/2025,Fulham,Man United,2024
+01/02/2025,Nott'm Forest,Brighton,2024
+01/02/2025,Bournemouth,Liverpool,2024
+01/02/2025,Everton,Leicester,2024
+01/02/2025,Ipswich,Southampton,2024
+01/02/2025,Newcastle,Fulham,2024
+01/02/2025,Wolves,Aston Villa,2024
+02/02/2025,Brentford,Tottenham,2024
+02/02/2025,Man United,Crystal Palace,2024
+02/02/2025,Arsenal,Man City,2024
+03/02/2025,Chelsea,West Ham,2024
+12/02/2025,Everton,Liverpool,2024
+14/02/2025,Brighton,Chelsea,2024
+15/02/2025,Leicester,Arsenal,2024
+15/02/2025,Aston Villa,Ipswich,2024
+15/02/2025,Fulham,Nott'm Forest,2024
+15/02/2025,Man City,Newcastle,2024
+15/02/2025,Southampton,Bournemouth,2024
+15/02/2025,West Ham,Brentford,2024
+15/02/2025,Crystal Palace,Everton,2024
+16/02/2025,Liverpool,Wolves,2024
+16/02/2025,Tottenham,Man United,2024
+19/02/2025,Aston Villa,Liverpool,2024
+21/02/2025,Leicester,Brentford,2024
+22/02/2025,Everton,Man United,2024
+22/02/2025,Arsenal,West Ham,2024
+22/02/2025,Bournemouth,Wolves,2024
+22/02/2025,Fulham,Crystal Palace,2024
+22/02/2025,Ipswich,Tottenham,2024
+22/02/2025,Southampton,Brighton,2024
+22/02/2025,Aston Villa,Chelsea,2024
+23/02/2025,Newcastle,Nott'm Forest,2024
+23/02/2025,Man City,Liverpool,2024
+25/02/2025,Brighton,Bournemouth,2024
+25/02/2025,Crystal Palace,Aston Villa,2024
+25/02/2025,Wolves,Fulham,2024
+25/02/2025,Chelsea,Southampton,2024
+26/02/2025,Brentford,Everton,2024
+26/02/2025,Man United,Ipswich,2024
+26/02/2025,Nott'm Forest,Arsenal,2024
+26/02/2025,Tottenham,Man City,2024
+26/02/2025,Liverpool,Newcastle,2024
+27/02/2025,West Ham,Leicester,2024
+08/03/2025,Nott'm Forest,Man City,2024
+08/03/2025,Brighton,Fulham,2024
+08/03/2025,Crystal Palace,Ipswich,2024
+08/03/2025,Liverpool,Southampton,2024
+08/03/2025,Brentford,Aston Villa,2024
+08/03/2025,Wolves,Everton,2024
+09/03/2025,Chelsea,Leicester,2024
+09/03/2025,Tottenham,Bournemouth,2024
+09/03/2025,Man United,Arsenal,2024
+10/03/2025,West Ham,Newcastle,2024
+15/03/2025,Everton,West Ham,2024
+15/03/2025,Ipswich,Nott'm Forest,2024
+15/03/2025,Man City,Brighton,2024
+15/03/2025,Southampton,Wolves,2024
+15/03/2025,Bournemouth,Brentford,2024
+16/03/2025,Arsenal,Chelsea,2024
+16/03/2025,Fulham,Tottenham,2024
+16/03/2025,Leicester,Man United,2024
+01/04/2025,Arsenal,Fulham,2024
+01/04/2025,Wolves,West Ham,2024
+01/04/2025,Nott'm Forest,Man United,2024
+02/04/2025,Bournemouth,Ipswich,2024
+02/04/2025,Brighton,Aston Villa,2024
+02/04/2025,Man City,Leicester,2024
+02/04/2025,Newcastle,Brentford,2024
+02/04/2025,Southampton,Crystal Palace,2024
+02/04/2025,Liverpool,Everton,2024
+03/04/2025,Chelsea,Tottenham,2024
+05/04/2025,Everton,Arsenal,2024
+05/04/2025,Crystal Palace,Brighton,2024
+05/04/2025,Ipswich,Wolves,2024
+05/04/2025,West Ham,Bournemouth,2024
+05/04/2025,Aston Villa,Nott'm Forest,2024
+06/04/2025,Brentford,Chelsea,2024
+06/04/2025,Fulham,Liverpool,2024
+06/04/2025,Tottenham,Southampton,2024
+06/04/2025,Man United,Man City,2024
+07/04/2025,Leicester,Newcastle,2024
+12/04/2025,Man City,Crystal Palace,2024
+12/04/2025,Brighton,Leicester,2024
+12/04/2025,Nott'm Forest,Everton,2024
+12/04/2025,Southampton,Aston Villa,2024
+12/04/2025,Arsenal,Brentford,2024
+13/04/2025,Chelsea,Ipswich,2024
+13/04/2025,Liverpool,West Ham,2024
+13/04/2025,Wolves,Tottenham,2024
+13/04/2025,Newcastle,Man United,2024
+14/04/2025,Bournemouth,Fulham,2024
+16/04/2025,Newcastle,Crystal Palace,2024
+19/04/2025,Brentford,Brighton,2024
+19/04/2025,Crystal Palace,Bournemouth,2024
+19/04/2025,Everton,Man City,2024
+19/04/2025,West Ham,Southampton,2024
+19/04/2025,Aston Villa,Newcastle,2024
+20/04/2025,Fulham,Chelsea,2024
+20/04/2025,Ipswich,Arsenal,2024
+20/04/2025,Man United,Wolves,2024
+20/04/2025,Leicester,Liverpool,2024
+21/04/2025,Tottenham,Nott'm Forest,2024
+22/04/2025,Man City,Aston Villa,2024
+23/04/2025,Arsenal,Crystal Palace,2024
+26/04/2025,Chelsea,Everton,2024
+26/04/2025,Brighton,West Ham,2024
+26/04/2025,Newcastle,Ipswich,2024
+26/04/2025,Southampton,Fulham,2024
+26/04/2025,Wolves,Leicester,2024
+27/04/2025,Bournemouth,Man United,2024
+27/04/2025,Liverpool,Tottenham,2024
+01/05/2025,Nott'm Forest,Brentford,2024
+02/05/2025,Man City,Wolves,2024
+03/05/2025,Aston Villa,Fulham,2024
+03/05/2025,Everton,Ipswich,2024
+03/05/2025,Leicester,Southampton,2024
+03/05/2025,Arsenal,Bournemouth,2024
+04/05/2025,Brentford,Man United,2024
+04/05/2025,Brighton,Newcastle,2024
+04/05/2025,West Ham,Tottenham,2024
+04/05/2025,Chelsea,Liverpool,2024
+05/05/2025,Crystal Palace,Nott'm Forest,2024
+10/05/2025,Fulham,Everton,2024
+10/05/2025,Ipswich,Brentford,2024
+10/05/2025,Southampton,Man City,2024
+10/05/2025,Wolves,Brighton,2024
+10/05/2025,Bournemouth,Aston Villa,2024
+11/05/2025,Newcastle,Chelsea,2024
+11/05/2025,Man United,West Ham,2024
+11/05/2025,Nott'm Forest,Leicester,2024
+11/05/2025,Tottenham,Crystal Palace,2024
+11/05/2025,Liverpool,Arsenal,2024
+16/05/2025,Aston Villa,Tottenham,2024
+16/05/2025,Chelsea,Man United,2024
+18/05/2025,Everton,Southampton,2024
+18/05/2025,West Ham,Nott'm Forest,2024
+18/05/2025,Brentford,Fulham,2024
+18/05/2025,Leicester,Ipswich,2024
+18/05/2025,Arsenal,Newcastle,2024
+19/05/2025,Brighton,Liverpool,2024
+20/05/2025,Crystal Palace,Wolves,2024
+20/05/2025,Man City,Bournemouth,2024
+25/05/2025,Bournemouth,Leicester,2024
+25/05/2025,Fulham,Man City,2024
+25/05/2025,Ipswich,West Ham,2024
+25/05/2025,Liverpool,Crystal Palace,2024
+25/05/2025,Man United,Aston Villa,2024
+25/05/2025,Newcastle,Everton,2024
+25/05/2025,Nott'm Forest,Chelsea,2024
+25/05/2025,Southampton,Arsenal,2024
+25/05/2025,Tottenham,Brighton,2024
+25/05/2025,Wolves,Brentford,2024

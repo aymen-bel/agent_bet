@@ -1,0 +1,172 @@
+{
+  "fitness_history": [
+    0.4866496120045858,
+    0.49028098941019727,
+    0.48819537720121065,
+    0.4979223767803149,
+    0.49251919617485734,
+    0.4939115461111635,
+    0.4921798089964888,
+    0.49528554245671286,
+    0.48977672348277906,
+    0.49128280570388677,
+    0.49455771813651966,
+    0.4932238645307103,
+    0.4981646685855231,
+    0.4982677398935547,
+    0.4965417384401811,
+    0.49073398616696556,
+    0.49536006605561467,
+    0.4930998383721704,
+    0.4964927498150509,
+    0.49937578250985626,
+    0.4974151611872296,
+    0.5026232236607293,
+    0.499574262045113,
+    0.4981963921703248,
+    0.4948317578536922,
+    0.49648606154481045,
+    0.49715178900192974,
+    0.49205711784120365,
+    0.49864481435651514,
+    0.49323948656202893
+  ],
+  "best_individual": {
+    "points_per_match": 0.08117270614068114,
+    "win_rate": 0.09684716554130915,
+    "goal_difference": 0.07825083563245855,
+    "goals_per_match": 0.06929089445698983,
+    "conceded_per_match": 0.06426429875796001,
+    "shot_efficiency": 0.042848519835369143,
+    "conversion_rate": 0.06009731819866477,
+    "attacking_pressure": 0.02789997468832992,
+    "attacking_consistency": 0.03473260833132541,
+    "big_chances": 0.0206904815033387,
+    "defensive_efficiency": 0.0868350477028375,
+    "clean_sheet_rate": 0.02872910393497574,
+    "defensive_consistency": 0.02186784137859138,
+    "pressure_resistance": 0.021712727646053313,
+    "current_form": 0.05606450864170597,
+    "form_momentum": 0.020991674836938836,
+    "consistency_score": 0.018786048750697476,
+    "performance_trend": 0.020814743597418424,
+    "home_advantage": 0.0230224873444092,
+    "away_resilience": 0.0316789634025215,
+    "motivation_factor": 0.022638521643489957,
+    "external_factor": 0.017466580423377974,
+    "opponent_strength": 0.02182173172515501,
+    "match_importance": 0.016109091554822045,
+    "pressure_handling": 0.015366124330578875
+  },
+  "best_fitness": 0.5821580454139719,
+  "total_generations": 29,
+  "parameters": {
+    "population_size": 100,
+    "mutation_rate": 0.15,
+    "crossover_rate": 0.85,
+    "elite_size": 10
+  },
+  "weight_bounds": {
+    "points_per_match": [
+      0.05,
+      0.25
+    ],
+    "win_rate": [
+      0.05,
+      0.2
+    ],
+    "goal_difference": [
+      0.03,
+      0.15
+    ],
+    "goals_per_match": [
+      0.03,
+      0.12
+    ],
+    "conceded_per_match": [
+      0.03,
+      0.12
+    ],
+    "shot_efficiency": [
+      0.02,
+      0.1
+    ],
+    "conversion_rate": [
+      0.02,
+      0.1
+    ],
+    "attacking_pressure": [
+      0.01,
+      0.08
+    ],
+    "attacking_consistency": [
+      0.01,
+      0.08
+    ],
+    "big_chances": [
+      0.01,
+      0.06
+    ],
+    "defensive_efficiency": [
+      0.04,
+      0.18
+    ],
+    "clean_sheet_rate": [
+      0.02,
+      0.1
+    ],
+    "defensive_consistency": [
+      0.01,
+      0.08
+    ],
+    "pressure_resistance": [
+      0.01,
+      0.06
+    ],
+    "current_form": [
+      0.03,
+      0.12
+    ],
+    "form_momentum": [
+      0.01,
+      0.08
+    ],
+    "consistency_score": [
+      0.02,
+      0.1
+    ],
+    "performance_trend": [
+      0.01,
+      0.06
+    ],
+    "home_advantage": [
+      0.01,
+      0.08
+    ],
+    "away_resilience": [
+      0.01,
+      0.08
+    ],
+    "motivation_factor": [
+      0.01,
+      0.06
+    ],
+    "external_factor": [
+      0.005,
+      0.04
+    ],
+    "opponent_strength": [
+      0.01,
+      0.08
+    ],
+    "match_importance": [
+      0.005,
+      0.04
+    ],
+    "pressure_handling": [
+      0.005,
+      0.03
+    ]
+  },
+  "timestamp": "2025-10-19T22:00:55.741605"
+}

@@ -1,0 +1,44 @@
+{
+  "optimal_weights": {
+    "external_factor": 0.02243397233042732,
+    "match_importance": 0.017718455587879788,
+    "pressure_resistance": 0.017213790489123477,
+    "current_form": 0.04548094878209897,
+    "season_stage": 0.015939699649651556,
+    "points_per_match": 0.08386424480752466,
+    "pressure_handling": 0.015650104977703132,
+    "shot_efficiency": 0.038581816217576316,
+    "performance_trend": 0.02167712469100026,
+    "attacking_pressure": 0.027094323229292387,
+    "away_resilience": 0.03861429673451314,
+    "opponent_strength": 0.03212358187368483,
+    "defensive_efficiency": 0.05422501099257893,
+    "clean_sheet_rate": 0.036229702685635225,
+    "motivation_factor": 0.027303474203721985,
+    "goal_difference": 0.05162427166789409,
+    "big_chances": 0.022328841313897965,
+    "goals_conceded_per_match": 0.05842589715711023,
+    "consistency_score": 0.038785870755559,
+    "goals_per_match": 0.039850365537109966,
+    "win_rate": 0.0759804440000074,
+    "attacking_consistency": 0.031660074784236575,
+    "home_advantage": 0.032064772821424115,
+    "form_momentum": 0.03057830907481928,
+    "defensive_consistency": 0.02781073226084427,
+    "days_since_last_match": 0.011954774737238664,
+    "conversion_rate": 0.037836430731247685,
+    "conceded_per_match": 0.04694866790619866
+  },
+  "training_history": [
+    {
+      "timestamp": "2025-10-15T23:15:01.734331",
+      "training_samples": 800,
+      "validation_samples": 200,
+      "genetic_fitness": 0.6,
+      "neural_accuracy": 0.3,
+      "rl_reward": 0.65
+    }
+  ],
+  "timestamp": "2025-10-15T23:15:04.047968",
+  "system_version": "EnhancedCurrentSeason_v2.0"
+}

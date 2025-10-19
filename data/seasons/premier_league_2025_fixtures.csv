@@ -1,0 +1,381 @@
+MatchID,Date,Time,HomeTeam,AwayTeam,HomeGoals,AwayGoals,Status,Matchday,Venue,Referee,IsPlayed,Season,API_Data
+537785,15/08/2025,19:00,Liverpool FC,AFC Bournemouth,4.0,2.0,FINISHED,1,Liverpool FC Stadium,Unknown,True,2025-2026,True
+537786,16/08/2025,11:30,Aston Villa FC,Newcastle United FC,0.0,0.0,FINISHED,1,Aston Villa FC Stadium,Unknown,True,2025-2026,True
+537787,16/08/2025,14:00,Brighton & Hove Albion FC,Fulham FC,1.0,1.0,FINISHED,1,Brighton & Hove Albion FC Stadium,Unknown,True,2025-2026,True
+537789,16/08/2025,14:00,Sunderland AFC,West Ham United FC,3.0,0.0,FINISHED,1,Sunderland AFC Stadium,Unknown,True,2025-2026,True
+537790,16/08/2025,14:00,Tottenham Hotspur FC,Burnley FC,3.0,0.0,FINISHED,1,Tottenham Hotspur FC Stadium,Unknown,True,2025-2026,True
+537791,16/08/2025,16:30,Wolverhampton Wanderers FC,Manchester City FC,0.0,4.0,FINISHED,1,Wolverhampton Wanderers FC Stadium,Unknown,True,2025-2026,True
+537788,17/08/2025,13:00,Nottingham Forest FC,Brentford FC,3.0,1.0,FINISHED,1,Nottingham Forest FC Stadium,Unknown,True,2025-2026,True
+537792,17/08/2025,13:00,Chelsea FC,Crystal Palace FC,0.0,0.0,FINISHED,1,Chelsea FC Stadium,Unknown,True,2025-2026,True
+537793,17/08/2025,15:30,Manchester United FC,Arsenal FC,0.0,1.0,FINISHED,1,Manchester United FC Stadium,Unknown,True,2025-2026,True
+537794,18/08/2025,19:00,Leeds United FC,Everton FC,1.0,0.0,FINISHED,1,Leeds United FC Stadium,Unknown,True,2025-2026,True
+537804,22/08/2025,19:00,West Ham United FC,Chelsea FC,1.0,5.0,FINISHED,2,West Ham United FC Stadium,Unknown,True,2025-2026,True
+537802,23/08/2025,11:30,Manchester City FC,Tottenham Hotspur FC,0.0,2.0,FINISHED,2,Manchester City FC Stadium,Unknown,True,2025-2026,True
+537795,23/08/2025,14:00,AFC Bournemouth,Wolverhampton Wanderers FC,1.0,0.0,FINISHED,2,AFC Bournemouth Stadium,Unknown,True,2025-2026,True
+537798,23/08/2025,14:00,Brentford FC,Aston Villa FC,1.0,0.0,FINISHED,2,Brentford FC Stadium,Unknown,True,2025-2026,True
+537799,23/08/2025,14:00,Burnley FC,Sunderland AFC,2.0,0.0,FINISHED,2,Burnley FC Stadium,Unknown,True,2025-2026,True
+537797,23/08/2025,16:30,Arsenal FC,Leeds United FC,5.0,0.0,FINISHED,2,Arsenal FC Stadium,Unknown,True,2025-2026,True
+537796,24/08/2025,13:00,Crystal Palace FC,Nottingham Forest FC,1.0,1.0,FINISHED,2,Crystal Palace FC Stadium,Unknown,True,2025-2026,True
+537800,24/08/2025,13:00,Everton FC,Brighton & Hove Albion FC,2.0,0.0,FINISHED,2,Everton FC Stadium,Unknown,True,2025-2026,True
+537801,24/08/2025,15:30,Fulham FC,Manchester United FC,1.0,1.0,FINISHED,2,Fulham FC Stadium,Unknown,True,2025-2026,True
+537803,25/08/2025,19:00,Newcastle United FC,Liverpool FC,2.0,3.0,FINISHED,2,Newcastle United FC Stadium,Unknown,True,2025-2026,True
+537808,30/08/2025,11:30,Chelsea FC,Fulham FC,2.0,0.0,FINISHED,3,Chelsea FC Stadium,Unknown,True,2025-2026,True
+537805,30/08/2025,14:00,Sunderland AFC,Brentford FC,2.0,1.0,FINISHED,3,Sunderland AFC Stadium,Unknown,True,2025-2026,True
+537811,30/08/2025,14:00,Manchester United FC,Burnley FC,3.0,2.0,FINISHED,3,Manchester United FC Stadium,Unknown,True,2025-2026,True
+537813,30/08/2025,14:00,Tottenham Hotspur FC,AFC Bournemouth,0.0,1.0,FINISHED,3,Tottenham Hotspur FC Stadium,Unknown,True,2025-2026,True
+537814,30/08/2025,14:00,Wolverhampton Wanderers FC,Everton FC,2.0,3.0,FINISHED,3,Wolverhampton Wanderers FC Stadium,Unknown,True,2025-2026,True
+537810,30/08/2025,16:30,Leeds United FC,Newcastle United FC,0.0,0.0,FINISHED,3,Leeds United FC Stadium,Unknown,True,2025-2026,True
+537807,31/08/2025,13:00,Brighton & Hove Albion FC,Manchester City FC,2.0,1.0,FINISHED,3,Brighton & Hove Albion FC Stadium,Unknown,True,2025-2026,True
+537812,31/08/2025,13:00,Nottingham Forest FC,West Ham United FC,0.0,3.0,FINISHED,3,Nottingham Forest FC Stadium,Unknown,True,2025-2026,True
+537809,31/08/2025,15:30,Liverpool FC,Arsenal FC,1.0,0.0,FINISHED,3,Liverpool FC Stadium,Unknown,True,2025-2026,True
+537806,31/08/2025,18:00,Aston Villa FC,Crystal Palace FC,0.0,3.0,FINISHED,3,Aston Villa FC Stadium,Unknown,True,2025-2026,True
+537817,13/09/2025,11:30,Arsenal FC,Nottingham Forest FC,3.0,0.0,FINISHED,4,Arsenal FC Stadium,Unknown,True,2025-2026,True
+537815,13/09/2025,14:00,AFC Bournemouth,Brighton & Hove Albion FC,2.0,1.0,FINISHED,4,AFC Bournemouth Stadium,Unknown,True,2025-2026,True
+537816,13/09/2025,14:00,Crystal Palace FC,Sunderland AFC,0.0,0.0,FINISHED,4,Crystal Palace FC Stadium,Unknown,True,2025-2026,True
+537820,13/09/2025,14:00,Everton FC,Aston Villa FC,0.0,0.0,FINISHED,4,Everton FC Stadium,Unknown,True,2025-2026,True
+537821,13/09/2025,14:00,Fulham FC,Leeds United FC,1.0,0.0,FINISHED,4,Fulham FC Stadium,Unknown,True,2025-2026,True
+537823,13/09/2025,14:00,Newcastle United FC,Wolverhampton Wanderers FC,1.0,0.0,FINISHED,4,Newcastle United FC Stadium,Unknown,True,2025-2026,True
+537824,13/09/2025,16:30,West Ham United FC,Tottenham Hotspur FC,0.0,3.0,FINISHED,4,West Ham United FC Stadium,Unknown,True,2025-2026,True
+537818,13/09/2025,19:00,Brentford FC,Chelsea FC,2.0,2.0,FINISHED,4,Brentford FC Stadium,Unknown,True,2025-2026,True
+537819,14/09/2025,13:00,Burnley FC,Liverpool FC,0.0,1.0,FINISHED,4,Burnley FC Stadium,Unknown,True,2025-2026,True
+537822,14/09/2025,15:30,Manchester City FC,Manchester United FC,3.0,0.0,FINISHED,4,Manchester City FC Stadium,Unknown,True,2025-2026,True
+537831,20/09/2025,11:30,Liverpool FC,Everton FC,2.0,1.0,FINISHED,5,Liverpool FC Stadium,Unknown,True,2025-2026,True
+537827,20/09/2025,14:00,Brighton & Hove Albion FC,Tottenham Hotspur FC,2.0,2.0,FINISHED,5,Brighton & Hove Albion FC Stadium,Unknown,True,2025-2026,True
+537829,20/09/2025,14:00,Burnley FC,Nottingham Forest FC,1.0,1.0,FINISHED,5,Burnley FC Stadium,Unknown,True,2025-2026,True
+537833,20/09/2025,14:00,West Ham United FC,Crystal Palace FC,1.0,2.0,FINISHED,5,West Ham United FC Stadium,Unknown,True,2025-2026,True
+537834,20/09/2025,14:00,Wolverhampton Wanderers FC,Leeds United FC,1.0,3.0,FINISHED,5,Wolverhampton Wanderers FC Stadium,Unknown,True,2025-2026,True
+537832,20/09/2025,16:30,Manchester United FC,Chelsea FC,2.0,1.0,FINISHED,5,Manchester United FC Stadium,Unknown,True,2025-2026,True
+537830,20/09/2025,19:00,Fulham FC,Brentford FC,3.0,1.0,FINISHED,5,Fulham FC Stadium,Unknown,True,2025-2026,True
+537825,21/09/2025,13:00,AFC Bournemouth,Newcastle United FC,0.0,0.0,FINISHED,5,AFC Bournemouth Stadium,Unknown,True,2025-2026,True
+537826,21/09/2025,13:00,Sunderland AFC,Aston Villa FC,1.0,1.0,FINISHED,5,Sunderland AFC Stadium,Unknown,True,2025-2026,True
+537828,21/09/2025,15:30,Arsenal FC,Manchester City FC,1.0,1.0,FINISHED,5,Arsenal FC Stadium,Unknown,True,2025-2026,True
+537837,27/09/2025,11:30,Brentford FC,Manchester United FC,3.0,1.0,FINISHED,6,Brentford FC Stadium,Unknown,True,2025-2026,True
+537836,27/09/2025,14:00,Crystal Palace FC,Liverpool FC,2.0,1.0,FINISHED,6,Crystal Palace FC Stadium,Unknown,True,2025-2026,True
+537838,27/09/2025,14:00,Chelsea FC,Brighton & Hove Albion FC,1.0,3.0,FINISHED,6,Chelsea FC Stadium,Unknown,True,2025-2026,True
+537840,27/09/2025,14:00,Leeds United FC,AFC Bournemouth,2.0,2.0,FINISHED,6,Leeds United FC Stadium,Unknown,True,2025-2026,True
+537841,27/09/2025,14:00,Manchester City FC,Burnley FC,5.0,1.0,FINISHED,6,Manchester City FC Stadium,Unknown,True,2025-2026,True
+537843,27/09/2025,16:30,Nottingham Forest FC,Sunderland AFC,0.0,1.0,FINISHED,6,Nottingham Forest FC Stadium,Unknown,True,2025-2026,True
+537844,27/09/2025,19:00,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1.0,1.0,FINISHED,6,Tottenham Hotspur FC Stadium,Unknown,True,2025-2026,True
+537835,28/09/2025,13:00,Aston Villa FC,Fulham FC,3.0,1.0,FINISHED,6,Aston Villa FC Stadium,Unknown,True,2025-2026,True
+537842,28/09/2025,15:30,Newcastle United FC,Arsenal FC,1.0,2.0,FINISHED,6,Newcastle United FC Stadium,Unknown,True,2025-2026,True
+537839,29/09/2025,19:00,Everton FC,West Ham United FC,1.0,1.0,FINISHED,6,Everton FC Stadium,Unknown,True,2025-2026,True
+537845,03/10/2025,19:00,AFC Bournemouth,Fulham FC,3.0,1.0,FINISHED,7,AFC Bournemouth Stadium,Unknown,True,2025-2026,True
+537851,04/10/2025,11:30,Leeds United FC,Tottenham Hotspur FC,1.0,2.0,FINISHED,7,Leeds United FC Stadium,Unknown,True,2025-2026,True
+537847,04/10/2025,14:00,Arsenal FC,West Ham United FC,2.0,0.0,FINISHED,7,Arsenal FC Stadium,Unknown,True,2025-2026,True
+537852,04/10/2025,14:00,Manchester United FC,Sunderland AFC,2.0,0.0,FINISHED,7,Manchester United FC Stadium,Unknown,True,2025-2026,True
+537849,04/10/2025,16:30,Chelsea FC,Liverpool FC,2.0,1.0,FINISHED,7,Chelsea FC Stadium,Unknown,True,2025-2026,True
+537846,05/10/2025,13:00,Aston Villa FC,Burnley FC,2.0,1.0,FINISHED,7,Aston Villa FC Stadium,Unknown,True,2025-2026,True
+537850,05/10/2025,13:00,Everton FC,Crystal Palace FC,2.0,1.0,FINISHED,7,Everton FC Stadium,Unknown,True,2025-2026,True
+537853,05/10/2025,13:00,Newcastle United FC,Nottingham Forest FC,2.0,0.0,FINISHED,7,Newcastle United FC Stadium,Unknown,True,2025-2026,True
+537854,05/10/2025,13:00,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1.0,1.0,FINISHED,7,Wolverhampton Wanderers FC Stadium,Unknown,True,2025-2026,True
+537848,05/10/2025,15:30,Brentford FC,Manchester City FC,0.0,1.0,FINISHED,7,Brentford FC Stadium,Unknown,True,2025-2026,True
+537862,18/10/2025,11:30,Nottingham Forest FC,Chelsea FC,,,TIMED,8,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537856,18/10/2025,14:00,Brighton & Hove Albion FC,Newcastle United FC,,,TIMED,8,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537857,18/10/2025,14:00,Crystal Palace FC,AFC Bournemouth,,,TIMED,8,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537858,18/10/2025,14:00,Burnley FC,Leeds United FC,,,TIMED,8,Burnley FC Stadium,Unknown,False,2025-2026,True
+537861,18/10/2025,14:00,Manchester City FC,Everton FC,,,TIMED,8,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537855,18/10/2025,14:00,Sunderland AFC,Wolverhampton Wanderers FC,,,TIMED,8,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537859,18/10/2025,16:30,Fulham FC,Arsenal FC,,,TIMED,8,Fulham FC Stadium,Unknown,False,2025-2026,True
+537863,19/10/2025,13:00,Tottenham Hotspur FC,Aston Villa FC,,,TIMED,8,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537860,19/10/2025,15:30,Liverpool FC,Manchester United FC,,,TIMED,8,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537864,20/10/2025,19:00,West Ham United FC,Brentford FC,,,TIMED,8,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537871,24/10/2025,19:00,Leeds United FC,West Ham United FC,,,TIMED,9,Leeds United FC Stadium,Unknown,False,2025-2026,True
+537869,25/10/2025,14:00,Chelsea FC,Sunderland AFC,,,TIMED,9,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537873,25/10/2025,14:00,Newcastle United FC,Fulham FC,,,TIMED,9,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537872,25/10/2025,16:30,Manchester United FC,Brighton & Hove Albion FC,,,TIMED,9,Manchester United FC Stadium,Unknown,False,2025-2026,True
+537868,25/10/2025,19:00,Brentford FC,Liverpool FC,,,TIMED,9,Brentford FC Stadium,Unknown,False,2025-2026,True
+537865,26/10/2025,14:00,AFC Bournemouth,Nottingham Forest FC,,,TIMED,9,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537866,26/10/2025,14:00,Aston Villa FC,Manchester City FC,,,TIMED,9,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537867,26/10/2025,14:00,Arsenal FC,Crystal Palace FC,,,TIMED,9,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537874,26/10/2025,14:00,Wolverhampton Wanderers FC,Burnley FC,,,TIMED,9,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+537870,26/10/2025,16:30,Everton FC,Tottenham Hotspur FC,,,TIMED,9,Everton FC Stadium,Unknown,False,2025-2026,True
+537876,01/11/2025,15:00,Brighton & Hove Albion FC,Leeds United FC,,,TIMED,10,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537877,01/11/2025,15:00,Crystal Palace FC,Brentford FC,,,TIMED,10,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537878,01/11/2025,15:00,Burnley FC,Arsenal FC,,,TIMED,10,Burnley FC Stadium,Unknown,False,2025-2026,True
+537879,01/11/2025,15:00,Fulham FC,Wolverhampton Wanderers FC,,,TIMED,10,Fulham FC Stadium,Unknown,False,2025-2026,True
+537882,01/11/2025,15:00,Nottingham Forest FC,Manchester United FC,,,TIMED,10,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537883,01/11/2025,17:30,Tottenham Hotspur FC,Chelsea FC,,,TIMED,10,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537880,01/11/2025,20:00,Liverpool FC,Aston Villa FC,,,TIMED,10,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537884,02/11/2025,14:00,West Ham United FC,Newcastle United FC,,,TIMED,10,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537881,02/11/2025,16:30,Manchester City FC,AFC Bournemouth,,,TIMED,10,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537875,03/11/2025,20:00,Sunderland AFC,Everton FC,,,TIMED,10,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537893,08/11/2025,12:30,Tottenham Hotspur FC,Manchester United FC,,,TIMED,11,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537890,08/11/2025,15:00,Everton FC,Fulham FC,,,TIMED,11,Everton FC Stadium,Unknown,False,2025-2026,True
+537894,08/11/2025,15:00,West Ham United FC,Burnley FC,,,TIMED,11,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537885,08/11/2025,17:30,Sunderland AFC,Arsenal FC,,,TIMED,11,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537889,08/11/2025,20:00,Chelsea FC,Wolverhampton Wanderers FC,,,TIMED,11,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537886,09/11/2025,14:00,Aston Villa FC,AFC Bournemouth,,,TIMED,11,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537887,09/11/2025,14:00,Crystal Palace FC,Brighton & Hove Albion FC,,,TIMED,11,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537888,09/11/2025,14:00,Brentford FC,Newcastle United FC,,,TIMED,11,Brentford FC Stadium,Unknown,False,2025-2026,True
+537892,09/11/2025,14:00,Nottingham Forest FC,Leeds United FC,,,TIMED,11,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537891,09/11/2025,16:30,Manchester City FC,Liverpool FC,,,TIMED,11,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537898,22/11/2025,12:30,Burnley FC,Chelsea FC,,,TIMED,12,Burnley FC Stadium,Unknown,False,2025-2026,True
+537895,22/11/2025,15:00,AFC Bournemouth,West Ham United FC,,,TIMED,12,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537896,22/11/2025,15:00,Brighton & Hove Albion FC,Brentford FC,,,TIMED,12,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537899,22/11/2025,15:00,Fulham FC,Sunderland AFC,,,TIMED,12,Fulham FC Stadium,Unknown,False,2025-2026,True
+537900,22/11/2025,15:00,Liverpool FC,Nottingham Forest FC,,,TIMED,12,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537904,22/11/2025,15:00,Wolverhampton Wanderers FC,Crystal Palace FC,,,TIMED,12,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+537903,22/11/2025,17:30,Newcastle United FC,Manchester City FC,,,TIMED,12,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537901,23/11/2025,14:00,Leeds United FC,Aston Villa FC,,,TIMED,12,Leeds United FC Stadium,Unknown,False,2025-2026,True
+537897,23/11/2025,16:30,Arsenal FC,Tottenham Hotspur FC,,,TIMED,12,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537902,24/11/2025,20:00,Manchester United FC,Everton FC,,,TIMED,12,Manchester United FC Stadium,Unknown,False,2025-2026,True
+537905,29/11/2025,15:00,Sunderland AFC,AFC Bournemouth,,,TIMED,13,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537908,29/11/2025,15:00,Brentford FC,Burnley FC,,,TIMED,13,Brentford FC Stadium,Unknown,False,2025-2026,True
+537911,29/11/2025,15:00,Manchester City FC,Leeds United FC,,,TIMED,13,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537910,29/11/2025,17:30,Everton FC,Newcastle United FC,,,TIMED,13,Everton FC Stadium,Unknown,False,2025-2026,True
+537913,29/11/2025,20:00,Tottenham Hotspur FC,Fulham FC,,,TIMED,13,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537907,30/11/2025,12:00,Crystal Palace FC,Manchester United FC,,,TIMED,13,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537906,30/11/2025,14:05,Aston Villa FC,Wolverhampton Wanderers FC,,,TIMED,13,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537912,30/11/2025,14:05,Nottingham Forest FC,Brighton & Hove Albion FC,,,TIMED,13,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537914,30/11/2025,14:05,West Ham United FC,Liverpool FC,,,TIMED,13,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537909,30/11/2025,16:30,Chelsea FC,Arsenal FC,,,TIMED,13,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537915,03/12/2025,00:00,AFC Bournemouth,Everton FC,,,SCHEDULED,14,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537916,03/12/2025,00:00,Brighton & Hove Albion FC,Aston Villa FC,,,SCHEDULED,14,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537917,03/12/2025,00:00,Arsenal FC,Brentford FC,,,SCHEDULED,14,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537918,03/12/2025,00:00,Burnley FC,Crystal Palace FC,,,SCHEDULED,14,Burnley FC Stadium,Unknown,False,2025-2026,True
+537919,03/12/2025,00:00,Fulham FC,Manchester City FC,,,SCHEDULED,14,Fulham FC Stadium,Unknown,False,2025-2026,True
+537920,03/12/2025,00:00,Liverpool FC,Sunderland AFC,,,SCHEDULED,14,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537921,03/12/2025,00:00,Leeds United FC,Chelsea FC,,,SCHEDULED,14,Leeds United FC Stadium,Unknown,False,2025-2026,True
+537922,03/12/2025,00:00,Manchester United FC,West Ham United FC,,,SCHEDULED,14,Manchester United FC Stadium,Unknown,False,2025-2026,True
+537923,03/12/2025,00:00,Newcastle United FC,Tottenham Hotspur FC,,,SCHEDULED,14,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537924,03/12/2025,00:00,Wolverhampton Wanderers FC,Nottingham Forest FC,,,SCHEDULED,14,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+537925,06/12/2025,00:00,AFC Bournemouth,Chelsea FC,,,SCHEDULED,15,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537926,06/12/2025,00:00,Aston Villa FC,Arsenal FC,,,SCHEDULED,15,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537927,06/12/2025,00:00,Brighton & Hove Albion FC,West Ham United FC,,,SCHEDULED,15,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537928,06/12/2025,00:00,Everton FC,Nottingham Forest FC,,,SCHEDULED,15,Everton FC Stadium,Unknown,False,2025-2026,True
+537929,06/12/2025,00:00,Fulham FC,Crystal Palace FC,,,SCHEDULED,15,Fulham FC Stadium,Unknown,False,2025-2026,True
+537930,06/12/2025,00:00,Leeds United FC,Liverpool FC,,,SCHEDULED,15,Leeds United FC Stadium,Unknown,False,2025-2026,True
+537931,06/12/2025,00:00,Manchester City FC,Sunderland AFC,,,SCHEDULED,15,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537932,06/12/2025,00:00,Newcastle United FC,Burnley FC,,,SCHEDULED,15,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537933,06/12/2025,00:00,Tottenham Hotspur FC,Brentford FC,,,SCHEDULED,15,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537934,06/12/2025,00:00,Wolverhampton Wanderers FC,Manchester United FC,,,SCHEDULED,15,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+537935,13/12/2025,00:00,Sunderland AFC,Newcastle United FC,,,SCHEDULED,16,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537936,13/12/2025,00:00,Crystal Palace FC,Manchester City FC,,,SCHEDULED,16,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537937,13/12/2025,00:00,Arsenal FC,Wolverhampton Wanderers FC,,,SCHEDULED,16,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537938,13/12/2025,00:00,Brentford FC,Leeds United FC,,,SCHEDULED,16,Brentford FC Stadium,Unknown,False,2025-2026,True
+537939,13/12/2025,00:00,Burnley FC,Fulham FC,,,SCHEDULED,16,Burnley FC Stadium,Unknown,False,2025-2026,True
+537940,13/12/2025,00:00,Chelsea FC,Everton FC,,,SCHEDULED,16,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537941,13/12/2025,00:00,Liverpool FC,Brighton & Hove Albion FC,,,SCHEDULED,16,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537942,13/12/2025,00:00,Manchester United FC,AFC Bournemouth,,,SCHEDULED,16,Manchester United FC Stadium,Unknown,False,2025-2026,True
+537943,13/12/2025,00:00,Nottingham Forest FC,Tottenham Hotspur FC,,,SCHEDULED,16,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537944,13/12/2025,00:00,West Ham United FC,Aston Villa FC,,,SCHEDULED,16,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537945,20/12/2025,00:00,AFC Bournemouth,Burnley FC,,,SCHEDULED,17,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537946,20/12/2025,00:00,Aston Villa FC,Manchester United FC,,,SCHEDULED,17,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537947,20/12/2025,00:00,Brighton & Hove Albion FC,Sunderland AFC,,,SCHEDULED,17,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537948,20/12/2025,00:00,Everton FC,Arsenal FC,,,SCHEDULED,17,Everton FC Stadium,Unknown,False,2025-2026,True
+537949,20/12/2025,00:00,Fulham FC,Nottingham Forest FC,,,SCHEDULED,17,Fulham FC Stadium,Unknown,False,2025-2026,True
+537950,20/12/2025,00:00,Leeds United FC,Crystal Palace FC,,,SCHEDULED,17,Leeds United FC Stadium,Unknown,False,2025-2026,True
+537951,20/12/2025,00:00,Manchester City FC,West Ham United FC,,,SCHEDULED,17,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537952,20/12/2025,00:00,Newcastle United FC,Chelsea FC,,,SCHEDULED,17,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537953,20/12/2025,00:00,Tottenham Hotspur FC,Liverpool FC,,,SCHEDULED,17,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537954,20/12/2025,00:00,Wolverhampton Wanderers FC,Brentford FC,,,SCHEDULED,17,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+537955,27/12/2025,00:00,Sunderland AFC,Leeds United FC,,,SCHEDULED,18,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537956,27/12/2025,00:00,Crystal Palace FC,Tottenham Hotspur FC,,,SCHEDULED,18,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537957,27/12/2025,00:00,Arsenal FC,Brighton & Hove Albion FC,,,SCHEDULED,18,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537958,27/12/2025,00:00,Brentford FC,AFC Bournemouth,,,SCHEDULED,18,Brentford FC Stadium,Unknown,False,2025-2026,True
+537959,27/12/2025,00:00,Burnley FC,Everton FC,,,SCHEDULED,18,Burnley FC Stadium,Unknown,False,2025-2026,True
+537960,27/12/2025,00:00,Chelsea FC,Aston Villa FC,,,SCHEDULED,18,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537961,27/12/2025,00:00,Liverpool FC,Wolverhampton Wanderers FC,,,SCHEDULED,18,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537962,27/12/2025,00:00,Manchester United FC,Newcastle United FC,,,SCHEDULED,18,Manchester United FC Stadium,Unknown,False,2025-2026,True
+537963,27/12/2025,00:00,Nottingham Forest FC,Manchester City FC,,,SCHEDULED,18,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537964,27/12/2025,00:00,West Ham United FC,Fulham FC,,,SCHEDULED,18,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537965,30/12/2025,00:00,Sunderland AFC,Manchester City FC,,,SCHEDULED,19,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537966,30/12/2025,00:00,Crystal Palace FC,Fulham FC,,,SCHEDULED,19,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537967,30/12/2025,00:00,Arsenal FC,Aston Villa FC,,,SCHEDULED,19,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537968,30/12/2025,00:00,Brentford FC,Tottenham Hotspur FC,,,SCHEDULED,19,Brentford FC Stadium,Unknown,False,2025-2026,True
+537969,30/12/2025,00:00,Burnley FC,Newcastle United FC,,,SCHEDULED,19,Burnley FC Stadium,Unknown,False,2025-2026,True
+537970,30/12/2025,00:00,Chelsea FC,AFC Bournemouth,,,SCHEDULED,19,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537971,30/12/2025,00:00,Liverpool FC,Leeds United FC,,,SCHEDULED,19,Liverpool FC Stadium,Unknown,False,2025-2026,True
+537972,30/12/2025,00:00,Manchester United FC,Wolverhampton Wanderers FC,,,SCHEDULED,19,Manchester United FC Stadium,Unknown,False,2025-2026,True
+537973,30/12/2025,00:00,Nottingham Forest FC,Everton FC,,,SCHEDULED,19,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+537974,30/12/2025,00:00,West Ham United FC,Brighton & Hove Albion FC,,,SCHEDULED,19,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537975,03/01/2026,00:00,AFC Bournemouth,Arsenal FC,,,SCHEDULED,20,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537976,03/01/2026,00:00,Aston Villa FC,Nottingham Forest FC,,,SCHEDULED,20,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537977,03/01/2026,00:00,Brighton & Hove Albion FC,Burnley FC,,,SCHEDULED,20,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537978,03/01/2026,00:00,Everton FC,Brentford FC,,,SCHEDULED,20,Everton FC Stadium,Unknown,False,2025-2026,True
+537979,03/01/2026,00:00,Fulham FC,Liverpool FC,,,SCHEDULED,20,Fulham FC Stadium,Unknown,False,2025-2026,True
+537980,03/01/2026,00:00,Leeds United FC,Manchester United FC,,,SCHEDULED,20,Leeds United FC Stadium,Unknown,False,2025-2026,True
+537981,03/01/2026,00:00,Manchester City FC,Chelsea FC,,,SCHEDULED,20,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537982,03/01/2026,00:00,Newcastle United FC,Crystal Palace FC,,,SCHEDULED,20,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537983,03/01/2026,00:00,Tottenham Hotspur FC,Sunderland AFC,,,SCHEDULED,20,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+537984,03/01/2026,00:00,Wolverhampton Wanderers FC,West Ham United FC,,,SCHEDULED,20,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+537985,07/01/2026,00:00,AFC Bournemouth,Tottenham Hotspur FC,,,SCHEDULED,21,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+537986,07/01/2026,00:00,Crystal Palace FC,Aston Villa FC,,,SCHEDULED,21,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+537987,07/01/2026,00:00,Arsenal FC,Liverpool FC,,,SCHEDULED,21,Arsenal FC Stadium,Unknown,False,2025-2026,True
+537988,07/01/2026,00:00,Brentford FC,Sunderland AFC,,,SCHEDULED,21,Brentford FC Stadium,Unknown,False,2025-2026,True
+537989,07/01/2026,00:00,Burnley FC,Manchester United FC,,,SCHEDULED,21,Burnley FC Stadium,Unknown,False,2025-2026,True
+537990,07/01/2026,00:00,Everton FC,Wolverhampton Wanderers FC,,,SCHEDULED,21,Everton FC Stadium,Unknown,False,2025-2026,True
+537991,07/01/2026,00:00,Fulham FC,Chelsea FC,,,SCHEDULED,21,Fulham FC Stadium,Unknown,False,2025-2026,True
+537992,07/01/2026,00:00,Manchester City FC,Brighton & Hove Albion FC,,,SCHEDULED,21,Manchester City FC Stadium,Unknown,False,2025-2026,True
+537993,07/01/2026,00:00,Newcastle United FC,Leeds United FC,,,SCHEDULED,21,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+537994,07/01/2026,00:00,West Ham United FC,Nottingham Forest FC,,,SCHEDULED,21,West Ham United FC Stadium,Unknown,False,2025-2026,True
+537995,17/01/2026,00:00,Sunderland AFC,Crystal Palace FC,,,SCHEDULED,22,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+537996,17/01/2026,00:00,Aston Villa FC,Everton FC,,,SCHEDULED,22,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+537997,17/01/2026,00:00,Brighton & Hove Albion FC,AFC Bournemouth,,,SCHEDULED,22,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+537998,17/01/2026,00:00,Chelsea FC,Brentford FC,,,SCHEDULED,22,Chelsea FC Stadium,Unknown,False,2025-2026,True
+537999,17/01/2026,00:00,Liverpool FC,Burnley FC,,,SCHEDULED,22,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538000,17/01/2026,00:00,Leeds United FC,Fulham FC,,,SCHEDULED,22,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538001,17/01/2026,00:00,Manchester United FC,Manchester City FC,,,SCHEDULED,22,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538002,17/01/2026,00:00,Nottingham Forest FC,Arsenal FC,,,SCHEDULED,22,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538003,17/01/2026,00:00,Tottenham Hotspur FC,West Ham United FC,,,SCHEDULED,22,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538004,17/01/2026,00:00,Wolverhampton Wanderers FC,Newcastle United FC,,,SCHEDULED,22,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538005,24/01/2026,00:00,AFC Bournemouth,Liverpool FC,,,SCHEDULED,23,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538006,24/01/2026,00:00,Crystal Palace FC,Chelsea FC,,,SCHEDULED,23,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538007,24/01/2026,00:00,Arsenal FC,Manchester United FC,,,SCHEDULED,23,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538008,24/01/2026,00:00,Brentford FC,Nottingham Forest FC,,,SCHEDULED,23,Brentford FC Stadium,Unknown,False,2025-2026,True
+538009,24/01/2026,00:00,Burnley FC,Tottenham Hotspur FC,,,SCHEDULED,23,Burnley FC Stadium,Unknown,False,2025-2026,True
+538010,24/01/2026,00:00,Everton FC,Leeds United FC,,,SCHEDULED,23,Everton FC Stadium,Unknown,False,2025-2026,True
+538011,24/01/2026,00:00,Fulham FC,Brighton & Hove Albion FC,,,SCHEDULED,23,Fulham FC Stadium,Unknown,False,2025-2026,True
+538012,24/01/2026,00:00,Manchester City FC,Wolverhampton Wanderers FC,,,SCHEDULED,23,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538013,24/01/2026,00:00,Newcastle United FC,Aston Villa FC,,,SCHEDULED,23,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538014,24/01/2026,00:00,West Ham United FC,Sunderland AFC,,,SCHEDULED,23,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538015,31/01/2026,00:00,Sunderland AFC,Burnley FC,,,SCHEDULED,24,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538016,31/01/2026,00:00,Aston Villa FC,Brentford FC,,,SCHEDULED,24,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538017,31/01/2026,00:00,Brighton & Hove Albion FC,Everton FC,,,SCHEDULED,24,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538018,31/01/2026,00:00,Chelsea FC,West Ham United FC,,,SCHEDULED,24,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538019,31/01/2026,00:00,Liverpool FC,Newcastle United FC,,,SCHEDULED,24,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538020,31/01/2026,00:00,Leeds United FC,Arsenal FC,,,SCHEDULED,24,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538021,31/01/2026,00:00,Manchester United FC,Fulham FC,,,SCHEDULED,24,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538022,31/01/2026,00:00,Nottingham Forest FC,Crystal Palace FC,,,SCHEDULED,24,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538023,31/01/2026,00:00,Tottenham Hotspur FC,Manchester City FC,,,SCHEDULED,24,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538024,31/01/2026,00:00,Wolverhampton Wanderers FC,AFC Bournemouth,,,SCHEDULED,24,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538025,07/02/2026,00:00,AFC Bournemouth,Aston Villa FC,,,SCHEDULED,25,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538026,07/02/2026,00:00,Brighton & Hove Albion FC,Crystal Palace FC,,,SCHEDULED,25,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538027,07/02/2026,00:00,Arsenal FC,Sunderland AFC,,,SCHEDULED,25,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538028,07/02/2026,00:00,Burnley FC,West Ham United FC,,,SCHEDULED,25,Burnley FC Stadium,Unknown,False,2025-2026,True
+538029,07/02/2026,00:00,Fulham FC,Everton FC,,,SCHEDULED,25,Fulham FC Stadium,Unknown,False,2025-2026,True
+538030,07/02/2026,00:00,Liverpool FC,Manchester City FC,,,SCHEDULED,25,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538031,07/02/2026,00:00,Leeds United FC,Nottingham Forest FC,,,SCHEDULED,25,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538032,07/02/2026,00:00,Manchester United FC,Tottenham Hotspur FC,,,SCHEDULED,25,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538033,07/02/2026,00:00,Newcastle United FC,Brentford FC,,,SCHEDULED,25,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538034,07/02/2026,00:00,Wolverhampton Wanderers FC,Chelsea FC,,,SCHEDULED,25,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538035,11/02/2026,00:00,Sunderland AFC,Liverpool FC,,,SCHEDULED,26,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538036,11/02/2026,00:00,Aston Villa FC,Brighton & Hove Albion FC,,,SCHEDULED,26,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538037,11/02/2026,00:00,Crystal Palace FC,Burnley FC,,,SCHEDULED,26,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538038,11/02/2026,00:00,Brentford FC,Arsenal FC,,,SCHEDULED,26,Brentford FC Stadium,Unknown,False,2025-2026,True
+538039,11/02/2026,00:00,Chelsea FC,Leeds United FC,,,SCHEDULED,26,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538040,11/02/2026,00:00,Everton FC,AFC Bournemouth,,,SCHEDULED,26,Everton FC Stadium,Unknown,False,2025-2026,True
+538041,11/02/2026,00:00,Manchester City FC,Fulham FC,,,SCHEDULED,26,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538042,11/02/2026,00:00,Nottingham Forest FC,Wolverhampton Wanderers FC,,,SCHEDULED,26,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538043,11/02/2026,00:00,Tottenham Hotspur FC,Newcastle United FC,,,SCHEDULED,26,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538044,11/02/2026,00:00,West Ham United FC,Manchester United FC,,,SCHEDULED,26,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538045,21/02/2026,00:00,Sunderland AFC,Fulham FC,,,SCHEDULED,27,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538046,21/02/2026,00:00,Aston Villa FC,Leeds United FC,,,SCHEDULED,27,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538047,21/02/2026,00:00,Crystal Palace FC,Wolverhampton Wanderers FC,,,SCHEDULED,27,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538048,21/02/2026,00:00,Brentford FC,Brighton & Hove Albion FC,,,SCHEDULED,27,Brentford FC Stadium,Unknown,False,2025-2026,True
+538049,21/02/2026,00:00,Chelsea FC,Burnley FC,,,SCHEDULED,27,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538050,21/02/2026,00:00,Everton FC,Manchester United FC,,,SCHEDULED,27,Everton FC Stadium,Unknown,False,2025-2026,True
+538051,21/02/2026,00:00,Manchester City FC,Newcastle United FC,,,SCHEDULED,27,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538052,21/02/2026,00:00,Nottingham Forest FC,Liverpool FC,,,SCHEDULED,27,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538053,21/02/2026,00:00,Tottenham Hotspur FC,Arsenal FC,,,SCHEDULED,27,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538054,21/02/2026,00:00,West Ham United FC,AFC Bournemouth,,,SCHEDULED,27,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538055,28/02/2026,00:00,AFC Bournemouth,Sunderland AFC,,,SCHEDULED,28,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538056,28/02/2026,00:00,Brighton & Hove Albion FC,Nottingham Forest FC,,,SCHEDULED,28,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538057,28/02/2026,00:00,Arsenal FC,Chelsea FC,,,SCHEDULED,28,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538058,28/02/2026,00:00,Burnley FC,Brentford FC,,,SCHEDULED,28,Burnley FC Stadium,Unknown,False,2025-2026,True
+538059,28/02/2026,00:00,Fulham FC,Tottenham Hotspur FC,,,SCHEDULED,28,Fulham FC Stadium,Unknown,False,2025-2026,True
+538060,28/02/2026,00:00,Liverpool FC,West Ham United FC,,,SCHEDULED,28,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538061,28/02/2026,00:00,Leeds United FC,Manchester City FC,,,SCHEDULED,28,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538062,28/02/2026,00:00,Manchester United FC,Crystal Palace FC,,,SCHEDULED,28,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538063,28/02/2026,00:00,Newcastle United FC,Everton FC,,,SCHEDULED,28,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538064,28/02/2026,00:00,Wolverhampton Wanderers FC,Aston Villa FC,,,SCHEDULED,28,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538065,04/03/2026,00:00,AFC Bournemouth,Brentford FC,,,SCHEDULED,29,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538066,04/03/2026,00:00,Aston Villa FC,Chelsea FC,,,SCHEDULED,29,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538067,04/03/2026,00:00,Brighton & Hove Albion FC,Arsenal FC,,,SCHEDULED,29,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538068,04/03/2026,00:00,Everton FC,Burnley FC,,,SCHEDULED,29,Everton FC Stadium,Unknown,False,2025-2026,True
+538069,04/03/2026,00:00,Fulham FC,West Ham United FC,,,SCHEDULED,29,Fulham FC Stadium,Unknown,False,2025-2026,True
+538070,04/03/2026,00:00,Leeds United FC,Sunderland AFC,,,SCHEDULED,29,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538071,04/03/2026,00:00,Manchester City FC,Nottingham Forest FC,,,SCHEDULED,29,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538072,04/03/2026,00:00,Newcastle United FC,Manchester United FC,,,SCHEDULED,29,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538073,04/03/2026,00:00,Tottenham Hotspur FC,Crystal Palace FC,,,SCHEDULED,29,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538074,04/03/2026,00:00,Wolverhampton Wanderers FC,Liverpool FC,,,SCHEDULED,29,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538075,14/03/2026,00:00,Sunderland AFC,Brighton & Hove Albion FC,,,SCHEDULED,30,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538076,14/03/2026,00:00,Crystal Palace FC,Leeds United FC,,,SCHEDULED,30,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538077,14/03/2026,00:00,Arsenal FC,Everton FC,,,SCHEDULED,30,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538078,14/03/2026,00:00,Brentford FC,Wolverhampton Wanderers FC,,,SCHEDULED,30,Brentford FC Stadium,Unknown,False,2025-2026,True
+538079,14/03/2026,00:00,Burnley FC,AFC Bournemouth,,,SCHEDULED,30,Burnley FC Stadium,Unknown,False,2025-2026,True
+538080,14/03/2026,00:00,Chelsea FC,Newcastle United FC,,,SCHEDULED,30,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538081,14/03/2026,00:00,Liverpool FC,Tottenham Hotspur FC,,,SCHEDULED,30,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538082,14/03/2026,00:00,Manchester United FC,Aston Villa FC,,,SCHEDULED,30,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538083,14/03/2026,00:00,Nottingham Forest FC,Fulham FC,,,SCHEDULED,30,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538084,14/03/2026,00:00,West Ham United FC,Manchester City FC,,,SCHEDULED,30,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538085,21/03/2026,00:00,AFC Bournemouth,Manchester United FC,,,SCHEDULED,31,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538086,21/03/2026,00:00,Aston Villa FC,West Ham United FC,,,SCHEDULED,31,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538087,21/03/2026,00:00,Brighton & Hove Albion FC,Liverpool FC,,,SCHEDULED,31,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538088,21/03/2026,00:00,Everton FC,Chelsea FC,,,SCHEDULED,31,Everton FC Stadium,Unknown,False,2025-2026,True
+538089,21/03/2026,00:00,Fulham FC,Burnley FC,,,SCHEDULED,31,Fulham FC Stadium,Unknown,False,2025-2026,True
+538090,21/03/2026,00:00,Leeds United FC,Brentford FC,,,SCHEDULED,31,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538091,21/03/2026,00:00,Manchester City FC,Crystal Palace FC,,,SCHEDULED,31,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538092,21/03/2026,00:00,Newcastle United FC,Sunderland AFC,,,SCHEDULED,31,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538093,21/03/2026,00:00,Tottenham Hotspur FC,Nottingham Forest FC,,,SCHEDULED,31,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538094,21/03/2026,00:00,Wolverhampton Wanderers FC,Arsenal FC,,,SCHEDULED,31,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538095,11/04/2026,00:00,Sunderland AFC,Tottenham Hotspur FC,,,SCHEDULED,32,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538096,11/04/2026,00:00,Crystal Palace FC,Newcastle United FC,,,SCHEDULED,32,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538097,11/04/2026,00:00,Arsenal FC,AFC Bournemouth,,,SCHEDULED,32,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538098,11/04/2026,00:00,Brentford FC,Everton FC,,,SCHEDULED,32,Brentford FC Stadium,Unknown,False,2025-2026,True
+538099,11/04/2026,00:00,Burnley FC,Brighton & Hove Albion FC,,,SCHEDULED,32,Burnley FC Stadium,Unknown,False,2025-2026,True
+538100,11/04/2026,00:00,Chelsea FC,Manchester City FC,,,SCHEDULED,32,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538101,11/04/2026,00:00,Liverpool FC,Fulham FC,,,SCHEDULED,32,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538102,11/04/2026,00:00,Manchester United FC,Leeds United FC,,,SCHEDULED,32,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538103,11/04/2026,00:00,Nottingham Forest FC,Aston Villa FC,,,SCHEDULED,32,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538104,11/04/2026,00:00,West Ham United FC,Wolverhampton Wanderers FC,,,SCHEDULED,32,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538112,18/04/2026,00:00,Newcastle United FC,AFC Bournemouth,,,SCHEDULED,33,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538113,18/04/2026,00:00,Nottingham Forest FC,Burnley FC,,,SCHEDULED,33,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538114,18/04/2026,00:00,Tottenham Hotspur FC,Brighton & Hove Albion FC,,,SCHEDULED,33,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538105,18/04/2026,00:00,Aston Villa FC,Sunderland AFC,,,SCHEDULED,33,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538106,18/04/2026,00:00,Crystal Palace FC,West Ham United FC,,,SCHEDULED,33,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538107,18/04/2026,00:00,Brentford FC,Fulham FC,,,SCHEDULED,33,Brentford FC Stadium,Unknown,False,2025-2026,True
+538108,18/04/2026,00:00,Chelsea FC,Manchester United FC,,,SCHEDULED,33,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538109,18/04/2026,00:00,Everton FC,Liverpool FC,,,SCHEDULED,33,Everton FC Stadium,Unknown,False,2025-2026,True
+538110,18/04/2026,00:00,Leeds United FC,Wolverhampton Wanderers FC,,,SCHEDULED,33,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538111,18/04/2026,00:00,Manchester City FC,Arsenal FC,,,SCHEDULED,33,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538115,25/04/2026,00:00,AFC Bournemouth,Leeds United FC,,,SCHEDULED,34,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538116,25/04/2026,00:00,Sunderland AFC,Nottingham Forest FC,,,SCHEDULED,34,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538117,25/04/2026,00:00,Brighton & Hove Albion FC,Chelsea FC,,,SCHEDULED,34,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538118,25/04/2026,00:00,Arsenal FC,Newcastle United FC,,,SCHEDULED,34,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538119,25/04/2026,00:00,Burnley FC,Manchester City FC,,,SCHEDULED,34,Burnley FC Stadium,Unknown,False,2025-2026,True
+538120,25/04/2026,00:00,Fulham FC,Aston Villa FC,,,SCHEDULED,34,Fulham FC Stadium,Unknown,False,2025-2026,True
+538121,25/04/2026,00:00,Liverpool FC,Crystal Palace FC,,,SCHEDULED,34,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538122,25/04/2026,00:00,Manchester United FC,Brentford FC,,,SCHEDULED,34,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538123,25/04/2026,00:00,West Ham United FC,Everton FC,,,SCHEDULED,34,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538124,25/04/2026,00:00,Wolverhampton Wanderers FC,Tottenham Hotspur FC,,,SCHEDULED,34,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538125,02/05/2026,00:00,AFC Bournemouth,Crystal Palace FC,,,SCHEDULED,35,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538126,02/05/2026,00:00,Aston Villa FC,Tottenham Hotspur FC,,,SCHEDULED,35,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538127,02/05/2026,00:00,Arsenal FC,Fulham FC,,,SCHEDULED,35,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538128,02/05/2026,00:00,Brentford FC,West Ham United FC,,,SCHEDULED,35,Brentford FC Stadium,Unknown,False,2025-2026,True
+538129,02/05/2026,00:00,Chelsea FC,Nottingham Forest FC,,,SCHEDULED,35,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538130,02/05/2026,00:00,Everton FC,Manchester City FC,,,SCHEDULED,35,Everton FC Stadium,Unknown,False,2025-2026,True
+538131,02/05/2026,00:00,Leeds United FC,Burnley FC,,,SCHEDULED,35,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538132,02/05/2026,00:00,Manchester United FC,Liverpool FC,,,SCHEDULED,35,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538133,02/05/2026,00:00,Newcastle United FC,Brighton & Hove Albion FC,,,SCHEDULED,35,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538134,02/05/2026,00:00,Wolverhampton Wanderers FC,Sunderland AFC,,,SCHEDULED,35,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538135,09/05/2026,00:00,Sunderland AFC,Manchester United FC,,,SCHEDULED,36,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538136,09/05/2026,00:00,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,,,SCHEDULED,36,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538137,09/05/2026,00:00,Crystal Palace FC,Everton FC,,,SCHEDULED,36,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538138,09/05/2026,00:00,Burnley FC,Aston Villa FC,,,SCHEDULED,36,Burnley FC Stadium,Unknown,False,2025-2026,True
+538139,09/05/2026,00:00,Fulham FC,AFC Bournemouth,,,SCHEDULED,36,Fulham FC Stadium,Unknown,False,2025-2026,True
+538140,09/05/2026,00:00,Liverpool FC,Chelsea FC,,,SCHEDULED,36,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538141,09/05/2026,00:00,Manchester City FC,Brentford FC,,,SCHEDULED,36,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538142,09/05/2026,00:00,Nottingham Forest FC,Newcastle United FC,,,SCHEDULED,36,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538143,09/05/2026,00:00,Tottenham Hotspur FC,Leeds United FC,,,SCHEDULED,36,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538144,09/05/2026,00:00,West Ham United FC,Arsenal FC,,,SCHEDULED,36,West Ham United FC Stadium,Unknown,False,2025-2026,True
+538145,17/05/2026,00:00,AFC Bournemouth,Manchester City FC,,,SCHEDULED,37,AFC Bournemouth Stadium,Unknown,False,2025-2026,True
+538146,17/05/2026,00:00,Aston Villa FC,Liverpool FC,,,SCHEDULED,37,Aston Villa FC Stadium,Unknown,False,2025-2026,True
+538147,17/05/2026,00:00,Arsenal FC,Burnley FC,,,SCHEDULED,37,Arsenal FC Stadium,Unknown,False,2025-2026,True
+538148,17/05/2026,00:00,Brentford FC,Crystal Palace FC,,,SCHEDULED,37,Brentford FC Stadium,Unknown,False,2025-2026,True
+538149,17/05/2026,00:00,Chelsea FC,Tottenham Hotspur FC,,,SCHEDULED,37,Chelsea FC Stadium,Unknown,False,2025-2026,True
+538150,17/05/2026,00:00,Everton FC,Sunderland AFC,,,SCHEDULED,37,Everton FC Stadium,Unknown,False,2025-2026,True
+538151,17/05/2026,00:00,Leeds United FC,Brighton & Hove Albion FC,,,SCHEDULED,37,Leeds United FC Stadium,Unknown,False,2025-2026,True
+538152,17/05/2026,00:00,Manchester United FC,Nottingham Forest FC,,,SCHEDULED,37,Manchester United FC Stadium,Unknown,False,2025-2026,True
+538153,17/05/2026,00:00,Newcastle United FC,West Ham United FC,,,SCHEDULED,37,Newcastle United FC Stadium,Unknown,False,2025-2026,True
+538154,17/05/2026,00:00,Wolverhampton Wanderers FC,Fulham FC,,,SCHEDULED,37,Wolverhampton Wanderers FC Stadium,Unknown,False,2025-2026,True
+538155,24/05/2026,00:00,Sunderland AFC,Chelsea FC,,,SCHEDULED,38,Sunderland AFC Stadium,Unknown,False,2025-2026,True
+538156,24/05/2026,00:00,Brighton & Hove Albion FC,Manchester United FC,,,SCHEDULED,38,Brighton & Hove Albion FC Stadium,Unknown,False,2025-2026,True
+538157,24/05/2026,00:00,Crystal Palace FC,Arsenal FC,,,SCHEDULED,38,Crystal Palace FC Stadium,Unknown,False,2025-2026,True
+538158,24/05/2026,00:00,Burnley FC,Wolverhampton Wanderers FC,,,SCHEDULED,38,Burnley FC Stadium,Unknown,False,2025-2026,True
+538159,24/05/2026,00:00,Fulham FC,Newcastle United FC,,,SCHEDULED,38,Fulham FC Stadium,Unknown,False,2025-2026,True
+538160,24/05/2026,00:00,Liverpool FC,Brentford FC,,,SCHEDULED,38,Liverpool FC Stadium,Unknown,False,2025-2026,True
+538161,24/05/2026,00:00,Manchester City FC,Aston Villa FC,,,SCHEDULED,38,Manchester City FC Stadium,Unknown,False,2025-2026,True
+538162,24/05/2026,00:00,Nottingham Forest FC,AFC Bournemouth,,,SCHEDULED,38,Nottingham Forest FC Stadium,Unknown,False,2025-2026,True
+538163,24/05/2026,00:00,Tottenham Hotspur FC,Everton FC,,,SCHEDULED,38,Tottenham Hotspur FC Stadium,Unknown,False,2025-2026,True
+538164,24/05/2026,00:00,West Ham United FC,Leeds United FC,,,SCHEDULED,38,West Ham United FC Stadium,Unknown,False,2025-2026,True

@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,Season
+05/08/2022,Crystal Palace,Arsenal,2022
+06/08/2022,Fulham,Liverpool,2022
+06/08/2022,Bournemouth,Aston Villa,2022
+06/08/2022,Leeds,Wolves,2022
+06/08/2022,Newcastle,Nott'm Forest,2022
+06/08/2022,Tottenham,Southampton,2022
+06/08/2022,Everton,Chelsea,2022
+07/08/2022,Leicester,Brentford,2022
+07/08/2022,Man United,Brighton,2022
+07/08/2022,West Ham,Man City,2022
+13/08/2022,Aston Villa,Everton,2022
+13/08/2022,Arsenal,Leicester,2022
+13/08/2022,Brighton,Newcastle,2022
+13/08/2022,Man City,Bournemouth,2022
+13/08/2022,Southampton,Leeds,2022
+13/08/2022,Wolves,Fulham,2022
+13/08/2022,Brentford,Man United,2022
+14/08/2022,Nott'm Forest,West Ham,2022
+14/08/2022,Chelsea,Tottenham,2022
+15/08/2022,Liverpool,Crystal Palace,2022
+20/08/2022,Tottenham,Wolves,2022
+20/08/2022,Crystal Palace,Aston Villa,2022
+20/08/2022,Everton,Nott'm Forest,2022
+20/08/2022,Fulham,Brentford,2022
+20/08/2022,Leicester,Southampton,2022
+20/08/2022,Bournemouth,Arsenal,2022
+21/08/2022,Leeds,Chelsea,2022
+21/08/2022,West Ham,Brighton,2022
+21/08/2022,Newcastle,Man City,2022
+22/08/2022,Man United,Liverpool,2022
+27/08/2022,Southampton,Man United,2022
+27/08/2022,Brentford,Everton,2022
+27/08/2022,Brighton,Leeds,2022
+27/08/2022,Chelsea,Leicester,2022
+27/08/2022,Liverpool,Bournemouth,2022
+27/08/2022,Man City,Crystal Palace,2022
+27/08/2022,Arsenal,Fulham,2022
+28/08/2022,Aston Villa,West Ham,2022
+28/08/2022,Wolves,Newcastle,2022
+28/08/2022,Nott'm Forest,Tottenham,2022
+30/08/2022,Crystal Palace,Brentford,2022
+30/08/2022,Fulham,Brighton,2022
+30/08/2022,Southampton,Chelsea,2022
+30/08/2022,Leeds,Everton,2022
+31/08/2022,Arsenal,Aston Villa,2022
+31/08/2022,Bournemouth,Wolves,2022
+31/08/2022,Man City,Nott'm Forest,2022
+31/08/2022,West Ham,Tottenham,2022
+31/08/2022,Liverpool,Newcastle,2022
+01/09/2022,Leicester,Man United,2022
+03/09/2022,Everton,Liverpool,2022
+03/09/2022,Brentford,Leeds,2022
+03/09/2022,Chelsea,West Ham,2022
+03/09/2022,Newcastle,Crystal Palace,2022
+03/09/2022,Nott'm Forest,Bournemouth,2022
+03/09/2022,Tottenham,Fulham,2022
+03/09/2022,Wolves,Southampton,2022
+03/09/2022,Aston Villa,Man City,2022
+04/09/2022,Brighton,Leicester,2022
+04/09/2022,Man United,Arsenal,2022
+16/09/2022,Aston Villa,Southampton,2022
+16/09/2022,Nott'm Forest,Fulham,2022
+17/09/2022,Wolves,Man City,2022
+17/09/2022,Newcastle,Bournemouth,2022
+17/09/2022,Tottenham,Leicester,2022
+18/09/2022,Brentford,Arsenal,2022
+18/09/2022,Everton,West Ham,2022
+01/10/2022,Arsenal,Tottenham,2022
+01/10/2022,Bournemouth,Brentford,2022
+01/10/2022,Crystal Palace,Chelsea,2022
+01/10/2022,Fulham,Newcastle,2022
+01/10/2022,Liverpool,Brighton,2022
+01/10/2022,Southampton,Everton,2022
+01/10/2022,West Ham,Wolves,2022
+02/10/2022,Man City,Man United,2022
+02/10/2022,Leeds,Aston Villa,2022
+03/10/2022,Leicester,Nott'm Forest,2022
+08/10/2022,Bournemouth,Leicester,2022
+08/10/2022,Chelsea,Wolves,2022
+08/10/2022,Man City,Southampton,2022
+08/10/2022,Newcastle,Brentford,2022
+08/10/2022,Brighton,Tottenham,2022
+09/10/2022,Crystal Palace,Leeds,2022
+09/10/2022,West Ham,Fulham,2022
+09/10/2022,Arsenal,Liverpool,2022
+09/10/2022,Everton,Man United,2022
+10/10/2022,Nott'm Forest,Aston Villa,2022
+14/10/2022,Brentford,Brighton,2022
+15/10/2022,Leicester,Crystal Palace,2022
+15/10/2022,Fulham,Bournemouth,2022
+15/10/2022,Wolves,Nott'm Forest,2022
+15/10/2022,Tottenham,Everton,2022
+16/10/2022,Aston Villa,Chelsea,2022
+16/10/2022,Leeds,Arsenal,2022
+16/10/2022,Man United,Newcastle,2022
+16/10/2022,Southampton,West Ham,2022
+16/10/2022,Liverpool,Man City,2022
+18/10/2022,Brighton,Nott'm Forest,2022
+18/10/2022,Crystal Palace,Wolves,2022
+19/10/2022,Bournemouth,Southampton,2022
+19/10/2022,Brentford,Chelsea,2022
+19/10/2022,Liverpool,West Ham,2022
+19/10/2022,Newcastle,Everton,2022
+19/10/2022,Man United,Tottenham,2022
+20/10/2022,Fulham,Aston Villa,2022
+20/10/2022,Leicester,Leeds,2022
+22/10/2022,Nott'm Forest,Liverpool,2022
+22/10/2022,Everton,Crystal Palace,2022
+22/10/2022,Man City,Brighton,2022
+22/10/2022,Chelsea,Man United,2022
+23/10/2022,Aston Villa,Brentford,2022
+23/10/2022,Leeds,Fulham,2022
+23/10/2022,Southampton,Arsenal,2022
+23/10/2022,Wolves,Leicester,2022
+23/10/2022,Tottenham,Newcastle,2022
+24/10/2022,West Ham,Bournemouth,2022
+29/10/2022,Leicester,Man City,2022
+29/10/2022,Bournemouth,Tottenham,2022
+29/10/2022,Brentford,Wolves,2022
+29/10/2022,Brighton,Chelsea,2022
+29/10/2022,Crystal Palace,Southampton,2022
+29/10/2022,Newcastle,Aston Villa,2022
+29/10/2022,Fulham,Everton,2022
+29/10/2022,Liverpool,Leeds,2022
+30/10/2022,Arsenal,Nott'm Forest,2022
+30/10/2022,Man United,West Ham,2022
+05/11/2022,Leeds,Bournemouth,2022
+05/11/2022,Man City,Fulham,2022
+05/11/2022,Nott'm Forest,Brentford,2022
+05/11/2022,Wolves,Brighton,2022
+05/11/2022,Everton,Leicester,2022
+06/11/2022,Chelsea,Arsenal,2022
+06/11/2022,Aston Villa,Man United,2022
+06/11/2022,Southampton,Newcastle,2022
+06/11/2022,West Ham,Crystal Palace,2022
+06/11/2022,Tottenham,Liverpool,2022
+12/11/2022,Man City,Brentford,2022
+12/11/2022,Bournemouth,Everton,2022
+12/11/2022,Liverpool,Southampton,2022
+12/11/2022,Nott'm Forest,Crystal Palace,2022
+12/11/2022,Tottenham,Leeds,2022
+12/11/2022,West Ham,Leicester,2022
+12/11/2022,Newcastle,Chelsea,2022
+12/11/2022,Wolves,Arsenal,2022
+13/11/2022,Brighton,Aston Villa,2022
+13/11/2022,Fulham,Man United,2022
+26/12/2022,Brentford,Tottenham,2022
+26/12/2022,Crystal Palace,Fulham,2022
+26/12/2022,Everton,Wolves,2022
+26/12/2022,Leicester,Newcastle,2022
+26/12/2022,Southampton,Brighton,2022
+26/12/2022,Aston Villa,Liverpool,2022
+26/12/2022,Arsenal,West Ham,2022
+27/12/2022,Chelsea,Bournemouth,2022
+27/12/2022,Man United,Nott'm Forest,2022
+28/12/2022,Leeds,Man City,2022
+30/12/2022,West Ham,Brentford,2022
+30/12/2022,Liverpool,Leicester,2022
+31/12/2022,Wolves,Man United,2022
+31/12/2022,Bournemouth,Crystal Palace,2022
+31/12/2022,Fulham,Southampton,2022
+31/12/2022,Man City,Everton,2022
+31/12/2022,Newcastle,Leeds,2022
+31/12/2022,Brighton,Arsenal,2022
+01/01/2023,Tottenham,Aston Villa,2022
+01/01/2023,Nott'm Forest,Chelsea,2022
+02/01/2023,Brentford,Liverpool,2022
+03/01/2023,Arsenal,Newcastle,2022
+03/01/2023,Everton,Brighton,2022
+03/01/2023,Leicester,Fulham,2022
+03/01/2023,Man United,Bournemouth,2022
+04/01/2023,Southampton,Nott'm Forest,2022
+04/01/2023,Leeds,West Ham,2022
+04/01/2023,Aston Villa,Wolves,2022
+04/01/2023,Crystal Palace,Tottenham,2022
+05/01/2023,Chelsea,Man City,2022
+12/01/2023,Fulham,Chelsea,2022
+13/01/2023,Aston Villa,Leeds,2022
+14/01/2023,Man United,Man City,2022
+14/01/2023,Brighton,Liverpool,2022
+14/01/2023,Everton,Southampton,2022
+14/01/2023,Nott'm Forest,Leicester,2022
+14/01/2023,Wolves,West Ham,2022
+14/01/2023,Brentford,Bournemouth,2022
+15/01/2023,Chelsea,Crystal Palace,2022
+15/01/2023,Newcastle,Fulham,2022
+15/01/2023,Tottenham,Arsenal,2022
+18/01/2023,Crystal Palace,Man United,2022
+19/01/2023,Man City,Tottenham,2022
+21/01/2023,Liverpool,Chelsea,2022
+21/01/2023,Bournemouth,Nott'm Forest,2022
+21/01/2023,Leicester,Brighton,2022
+21/01/2023,Southampton,Aston Villa,2022
+21/01/2023,West Ham,Everton,2022
+21/01/2023,Crystal Palace,Newcastle,2022
+22/01/2023,Leeds,Brentford,2022
+22/01/2023,Man City,Wolves,2022
+22/01/2023,Arsenal,Man United,2022
+23/01/2023,Fulham,Tottenham,2022
+03/02/2023,Chelsea,Fulham,2022
+04/02/2023,Everton,Arsenal,2022
+04/02/2023,Aston Villa,Leicester,2022
+04/02/2023,Brentford,Southampton,2022
+04/02/2023,Brighton,Bournemouth,2022
+04/02/2023,Man United,Crystal Palace,2022
+04/02/2023,Wolves,Liverpool,2022
+04/02/2023,Newcastle,West Ham,2022
+05/02/2023,Nott'm Forest,Leeds,2022
+05/02/2023,Tottenham,Man City,2022
+08/02/2023,Man United,Leeds,2022
+11/02/2023,West Ham,Chelsea,2022
+11/02/2023,Arsenal,Brentford,2022
+11/02/2023,Crystal Palace,Brighton,2022
+11/02/2023,Fulham,Nott'm Forest,2022
+11/02/2023,Leicester,Tottenham,2022
+11/02/2023,Southampton,Wolves,2022
+11/02/2023,Bournemouth,Newcastle,2022
+12/02/2023,Leeds,Man United,2022
+12/02/2023,Man City,Aston Villa,2022
+13/02/2023,Liverpool,Everton,2022
+15/02/2023,Arsenal,Man City,2022
+18/02/2023,Aston Villa,Arsenal,2022
+18/02/2023,Brentford,Crystal Palace,2022
+18/02/2023,Brighton,Fulham,2022
+18/02/2023,Chelsea,Southampton,2022
+18/02/2023,Everton,Leeds,2022
+18/02/2023,Nott'm Forest,Man City,2022
+18/02/2023,Wolves,Bournemouth,2022
+18/02/2023,Newcastle,Liverpool,2022
+19/02/2023,Man United,Leicester,2022
+19/02/2023,Tottenham,West Ham,2022
+24/02/2023,Fulham,Wolves,2022
+25/02/2023,Everton,Aston Villa,2022
+25/02/2023,Leeds,Southampton,2022
+25/02/2023,Leicester,Arsenal,2022
+25/02/2023,West Ham,Nott'm Forest,2022
+25/02/2023,Bournemouth,Man City,2022
+25/02/2023,Crystal Palace,Liverpool,2022
+26/02/2023,Tottenham,Chelsea,2022
+01/03/2023,Arsenal,Everton,2022
+01/03/2023,Liverpool,Wolves,2022
+04/03/2023,Man City,Newcastle,2022
+04/03/2023,Arsenal,Bournemouth,2022
+04/03/2023,Aston Villa,Crystal Palace,2022
+04/03/2023,Brighton,West Ham,2022
+04/03/2023,Chelsea,Leeds,2022
+04/03/2023,Wolves,Tottenham,2022
+04/03/2023,Southampton,Leicester,2022
+05/03/2023,Nott'm Forest,Everton,2022
+05/03/2023,Liverpool,Man United,2022
+06/03/2023,Brentford,Fulham,2022
+11/03/2023,Bournemouth,Liverpool,2022
+11/03/2023,Everton,Brentford,2022
+11/03/2023,Leeds,Brighton,2022
+11/03/2023,Leicester,Chelsea,2022
+11/03/2023,Tottenham,Nott'm Forest,2022
+11/03/2023,Crystal Palace,Man City,2022
+12/03/2023,Fulham,Arsenal,2022
+12/03/2023,Man United,Southampton,2022
+12/03/2023,West Ham,Aston Villa,2022
+12/03/2023,Newcastle,Wolves,2022
+15/03/2023,Brighton,Crystal Palace,2022
+15/03/2023,Southampton,Brentford,2022
+17/03/2023,Nott'm Forest,Newcastle,2022
+18/03/2023,Aston Villa,Bournemouth,2022
+18/03/2023,Brentford,Leicester,2022
+18/03/2023,Southampton,Tottenham,2022
+18/03/2023,Wolves,Leeds,2022
+18/03/2023,Chelsea,Everton,2022
+19/03/2023,Arsenal,Crystal Palace,2022
+01/04/2023,Man City,Liverpool,2022
+01/04/2023,Arsenal,Leeds,2022
+01/04/2023,Bournemouth,Fulham,2022
+01/04/2023,Brighton,Brentford,2022
+01/04/2023,Crystal Palace,Leicester,2022
+01/04/2023,Nott'm Forest,Wolves,2022
+01/04/2023,Chelsea,Aston Villa,2022
+02/04/2023,West Ham,Southampton,2022
+02/04/2023,Newcastle,Man United,2022
+03/04/2023,Everton,Tottenham,2022
+04/04/2023,Bournemouth,Brighton,2022
+04/04/2023,Leeds,Nott'm Forest,2022
+04/04/2023,Leicester,Aston Villa,2022
+04/04/2023,Chelsea,Liverpool,2022
+05/04/2023,Man United,Brentford,2022
+05/04/2023,West Ham,Newcastle,2022
+08/04/2023,Man United,Everton,2022
+08/04/2023,Aston Villa,Nott'm Forest,2022
+08/04/2023,Brentford,Newcastle,2022
+08/04/2023,Fulham,West Ham,2022
+08/04/2023,Leicester,Bournemouth,2022
+08/04/2023,Tottenham,Brighton,2022
+08/04/2023,Wolves,Chelsea,2022
+08/04/2023,Southampton,Man City,2022
+09/04/2023,Leeds,Crystal Palace,2022
+09/04/2023,Liverpool,Arsenal,2022
+15/04/2023,Aston Villa,Newcastle,2022
+15/04/2023,Chelsea,Brighton,2022
+15/04/2023,Everton,Fulham,2022
+15/04/2023,Southampton,Crystal Palace,2022
+15/04/2023,Tottenham,Bournemouth,2022
+15/04/2023,Wolves,Brentford,2022
+15/04/2023,Man City,Leicester,2022
+16/04/2023,West Ham,Arsenal,2022
+16/04/2023,Nott'm Forest,Man United,2022
+17/04/2023,Leeds,Liverpool,2022
+21/04/2023,Arsenal,Southampton,2022
+22/04/2023,Fulham,Leeds,2022
+22/04/2023,Brentford,Aston Villa,2022
+22/04/2023,Crystal Palace,Everton,2022
+22/04/2023,Leicester,Wolves,2022
+22/04/2023,Liverpool,Nott'm Forest,2022
+23/04/2023,Bournemouth,West Ham,2022
+23/04/2023,Newcastle,Tottenham,2022
+25/04/2023,Wolves,Crystal Palace,2022
+25/04/2023,Aston Villa,Fulham,2022
+25/04/2023,Leeds,Leicester,2022
+26/04/2023,Nott'm Forest,Brighton,2022
+26/04/2023,Chelsea,Brentford,2022
+26/04/2023,West Ham,Liverpool,2022
+26/04/2023,Man City,Arsenal,2022
+27/04/2023,Everton,Newcastle,2022
+27/04/2023,Southampton,Bournemouth,2022
+27/04/2023,Tottenham,Man United,2022
+29/04/2023,Crystal Palace,West Ham,2022
+29/04/2023,Brentford,Nott'm Forest,2022
+29/04/2023,Brighton,Wolves,2022
+30/04/2023,Bournemouth,Leeds,2022
+30/04/2023,Fulham,Man City,2022
+30/04/2023,Man United,Aston Villa,2022
+30/04/2023,Newcastle,Southampton,2022
+30/04/2023,Liverpool,Tottenham,2022
+01/05/2023,Leicester,Everton,2022
+02/05/2023,Arsenal,Chelsea,2022
+03/05/2023,Liverpool,Fulham,2022
+03/05/2023,Man City,West Ham,2022
+04/05/2023,Brighton,Man United,2022
+06/05/2023,Bournemouth,Chelsea,2022
+06/05/2023,Man City,Leeds,2022
+06/05/2023,Tottenham,Crystal Palace,2022
+06/05/2023,Wolves,Aston Villa,2022
+06/05/2023,Liverpool,Brentford,2022
+07/05/2023,Newcastle,Arsenal,2022
+07/05/2023,West Ham,Man United,2022
+08/05/2023,Fulham,Leicester,2022
+08/05/2023,Brighton,Everton,2022
+08/05/2023,Nott'm Forest,Southampton,2022
+13/05/2023,Leeds,Newcastle,2022
+13/05/2023,Aston Villa,Tottenham,2022
+13/05/2023,Chelsea,Nott'm Forest,2022
+13/05/2023,Crystal Palace,Bournemouth,2022
+13/05/2023,Man United,Wolves,2022
+13/05/2023,Southampton,Fulham,2022
+14/05/2023,Brentford,West Ham,2022
+14/05/2023,Everton,Man City,2022
+14/05/2023,Arsenal,Brighton,2022
+15/05/2023,Leicester,Liverpool,2022
+18/05/2023,Newcastle,Brighton,2022
+20/05/2023,Tottenham,Brentford,2022
+20/05/2023,Bournemouth,Man United,2022
+20/05/2023,Fulham,Crystal Palace,2022
+20/05/2023,Liverpool,Aston Villa,2022
+20/05/2023,Wolves,Everton,2022
+20/05/2023,Nott'm Forest,Arsenal,2022
+21/05/2023,West Ham,Leeds,2022
+21/05/2023,Brighton,Southampton,2022
+21/05/2023,Man City,Chelsea,2022
+22/05/2023,Newcastle,Leicester,2022
+24/05/2023,Brighton,Man City,2022
+25/05/2023,Man United,Chelsea,2022
+28/05/2023,Arsenal,Wolves,2022
+28/05/2023,Aston Villa,Brighton,2022
+28/05/2023,Brentford,Man City,2022
+28/05/2023,Chelsea,Newcastle,2022
+28/05/2023,Crystal Palace,Nott'm Forest,2022
+28/05/2023,Everton,Bournemouth,2022
+28/05/2023,Leeds,Tottenham,2022
+28/05/2023,Leicester,West Ham,2022
+28/05/2023,Man United,Fulham,2022
+28/05/2023,Southampton,Liverpool,2022

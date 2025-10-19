@@ -1,0 +1,3270 @@
+{
+  "timestamp": "2025-10-19T22:01:14.609073",
+  "total_matches": 40,
+  "model_comparison": {},
+  "match_predictions": [
+    {
+      "match": "Tottenham vs Manchester United",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.4088363132427033,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.11767262648540662,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2767259099139872,
+            "odds": 3.432999823888127
+          },
+          "draw": {
+            "probability": 0.4465481801720256,
+            "odds": 2.1274300113238116
+          },
+          "away_win": {
+            "probability": 0.2767259099139872,
+            "odds": 3.432999823888127
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7232740900860128,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7232740900860128,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5534518198279744,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.4088363132427033,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Everton vs Fulham",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-1",
+            "consensus": "1-1",
+            "home_difference": 1,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.4180984124329188,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "confidence": 0.13619682486583767,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2719971945770611,
+            "odds": 3.492683082548669
+          },
+          "draw": {
+            "probability": 0.45600561084587776,
+            "odds": 2.083307699301718
+          },
+          "away_win": {
+            "probability": 0.2719971945770611,
+            "odds": 3.492683082548669
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7280028054229388,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7280028054229388,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5439943891541222,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.4180984124329188,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "West Ham United vs Burnley",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Sunderland vs Arsenal",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Chelsea vs Wolverhampton Wanderers",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "1-0",
+            "home_difference": 1,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.47101063725973347,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.24202127451946695,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5875668716316225,
+            "odds": 1.6168372416265266
+          },
+          "draw": {
+            "probability": 0.24745987702102654,
+            "odds": 3.8390061913725066
+          },
+          "away_win": {
+            "probability": 0.16497325134735105,
+            "odds": 5.758509287058759
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.835026748652649,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.4124331283683776,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7525401229789735,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.47101063725973347,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Aston Villa vs Bournemouth",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.40928254260892366,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.11856508521784732,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.27649777652833313,
+            "odds": 3.435832330834863
+          },
+          "draw": {
+            "probability": 0.4470044469433337,
+            "odds": 2.12525849909594
+          },
+          "away_win": {
+            "probability": 0.27649777652833313,
+            "odds": 3.435832330834863
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7235022234716668,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7235022234716668,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5529955530566663,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.40928254260892366,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Crystal Palace vs Brighton",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.4086301958541451,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.11726039170829032,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2768312975189717,
+            "odds": 3.4316929065251194
+          },
+          "draw": {
+            "probability": 0.44633740496205665,
+            "odds": 2.128434653781168
+          },
+          "away_win": {
+            "probability": 0.2768312975189717,
+            "odds": 3.4316929065251194
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7231687024810283,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7231687024810283,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5536625950379434,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.4086301958541451,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Brentford vs Newcastle United",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.4402721621581538,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.18054432431630768,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5572345447462567,
+            "odds": 1.7048476426252315
+          },
+          "draw": {
+            "probability": 0.26565927315224597,
+            "odds": 3.5760091817143786
+          },
+          "away_win": {
+            "probability": 0.1771061821014973,
+            "odds": 5.364013772571568
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8228938178985026,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.4427654552537433,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.734340726847754,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.4402721621581538,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Nottingham Forest vs Leeds United FC",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Manchester City vs Liverpool",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3957921835300741,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.09158436706014829,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2834087470943003,
+            "odds": 3.3520489742820136
+          },
+          "draw": {
+            "probability": 0.4331825058113994,
+            "odds": 2.193071020309427
+          },
+          "away_win": {
+            "probability": 0.2834087470943003,
+            "odds": 3.3520489742820136
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7165912529056997,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7165912529056997,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5668174941886006,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.3957921835300741,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Burnley vs Chelsea",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Bournemouth vs West Ham United",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-1",
+            "consensus": "0-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "confidence": 0.45591964291337994,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.21183928582675993,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.17088597830893903,
+            "odds": 5.559262435695729
+          },
+          "draw": {
+            "probability": 0.2563289674634085,
+            "odds": 3.706174957130487
+          },
+          "away_win": {
+            "probability": 0.5727850542276526,
+            "odds": 1.6585628290895031
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.42721494577234753,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.8291140216910611,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7436710325365916,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "0-1": {
+            "probability": 0.45591964291337994,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📉 فوز متوقع للفريق الضيف: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Brighton vs Brentford",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-1",
+            "consensus": "0-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "confidence": 0.4339189247717817,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.16783784954356343,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.1796581796160231,
+            "odds": 5.287819358018658
+          },
+          "draw": {
+            "probability": 0.2694872694240346,
+            "odds": 3.5252129053457724
+          },
+          "away_win": {
+            "probability": 0.5508545509599423,
+            "odds": 1.7245931768095408
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.4491454490400577,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.820341820383977,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7305127305759653,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "0-1": {
+            "probability": 0.4339189247717817,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📉 فوز متوقع للفريق الضيف: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Fulham vs Sunderland",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Liverpool vs Nottingham Forest",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "1-0",
+            "home_difference": 1,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.4693735556407184,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.23874711128143689,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5859734296996755,
+            "odds": 1.6212339192357172
+          },
+          "draw": {
+            "probability": 0.2484159421801947,
+            "odds": 3.8242312134335315
+          },
+          "away_win": {
+            "probability": 0.1656106281201298,
+            "odds": 5.736346820150296
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8343893718798702,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.4140265703003245,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7515840578198053,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.4693735556407184,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Wolverhampton Wanderers vs Crystal Palace",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.4566350768041024,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.21327015360820487,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5734905751802473,
+            "odds": 1.656522427942981
+          },
+          "draw": {
+            "probability": 0.25590565489185163,
+            "odds": 3.7123056166987785
+          },
+          "away_win": {
+            "probability": 0.17060376992790108,
+            "odds": 5.568458425048168
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.829396230072099,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.42650942481975274,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7440943451081483,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.4566350768041024,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Newcastle United vs Manchester City",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "1-2",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3957253776125082,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 2,
+            "confidence": 0.09145075522501644,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2834430436159836,
+            "odds": 3.3516433773802046
+          },
+          "draw": {
+            "probability": 0.4331139127680328,
+            "odds": 2.1934183409822743
+          },
+          "away_win": {
+            "probability": 0.2834430436159836,
+            "odds": 3.3516433773802046
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7165569563840164,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7165569563840164,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5668860872319672,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.3957253776125082,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Leeds United FC vs Aston Villa",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Arsenal vs Tottenham",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "2-1",
+            "consensus": "2-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "2-2",
+            "consensus": "2-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "confidence": 0.38227332529300834,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 2,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 2,
+            "confidence": 0.0645466505860167,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.49752337214117476,
+            "odds": 1.909458033924149
+          },
+          "draw": {
+            "probability": 0.3014859767152952,
+            "odds": 3.15105866730618
+          },
+          "away_win": {
+            "probability": 0.20099065114353012,
+            "odds": 4.726588000959271
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.79900934885647,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.5024766278588253,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.6985140232847049,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          },
+          "under_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          }
+        },
+        "correct_score": {
+          "2-1": {
+            "probability": 0.38227332529300834,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 2-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Manchester United vs Everton",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.4217416921023315,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.14348338420466303,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5385175306115897,
+            "odds": 1.764102273367207
+          },
+          "draw": {
+            "probability": 0.2768894816330461,
+            "odds": 3.4309717884444892
+          },
+          "away_win": {
+            "probability": 0.1845929877553641,
+            "odds": 5.146457682666734
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8154070122446357,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.4614824693884102,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7231105183669537,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.4217416921023315,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Sunderland vs Bournemouth",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Brentford vs Burnley",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Manchester City vs Leeds United FC",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Everton vs Newcastle United",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.4053715958659386,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.11074319173187733,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.27849831749863085,
+            "odds": 3.4111516670281863
+          },
+          "draw": {
+            "probability": 0.4430033650027382,
+            "odds": 2.144453236814867
+          },
+          "away_win": {
+            "probability": 0.27849831749863085,
+            "odds": 3.4111516670281863
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.721501682501369,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.721501682501369,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5569966349972617,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.4053715958659386,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Tottenham vs Fulham",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.4105868303624823,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.12117366072496465,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2758311455259657,
+            "odds": 3.444136078935185
+          },
+          "draw": {
+            "probability": 0.44833770894806857,
+            "odds": 2.118938427528164
+          },
+          "away_win": {
+            "probability": 0.2758311455259657,
+            "odds": 3.444136078935185
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7241688544740343,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7241688544740343,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5516622910519314,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.4105868303624823,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Crystal Palace vs Manchester United",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.4076406446873123,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.11528128937462463,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2773373484063077,
+            "odds": 3.4254311778023525
+          },
+          "draw": {
+            "probability": 0.44532530318738467,
+            "odds": 2.1332719995931995
+          },
+          "away_win": {
+            "probability": 0.2773373484063077,
+            "odds": 3.4254311778023525
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7226626515936924,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7226626515936924,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5546746968126154,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.4076406446873123,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Aston Villa vs Wolverhampton Wanderers",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-1",
+            "consensus": "0-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 0,
+        "away_goals": 1,
+        "confidence": 0.47096594670626896,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.24193189341253798,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.16499063808068706,
+            "odds": 5.75790245465571
+          },
+          "draw": {
+            "probability": 0.2474859571210306,
+            "odds": 3.8386016364371396
+          },
+          "away_win": {
+            "probability": 0.5875234047982822,
+            "odds": 1.6169568603418765
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.41247659520171764,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.8350093619193129,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7525140428789693,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "0-1": {
+            "probability": 0.47096594670626896,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📉 فوز متوقع للفريق الضيف: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Nottingham Forest vs Brighton",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "1-0",
+            "home_difference": 1,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.471500809167959,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.243001618335918,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5880435023565033,
+            "odds": 1.6155267360203895
+          },
+          "draw": {
+            "probability": 0.24717389858609803,
+            "odds": 3.843447894111225
+          },
+          "away_win": {
+            "probability": 0.16478259905739873,
+            "odds": 5.765171841166836
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8352174009426013,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.41195649764349673,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7528261014139019,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.471500809167959,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "West Ham United vs Liverpool",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "1-0",
+            "home_difference": 1,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.4685931032899992,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.23718620657999845,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5852129217976562,
+            "odds": 1.6233407783987264
+          },
+          "draw": {
+            "probability": 0.24887224692140641,
+            "odds": 3.8172195242807008
+          },
+          "away_win": {
+            "probability": 0.16591483128093762,
+            "odds": 5.725829286421051
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8340851687190626,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.41478707820234406,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7511277530785938,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.4685931032899992,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Chelsea vs Arsenal",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "2-1",
+            "consensus": "2-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "2-1",
+            "consensus": "2-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 2,
+        "away_goals": 1,
+        "confidence": 0.39024349876686715,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 2,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 1,
+            "confidence": 0.08048699753373431,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5059284297064292,
+            "odds": 1.8777359488401324
+          },
+          "draw": {
+            "probability": 0.29644294217614253,
+            "odds": 3.2046639161863477
+          },
+          "away_win": {
+            "probability": 0.19762862811742837,
+            "odds": 4.8069958742795205
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8023713718825717,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.4940715702935709,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7035570578238575,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          },
+          "under_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          }
+        },
+        "correct_score": {
+          "2-1": {
+            "probability": 0.39024349876686715,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 2-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Bournemouth vs Everton",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.39793760571113995,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.09587521142227996,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.282307720733988,
+            "odds": 3.3651222769609013
+          },
+          "draw": {
+            "probability": 0.43538455853202407,
+            "odds": 2.1819790835097432
+          },
+          "away_win": {
+            "probability": 0.282307720733988,
+            "odds": 3.3651222769609013
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7176922792660121,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7176922792660121,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.564615441467976,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.39793760571113995,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Brighton vs Aston Villa",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 0,
+        "confidence": 0.42474101694677124,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.14948203389354253,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.5415695470244849,
+            "odds": 1.7541606709969784
+          },
+          "draw": {
+            "probability": 0.27505827178530906,
+            "odds": 3.453813600419559
+          },
+          "away_win": {
+            "probability": 0.18337218119020607,
+            "odds": 5.180720400629339
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.816627818809794,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.4584304529755151,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.7249417282146909,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-0": {
+            "probability": 0.42474101694677124,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "📈 فوز متوقع للفريق المنزل: 1-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Arsenal vs Brentford",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "0-1",
+            "consensus": "1-1",
+            "home_difference": 1,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.40576818973691303,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "confidence": 0.11153637947382607,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2782953391359729,
+            "odds": 3.4136396353222342
+          },
+          "draw": {
+            "probability": 0.44340932172805436,
+            "odds": 2.142489914956368
+          },
+          "away_win": {
+            "probability": 0.2782953391359729,
+            "odds": 3.4136396353222342
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7217046608640272,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7217046608640272,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5565906782719457,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.40576818973691303,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Burnley vs Crystal Palace",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Fulham vs Manchester City",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 0.8,
+          "deviation": 1,
+          "details": {
+            "model_prediction": "1-0",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 1
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.40845488911258687,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "confidence": 0.11690977822517376,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.2769209370073264,
+            "odds": 3.430582065287704
+          },
+          "draw": {
+            "probability": 0.44615812598534715,
+            "odds": 2.12928991913329
+          },
+          "away_win": {
+            "probability": 0.2769209370073264,
+            "odds": 3.430582065287704
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7230790629926735,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7230790629926735,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5538418740146528,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.40845488911258687,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Liverpool vs Sunderland",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Leeds United FC vs Chelsea",
+      "models": {
+        "fallback": {
+          "score": 0,
+          "reason": "fallback_used"
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.3,
+        "consensus_type": "fallback"
+      },
+      "betting": {},
+      "recommendations": [
+        "⚠️ استخدام التنبؤ الاحتياطي due to model errors"
+      ]
+    },
+    {
+      "match": "Manchester United vs West Ham United",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "confidence": 0.5193181290832847,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.3386362581665693,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.22119577296236648,
+            "odds": 4.294837949555347
+          },
+          "draw": {
+            "probability": 0.557608454075267,
+            "odds": 1.7037044418120806
+          },
+          "away_win": {
+            "probability": 0.22119577296236648,
+            "odds": 4.294837949555347
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7788042270376335,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7788042270376335,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.44239154592473295,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "0-0": {
+            "probability": 0.5193181290832847,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": [
+          {
+            "type": "double_chance",
+            "selection": "X2",
+            "confidence": 0.28957617913139033,
+            "stake_recommendation": "low"
+          }
+        ]
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 0-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    },
+    {
+      "match": "Newcastle United vs Tottenham",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "1-1",
+            "consensus": "1-1",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 1,
+        "away_goals": 1,
+        "confidence": 0.39385334649574033,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "confidence": 0.08770669299148068,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.28440438996140033,
+            "odds": 3.3403141214836207
+          },
+          "draw": {
+            "probability": 0.43119122007719934,
+            "odds": 2.2031988495264687
+          },
+          "away_win": {
+            "probability": 0.28440438996140033,
+            "odds": 3.3403141214836207
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.7155956100385996,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.7155956100385996,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.5688087799228007,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.5,
+            "odds": 1.9
+          },
+          "no": {
+            "probability": 0.5,
+            "odds": 1.9
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "1-1": {
+            "probability": 0.39385334649574033,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": []
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 1-1",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد"
+      ]
+    },
+    {
+      "match": "Wolverhampton Wanderers vs Nottingham Forest",
+      "models": {
+        "advanced": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        },
+        "realistic": {
+          "score": 1.0,
+          "deviation": 0,
+          "details": {
+            "model_prediction": "0-0",
+            "consensus": "0-0",
+            "home_difference": 0,
+            "away_difference": 0
+          }
+        }
+      },
+      "consensus": {
+        "home_goals": 0,
+        "away_goals": 0,
+        "confidence": 0.5819220019430594,
+        "consensus_type": "weighted_average",
+        "models_used": 2,
+        "detailed_scores": [
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.7,
+            "model": "advanced"
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "confidence": 0.46384400388611896,
+            "model": "realistic"
+          }
+        ]
+      },
+      "betting": {
+        "1x2_market": {
+          "home_win": {
+            "probability": 0.19055740766915155,
+            "odds": 4.985374284947259
+          },
+          "draw": {
+            "probability": 0.6188851846616968,
+            "odds": 1.5350181641838805
+          },
+          "away_win": {
+            "probability": 0.19055740766915155,
+            "odds": 4.985374284947259
+          }
+        },
+        "double_chance": {
+          "1X": {
+            "probability": 0.8094425923308484,
+            "odds": 1.5
+          },
+          "X2": {
+            "probability": 0.8094425923308484,
+            "odds": 1.5
+          },
+          "12": {
+            "probability": 0.3811148153383031,
+            "odds": 1.2
+          }
+        },
+        "btts": {
+          "yes": {
+            "probability": 0.3,
+            "odds": 3.1666666666666665
+          },
+          "no": {
+            "probability": 0.7,
+            "odds": 1.3571428571428572
+          }
+        },
+        "over_under": {
+          "over_2.5": {
+            "probability": 0.4,
+            "odds": 2.375
+          },
+          "under_2.5": {
+            "probability": 0.6,
+            "odds": 1.5833333333333333
+          }
+        },
+        "correct_score": {
+          "0-0": {
+            "probability": 0.5819220019430594,
+            "odds": 8.0
+          }
+        },
+        "recommended_bets": [
+          {
+            "type": "double_chance",
+            "selection": "X2",
+            "confidence": 0.36014290563123463,
+            "stake_recommendation": "low"
+          }
+        ]
+      },
+      "recommendations": [
+        "⚖️ تعادل متوقع: 0-0",
+        "🔴 ثقة منخفضة - التنبؤ غير مؤكد",
+        "🛡️ مباراة منخفضة الأهداف متوقعة"
+      ]
+    }
+  ],
+  "model_performance": {
+    "advanced": {
+      "total_matches": 28,
+      "total_score": 28.0,
+      "average_score": 1.0
+    },
+    "realistic": {
+      "total_matches": 28,
+      "total_score": 25.400000000000006,
+      "average_score": 0.9071428571428574
+    }
+  }
+}

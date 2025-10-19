@@ -1,0 +1,28 @@
+{
+  "episode_number": 53,
+  "timestamp": "2025-10-19T22:01:05.331893",
+  "reward_achieved": 0.426024846938218,
+  "exploration_rate": 0.01,
+  "current_weights": {
+    "points_per_match": 0.0529,
+    "win_rate": 0.0505,
+    "goal_difference": 0.0506,
+    "shot_efficiency": 0.0499,
+    "conversion_rate": 0.0496,
+    "attacking_pressure": 0.0492,
+    "defensive_efficiency": 0.0476,
+    "clean_sheet_rate": 0.0503,
+    "goals_conceded_per_match": 0.0498,
+    "consistency_score": 0.0477,
+    "current_form": 0.0496,
+    "form_momentum": 0.049,
+    "motivation_factor": 0.0502,
+    "external_factor": 0.0498,
+    "home_advantage": 0.0507,
+    "opponent_strength": 0.0489,
+    "performance_trend": 0.0515,
+    "pressure_handling": 0.05,
+    "attacking_consistency": 0.0499,
+    "defensive_consistency": 0.0522
+  }
+}

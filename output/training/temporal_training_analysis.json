@@ -1,0 +1,43 @@
+{
+  "training_date": "2025-10-19T22:01:14.591020",
+  "temporal_integration": true,
+  "current_season_data_used": 70,
+  "historical_seasons_used": 5,
+  "optimal_weights_keys": [
+    "pressure_resistance",
+    "home_advantage",
+    "attacking_consistency",
+    "defensive_efficiency",
+    "conceded_per_match",
+    "win_rate",
+    "motivation_factor",
+    "external_factor",
+    "opponent_strength",
+    "big_chances",
+    "current_form",
+    "pressure_handling",
+    "goals_per_match",
+    "clean_sheet_rate",
+    "performance_trend",
+    "goals_conceded_per_match",
+    "defensive_consistency",
+    "shot_efficiency",
+    "attacking_pressure",
+    "form_momentum",
+    "consistency_score",
+    "match_importance",
+    "conversion_rate",
+    "away_resilience",
+    "points_per_match",
+    "goal_difference"
+  ],
+  "training_history": [
+    {
+      "timestamp": "2025-10-19T22:01:14.590025",
+      "training_samples": 3110,
+      "validation_samples": 760,
+      "temporal_integration": true,
+      "current_season_matches": 70
+    }
+  ]
+}

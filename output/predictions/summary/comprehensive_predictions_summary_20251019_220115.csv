@@ -1,0 +1,41 @@
+match_date,home_team,away_team,predicted_home_goals,predicted_away_goals,confidence,week_number,timestamp
+08/11/2025,Tottenham,Manchester United,0.0,0.0,0.0,11,2025-10-19T22:01:14.631985
+08/11/2025,Everton,Fulham,0.0,0.0,0.0,11,2025-10-19T22:01:14.654047
+08/11/2025,West Ham United,Burnley,0.0,0.0,0.0,11,2025-10-19T22:01:14.654047
+08/11/2025,Sunderland,Arsenal,0.0,0.0,0.0,11,2025-10-19T22:01:14.654047
+08/11/2025,Chelsea,Wolverhampton Wanderers,0.0,0.0,0.0,11,2025-10-19T22:01:14.674155
+09/11/2025,Aston Villa,Bournemouth,0.0,0.0,0.0,11,2025-10-19T22:01:14.693104
+09/11/2025,Crystal Palace,Brighton,0.0,0.0,0.0,11,2025-10-19T22:01:14.712054
+09/11/2025,Brentford,Newcastle United,0.0,0.0,0.0,11,2025-10-19T22:01:14.731110
+09/11/2025,Nottingham Forest,Leeds United FC,0.0,0.0,0.0,11,2025-10-19T22:01:14.731110
+09/11/2025,Manchester City,Liverpool,0.0,0.0,0.0,11,2025-10-19T22:01:14.750087
+22/11/2025,Burnley,Chelsea,0.0,0.0,0.0,12,2025-10-19T22:01:14.750087
+22/11/2025,Bournemouth,West Ham United,0.0,0.0,0.0,12,2025-10-19T22:01:14.768011
+22/11/2025,Brighton,Brentford,0.0,0.0,0.0,12,2025-10-19T22:01:14.787126
+22/11/2025,Fulham,Sunderland,0.0,0.0,0.0,12,2025-10-19T22:01:14.787126
+22/11/2025,Liverpool,Nottingham Forest,0.0,0.0,0.0,12,2025-10-19T22:01:14.806048
+22/11/2025,Wolverhampton Wanderers,Crystal Palace,0.0,0.0,0.0,12,2025-10-19T22:01:14.828986
+22/11/2025,Newcastle United,Manchester City,0.0,0.0,0.0,12,2025-10-19T22:01:14.850928
+23/11/2025,Leeds United FC,Aston Villa,0.0,0.0,0.0,12,2025-10-19T22:01:14.850928
+23/11/2025,Arsenal,Tottenham,0.0,0.0,0.0,12,2025-10-19T22:01:14.869877
+24/11/2025,Manchester United,Everton,0.0,0.0,0.0,12,2025-10-19T22:01:14.904831
+29/11/2025,Sunderland,Bournemouth,0.0,0.0,0.0,13,2025-10-19T22:01:14.904831
+29/11/2025,Brentford,Burnley,0.0,0.0,0.0,13,2025-10-19T22:01:14.904831
+29/11/2025,Manchester City,Leeds United FC,0.0,0.0,0.0,13,2025-10-19T22:01:14.904831
+29/11/2025,Everton,Newcastle United,0.0,0.0,0.0,13,2025-10-19T22:01:14.924778
+29/11/2025,Tottenham,Fulham,0.0,0.0,0.0,13,2025-10-19T22:01:14.946720
+30/11/2025,Crystal Palace,Manchester United,0.0,0.0,0.0,13,2025-10-19T22:01:14.967708
+30/11/2025,Aston Villa,Wolverhampton Wanderers,0.0,0.0,0.0,13,2025-10-19T22:01:14.989649
+30/11/2025,Nottingham Forest,Brighton,0.0,0.0,0.0,13,2025-10-19T22:01:15.008598
+30/11/2025,West Ham United,Liverpool,0.0,0.0,0.0,13,2025-10-19T22:01:15.028544
+30/11/2025,Chelsea,Arsenal,0.0,0.0,0.0,13,2025-10-19T22:01:15.048493
+03/12/2025,Bournemouth,Everton,0.0,0.0,0.0,14,2025-10-19T22:01:15.069436
+03/12/2025,Brighton,Aston Villa,0.0,0.0,0.0,14,2025-10-19T22:01:15.090403
+03/12/2025,Arsenal,Brentford,0.0,0.0,0.0,14,2025-10-19T22:01:15.111323
+03/12/2025,Burnley,Crystal Palace,0.0,0.0,0.0,14,2025-10-19T22:01:15.111323
+03/12/2025,Fulham,Manchester City,0.0,0.0,0.0,14,2025-10-19T22:01:15.131270
+03/12/2025,Liverpool,Sunderland,0.0,0.0,0.0,14,2025-10-19T22:01:15.131270
+03/12/2025,Leeds United FC,Chelsea,0.0,0.0,0.0,14,2025-10-19T22:01:15.131270
+03/12/2025,Manchester United,West Ham United,0.0,0.0,0.0,14,2025-10-19T22:01:15.150260
+03/12/2025,Newcastle United,Tottenham,0.0,0.0,0.0,14,2025-10-19T22:01:15.172202
+03/12/2025,Wolverhampton Wanderers,Nottingham Forest,0.0,0.0,0.0,14,2025-10-19T22:01:15.191212

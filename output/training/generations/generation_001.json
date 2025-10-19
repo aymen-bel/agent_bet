@@ -1,0 +1,21 @@
+{
+  "generation_number": 1,
+  "timestamp": "2025-10-19T21:53:29.131374",
+  "best_fitness": 0.5528344973925866,
+  "average_fitness": 0.49028098941019727,
+  "population_size": 100,
+  "mutation_rate": 0.15,
+  "crossover_rate": 0.85,
+  "best_weights_sample": {
+    "points_per_match": 0.07581378308208642,
+    "win_rate": 0.0867546267032742,
+    "goal_difference": 0.08456139747171998,
+    "goals_per_match": 0.06030423646823168,
+    "conceded_per_match": 0.05715337921209886,
+    "shot_efficiency": 0.04381768041435091,
+    "conversion_rate": 0.0569054236553456,
+    "attacking_pressure": 0.042631703496277325,
+    "attacking_consistency": 0.032598135734537285,
+    "big_chances": 0.02514552951325576
+  }
+}

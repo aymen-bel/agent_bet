@@ -1,0 +1,32 @@
+{
+  "generation": 1,
+  "fitness": 0.5528344973925866,
+  "weights": {
+    "points_per_match": 0.07581378308208642,
+    "win_rate": 0.0867546267032742,
+    "goal_difference": 0.08456139747171998,
+    "goals_per_match": 0.06030423646823168,
+    "conceded_per_match": 0.05715337921209886,
+    "shot_efficiency": 0.04381768041435091,
+    "conversion_rate": 0.0569054236553456,
+    "attacking_pressure": 0.042631703496277325,
+    "attacking_consistency": 0.032598135734537285,
+    "big_chances": 0.02514552951325576,
+    "defensive_efficiency": 0.08222064792255515,
+    "clean_sheet_rate": 0.040925490974852215,
+    "defensive_consistency": 0.029126967722205837,
+    "pressure_resistance": 0.02356734004851842,
+    "current_form": 0.038567873431089916,
+    "form_momentum": 0.017099794406081417,
+    "consistency_score": 0.03538816940647855,
+    "performance_trend": 0.008702658565798799,
+    "home_advantage": 0.03400341249929294,
+    "away_resilience": 0.01920390557986028,
+    "motivation_factor": 0.034141481532467495,
+    "external_factor": 0.016025545284183346,
+    "opponent_strength": 0.03293394043708953,
+    "match_importance": 0.012829783080008724,
+    "pressure_handling": 0.0095770933583395
+  },
+  "timestamp": "2025-10-19T21:53:29.130377"
+}

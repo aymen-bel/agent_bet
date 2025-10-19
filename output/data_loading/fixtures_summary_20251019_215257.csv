@@ -1,0 +1,381 @@
+MatchID,Date,HomeTeam,AwayTeam,Status,IsFuture,IsPlayed,Week
+537785,15/08/2025,Liverpool,Bournemouth,FINISHED,False,True,1
+537786,16/08/2025,Aston Villa,Newcastle United,FINISHED,False,True,1
+537787,16/08/2025,Brighton,Fulham,FINISHED,False,True,1
+537789,16/08/2025,Sunderland,West Ham United,FINISHED,False,True,1
+537790,16/08/2025,Tottenham,Burnley,FINISHED,False,True,1
+537791,16/08/2025,Wolverhampton Wanderers,Manchester City,FINISHED,False,True,1
+537788,17/08/2025,Nottingham Forest,Brentford,FINISHED,False,True,1
+537792,17/08/2025,Chelsea,Crystal Palace,FINISHED,False,True,1
+537793,17/08/2025,Manchester United,Arsenal,FINISHED,False,True,1
+537794,18/08/2025,Leeds United FC,Everton,FINISHED,False,True,1
+537804,22/08/2025,West Ham United,Chelsea,FINISHED,False,True,2
+537802,23/08/2025,Manchester City,Tottenham,FINISHED,False,True,2
+537795,23/08/2025,Bournemouth,Wolverhampton Wanderers,FINISHED,False,True,2
+537798,23/08/2025,Brentford,Aston Villa,FINISHED,False,True,2
+537799,23/08/2025,Burnley,Sunderland,FINISHED,False,True,2
+537797,23/08/2025,Arsenal,Leeds United FC,FINISHED,False,True,2
+537796,24/08/2025,Crystal Palace,Nottingham Forest,FINISHED,False,True,2
+537800,24/08/2025,Everton,Brighton,FINISHED,False,True,2
+537801,24/08/2025,Fulham,Manchester United,FINISHED,False,True,2
+537803,25/08/2025,Newcastle United,Liverpool,FINISHED,False,True,2
+537808,30/08/2025,Chelsea,Fulham,FINISHED,False,True,3
+537805,30/08/2025,Sunderland,Brentford,FINISHED,False,True,3
+537811,30/08/2025,Manchester United,Burnley,FINISHED,False,True,3
+537813,30/08/2025,Tottenham,Bournemouth,FINISHED,False,True,3
+537814,30/08/2025,Wolverhampton Wanderers,Everton,FINISHED,False,True,3
+537810,30/08/2025,Leeds United FC,Newcastle United,FINISHED,False,True,3
+537807,31/08/2025,Brighton,Manchester City,FINISHED,False,True,3
+537812,31/08/2025,Nottingham Forest,West Ham United,FINISHED,False,True,3
+537809,31/08/2025,Liverpool,Arsenal,FINISHED,False,True,3
+537806,31/08/2025,Aston Villa,Crystal Palace,FINISHED,False,True,3
+537817,13/09/2025,Arsenal,Nottingham Forest,FINISHED,False,True,4
+537815,13/09/2025,Bournemouth,Brighton,FINISHED,False,True,4
+537816,13/09/2025,Crystal Palace,Sunderland,FINISHED,False,True,4
+537820,13/09/2025,Everton,Aston Villa,FINISHED,False,True,4
+537821,13/09/2025,Fulham,Leeds United FC,FINISHED,False,True,4
+537823,13/09/2025,Newcastle United,Wolverhampton Wanderers,FINISHED,False,True,4
+537824,13/09/2025,West Ham United,Tottenham,FINISHED,False,True,4
+537818,13/09/2025,Brentford,Chelsea,FINISHED,False,True,4
+537819,14/09/2025,Burnley,Liverpool,FINISHED,False,True,4
+537822,14/09/2025,Manchester City,Manchester United,FINISHED,False,True,4
+537831,20/09/2025,Liverpool,Everton,FINISHED,False,True,5
+537827,20/09/2025,Brighton,Tottenham,FINISHED,False,True,5
+537829,20/09/2025,Burnley,Nottingham Forest,FINISHED,False,True,5
+537833,20/09/2025,West Ham United,Crystal Palace,FINISHED,False,True,5
+537834,20/09/2025,Wolverhampton Wanderers,Leeds United FC,FINISHED,False,True,5
+537832,20/09/2025,Manchester United,Chelsea,FINISHED,False,True,5
+537830,20/09/2025,Fulham,Brentford,FINISHED,False,True,5
+537825,21/09/2025,Bournemouth,Newcastle United,FINISHED,False,True,5
+537826,21/09/2025,Sunderland,Aston Villa,FINISHED,False,True,5
+537828,21/09/2025,Arsenal,Manchester City,FINISHED,False,True,5
+537837,27/09/2025,Brentford,Manchester United,FINISHED,False,True,6
+537836,27/09/2025,Crystal Palace,Liverpool,FINISHED,False,True,6
+537838,27/09/2025,Chelsea,Brighton,FINISHED,False,True,6
+537840,27/09/2025,Leeds United FC,Bournemouth,FINISHED,False,True,6
+537841,27/09/2025,Manchester City,Burnley,FINISHED,False,True,6
+537843,27/09/2025,Nottingham Forest,Sunderland,FINISHED,False,True,6
+537844,27/09/2025,Tottenham,Wolverhampton Wanderers,FINISHED,False,True,6
+537835,28/09/2025,Aston Villa,Fulham,FINISHED,False,True,6
+537842,28/09/2025,Newcastle United,Arsenal,FINISHED,False,True,6
+537839,29/09/2025,Everton,West Ham United,FINISHED,False,True,6
+537845,03/10/2025,Bournemouth,Fulham,FINISHED,False,True,7
+537851,04/10/2025,Leeds United FC,Tottenham,FINISHED,False,True,7
+537847,04/10/2025,Arsenal,West Ham United,FINISHED,False,True,7
+537852,04/10/2025,Manchester United,Sunderland,FINISHED,False,True,7
+537849,04/10/2025,Chelsea,Liverpool,FINISHED,False,True,7
+537846,05/10/2025,Aston Villa,Burnley,FINISHED,False,True,7
+537850,05/10/2025,Everton,Crystal Palace,FINISHED,False,True,7
+537853,05/10/2025,Newcastle United,Nottingham Forest,FINISHED,False,True,7
+537854,05/10/2025,Wolverhampton Wanderers,Brighton,FINISHED,False,True,7
+537848,05/10/2025,Brentford,Manchester City,FINISHED,False,True,7
+537862,18/10/2025,Nottingham Forest,Chelsea,TIMED,False,False,8
+537856,18/10/2025,Brighton,Newcastle United,TIMED,False,False,8
+537857,18/10/2025,Crystal Palace,Bournemouth,TIMED,False,False,8
+537858,18/10/2025,Burnley,Leeds United FC,TIMED,False,False,8
+537861,18/10/2025,Manchester City,Everton,TIMED,False,False,8
+537855,18/10/2025,Sunderland,Wolverhampton Wanderers,TIMED,False,False,8
+537859,18/10/2025,Fulham,Arsenal,TIMED,False,False,8
+537863,19/10/2025,Tottenham,Aston Villa,TIMED,False,False,8
+537860,19/10/2025,Liverpool,Manchester United,TIMED,False,False,8
+537864,20/10/2025,West Ham United,Brentford,TIMED,True,False,8
+537871,24/10/2025,Leeds United FC,West Ham United,TIMED,True,False,9
+537869,25/10/2025,Chelsea,Sunderland,TIMED,True,False,9
+537873,25/10/2025,Newcastle United,Fulham,TIMED,True,False,9
+537872,25/10/2025,Manchester United,Brighton,TIMED,True,False,9
+537868,25/10/2025,Brentford,Liverpool,TIMED,True,False,9
+537865,26/10/2025,Bournemouth,Nottingham Forest,TIMED,True,False,9
+537866,26/10/2025,Aston Villa,Manchester City,TIMED,True,False,9
+537867,26/10/2025,Arsenal,Crystal Palace,TIMED,True,False,9
+537874,26/10/2025,Wolverhampton Wanderers,Burnley,TIMED,True,False,9
+537870,26/10/2025,Everton,Tottenham,TIMED,True,False,9
+537876,01/11/2025,Brighton,Leeds United FC,TIMED,True,False,10
+537877,01/11/2025,Crystal Palace,Brentford,TIMED,True,False,10
+537878,01/11/2025,Burnley,Arsenal,TIMED,True,False,10
+537879,01/11/2025,Fulham,Wolverhampton Wanderers,TIMED,True,False,10
+537882,01/11/2025,Nottingham Forest,Manchester United,TIMED,True,False,10
+537883,01/11/2025,Tottenham,Chelsea,TIMED,True,False,10
+537880,01/11/2025,Liverpool,Aston Villa,TIMED,True,False,10
+537884,02/11/2025,West Ham United,Newcastle United,TIMED,True,False,10
+537881,02/11/2025,Manchester City,Bournemouth,TIMED,True,False,10
+537875,03/11/2025,Sunderland,Everton,TIMED,True,False,10
+537893,08/11/2025,Tottenham,Manchester United,TIMED,True,False,11
+537890,08/11/2025,Everton,Fulham,TIMED,True,False,11
+537894,08/11/2025,West Ham United,Burnley,TIMED,True,False,11
+537885,08/11/2025,Sunderland,Arsenal,TIMED,True,False,11
+537889,08/11/2025,Chelsea,Wolverhampton Wanderers,TIMED,True,False,11
+537886,09/11/2025,Aston Villa,Bournemouth,TIMED,True,False,11
+537887,09/11/2025,Crystal Palace,Brighton,TIMED,True,False,11
+537888,09/11/2025,Brentford,Newcastle United,TIMED,True,False,11
+537892,09/11/2025,Nottingham Forest,Leeds United FC,TIMED,True,False,11
+537891,09/11/2025,Manchester City,Liverpool,TIMED,True,False,11
+537898,22/11/2025,Burnley,Chelsea,TIMED,True,False,12
+537895,22/11/2025,Bournemouth,West Ham United,TIMED,True,False,12
+537896,22/11/2025,Brighton,Brentford,TIMED,True,False,12
+537899,22/11/2025,Fulham,Sunderland,TIMED,True,False,12
+537900,22/11/2025,Liverpool,Nottingham Forest,TIMED,True,False,12
+537904,22/11/2025,Wolverhampton Wanderers,Crystal Palace,TIMED,True,False,12
+537903,22/11/2025,Newcastle United,Manchester City,TIMED,True,False,12
+537901,23/11/2025,Leeds United FC,Aston Villa,TIMED,True,False,12
+537897,23/11/2025,Arsenal,Tottenham,TIMED,True,False,12
+537902,24/11/2025,Manchester United,Everton,TIMED,True,False,12
+537905,29/11/2025,Sunderland,Bournemouth,TIMED,True,False,13
+537908,29/11/2025,Brentford,Burnley,TIMED,True,False,13
+537911,29/11/2025,Manchester City,Leeds United FC,TIMED,True,False,13
+537910,29/11/2025,Everton,Newcastle United,TIMED,True,False,13
+537913,29/11/2025,Tottenham,Fulham,TIMED,True,False,13
+537907,30/11/2025,Crystal Palace,Manchester United,TIMED,True,False,13
+537906,30/11/2025,Aston Villa,Wolverhampton Wanderers,TIMED,True,False,13
+537912,30/11/2025,Nottingham Forest,Brighton,TIMED,True,False,13
+537914,30/11/2025,West Ham United,Liverpool,TIMED,True,False,13
+537909,30/11/2025,Chelsea,Arsenal,TIMED,True,False,13
+537915,03/12/2025,Bournemouth,Everton,SCHEDULED,True,False,14
+537916,03/12/2025,Brighton,Aston Villa,SCHEDULED,True,False,14
+537917,03/12/2025,Arsenal,Brentford,SCHEDULED,True,False,14
+537918,03/12/2025,Burnley,Crystal Palace,SCHEDULED,True,False,14
+537919,03/12/2025,Fulham,Manchester City,SCHEDULED,True,False,14
+537920,03/12/2025,Liverpool,Sunderland,SCHEDULED,True,False,14
+537921,03/12/2025,Leeds United FC,Chelsea,SCHEDULED,True,False,14
+537922,03/12/2025,Manchester United,West Ham United,SCHEDULED,True,False,14
+537923,03/12/2025,Newcastle United,Tottenham,SCHEDULED,True,False,14
+537924,03/12/2025,Wolverhampton Wanderers,Nottingham Forest,SCHEDULED,True,False,14
+537925,06/12/2025,Bournemouth,Chelsea,SCHEDULED,True,False,15
+537926,06/12/2025,Aston Villa,Arsenal,SCHEDULED,True,False,15
+537927,06/12/2025,Brighton,West Ham United,SCHEDULED,True,False,15
+537928,06/12/2025,Everton,Nottingham Forest,SCHEDULED,True,False,15
+537929,06/12/2025,Fulham,Crystal Palace,SCHEDULED,True,False,15
+537930,06/12/2025,Leeds United FC,Liverpool,SCHEDULED,True,False,15
+537931,06/12/2025,Manchester City,Sunderland,SCHEDULED,True,False,15
+537932,06/12/2025,Newcastle United,Burnley,SCHEDULED,True,False,15
+537933,06/12/2025,Tottenham,Brentford,SCHEDULED,True,False,15
+537934,06/12/2025,Wolverhampton Wanderers,Manchester United,SCHEDULED,True,False,15
+537935,13/12/2025,Sunderland,Newcastle United,SCHEDULED,True,False,16
+537936,13/12/2025,Crystal Palace,Manchester City,SCHEDULED,True,False,16
+537937,13/12/2025,Arsenal,Wolverhampton Wanderers,SCHEDULED,True,False,16
+537938,13/12/2025,Brentford,Leeds United FC,SCHEDULED,True,False,16
+537939,13/12/2025,Burnley,Fulham,SCHEDULED,True,False,16
+537940,13/12/2025,Chelsea,Everton,SCHEDULED,True,False,16
+537941,13/12/2025,Liverpool,Brighton,SCHEDULED,True,False,16
+537942,13/12/2025,Manchester United,Bournemouth,SCHEDULED,True,False,16
+537943,13/12/2025,Nottingham Forest,Tottenham,SCHEDULED,True,False,16
+537944,13/12/2025,West Ham United,Aston Villa,SCHEDULED,True,False,16
+537945,20/12/2025,Bournemouth,Burnley,SCHEDULED,True,False,17
+537946,20/12/2025,Aston Villa,Manchester United,SCHEDULED,True,False,17
+537947,20/12/2025,Brighton,Sunderland,SCHEDULED,True,False,17
+537948,20/12/2025,Everton,Arsenal,SCHEDULED,True,False,17
+537949,20/12/2025,Fulham,Nottingham Forest,SCHEDULED,True,False,17
+537950,20/12/2025,Leeds United FC,Crystal Palace,SCHEDULED,True,False,17
+537951,20/12/2025,Manchester City,West Ham United,SCHEDULED,True,False,17
+537952,20/12/2025,Newcastle United,Chelsea,SCHEDULED,True,False,17
+537953,20/12/2025,Tottenham,Liverpool,SCHEDULED,True,False,17
+537954,20/12/2025,Wolverhampton Wanderers,Brentford,SCHEDULED,True,False,17
+537955,27/12/2025,Sunderland,Leeds United FC,SCHEDULED,True,False,18
+537956,27/12/2025,Crystal Palace,Tottenham,SCHEDULED,True,False,18
+537957,27/12/2025,Arsenal,Brighton,SCHEDULED,True,False,18
+537958,27/12/2025,Brentford,Bournemouth,SCHEDULED,True,False,18
+537959,27/12/2025,Burnley,Everton,SCHEDULED,True,False,18
+537960,27/12/2025,Chelsea,Aston Villa,SCHEDULED,True,False,18
+537961,27/12/2025,Liverpool,Wolverhampton Wanderers,SCHEDULED,True,False,18
+537962,27/12/2025,Manchester United,Newcastle United,SCHEDULED,True,False,18
+537963,27/12/2025,Nottingham Forest,Manchester City,SCHEDULED,True,False,18
+537964,27/12/2025,West Ham United,Fulham,SCHEDULED,True,False,18
+537965,30/12/2025,Sunderland,Manchester City,SCHEDULED,True,False,19
+537966,30/12/2025,Crystal Palace,Fulham,SCHEDULED,True,False,19
+537967,30/12/2025,Arsenal,Aston Villa,SCHEDULED,True,False,19
+537968,30/12/2025,Brentford,Tottenham,SCHEDULED,True,False,19
+537969,30/12/2025,Burnley,Newcastle United,SCHEDULED,True,False,19
+537970,30/12/2025,Chelsea,Bournemouth,SCHEDULED,True,False,19
+537971,30/12/2025,Liverpool,Leeds United FC,SCHEDULED,True,False,19
+537972,30/12/2025,Manchester United,Wolverhampton Wanderers,SCHEDULED,True,False,19
+537973,30/12/2025,Nottingham Forest,Everton,SCHEDULED,True,False,19
+537974,30/12/2025,West Ham United,Brighton,SCHEDULED,True,False,19
+537975,03/01/2026,Bournemouth,Arsenal,SCHEDULED,True,False,20
+537976,03/01/2026,Aston Villa,Nottingham Forest,SCHEDULED,True,False,20
+537977,03/01/2026,Brighton,Burnley,SCHEDULED,True,False,20
+537978,03/01/2026,Everton,Brentford,SCHEDULED,True,False,20
+537979,03/01/2026,Fulham,Liverpool,SCHEDULED,True,False,20
+537980,03/01/2026,Leeds United FC,Manchester United,SCHEDULED,True,False,20
+537981,03/01/2026,Manchester City,Chelsea,SCHEDULED,True,False,20
+537982,03/01/2026,Newcastle United,Crystal Palace,SCHEDULED,True,False,20
+537983,03/01/2026,Tottenham,Sunderland,SCHEDULED,True,False,20
+537984,03/01/2026,Wolverhampton Wanderers,West Ham United,SCHEDULED,True,False,20
+537985,07/01/2026,Bournemouth,Tottenham,SCHEDULED,True,False,21
+537986,07/01/2026,Crystal Palace,Aston Villa,SCHEDULED,True,False,21
+537987,07/01/2026,Arsenal,Liverpool,SCHEDULED,True,False,21
+537988,07/01/2026,Brentford,Sunderland,SCHEDULED,True,False,21
+537989,07/01/2026,Burnley,Manchester United,SCHEDULED,True,False,21
+537990,07/01/2026,Everton,Wolverhampton Wanderers,SCHEDULED,True,False,21
+537991,07/01/2026,Fulham,Chelsea,SCHEDULED,True,False,21
+537992,07/01/2026,Manchester City,Brighton,SCHEDULED,True,False,21
+537993,07/01/2026,Newcastle United,Leeds United FC,SCHEDULED,True,False,21
+537994,07/01/2026,West Ham United,Nottingham Forest,SCHEDULED,True,False,21
+537995,17/01/2026,Sunderland,Crystal Palace,SCHEDULED,True,False,22
+537996,17/01/2026,Aston Villa,Everton,SCHEDULED,True,False,22
+537997,17/01/2026,Brighton,Bournemouth,SCHEDULED,True,False,22
+537998,17/01/2026,Chelsea,Brentford,SCHEDULED,True,False,22
+537999,17/01/2026,Liverpool,Burnley,SCHEDULED,True,False,22
+538000,17/01/2026,Leeds United FC,Fulham,SCHEDULED,True,False,22
+538001,17/01/2026,Manchester United,Manchester City,SCHEDULED,True,False,22
+538002,17/01/2026,Nottingham Forest,Arsenal,SCHEDULED,True,False,22
+538003,17/01/2026,Tottenham,West Ham United,SCHEDULED,True,False,22
+538004,17/01/2026,Wolverhampton Wanderers,Newcastle United,SCHEDULED,True,False,22
+538005,24/01/2026,Bournemouth,Liverpool,SCHEDULED,True,False,23
+538006,24/01/2026,Crystal Palace,Chelsea,SCHEDULED,True,False,23
+538007,24/01/2026,Arsenal,Manchester United,SCHEDULED,True,False,23
+538008,24/01/2026,Brentford,Nottingham Forest,SCHEDULED,True,False,23
+538009,24/01/2026,Burnley,Tottenham,SCHEDULED,True,False,23
+538010,24/01/2026,Everton,Leeds United FC,SCHEDULED,True,False,23
+538011,24/01/2026,Fulham,Brighton,SCHEDULED,True,False,23
+538012,24/01/2026,Manchester City,Wolverhampton Wanderers,SCHEDULED,True,False,23
+538013,24/01/2026,Newcastle United,Aston Villa,SCHEDULED,True,False,23
+538014,24/01/2026,West Ham United,Sunderland,SCHEDULED,True,False,23
+538015,31/01/2026,Sunderland,Burnley,SCHEDULED,True,False,24
+538016,31/01/2026,Aston Villa,Brentford,SCHEDULED,True,False,24
+538017,31/01/2026,Brighton,Everton,SCHEDULED,True,False,24
+538018,31/01/2026,Chelsea,West Ham United,SCHEDULED,True,False,24
+538019,31/01/2026,Liverpool,Newcastle United,SCHEDULED,True,False,24
+538020,31/01/2026,Leeds United FC,Arsenal,SCHEDULED,True,False,24
+538021,31/01/2026,Manchester United,Fulham,SCHEDULED,True,False,24
+538022,31/01/2026,Nottingham Forest,Crystal Palace,SCHEDULED,True,False,24
+538023,31/01/2026,Tottenham,Manchester City,SCHEDULED,True,False,24
+538024,31/01/2026,Wolverhampton Wanderers,Bournemouth,SCHEDULED,True,False,24
+538025,07/02/2026,Bournemouth,Aston Villa,SCHEDULED,True,False,25
+538026,07/02/2026,Brighton,Crystal Palace,SCHEDULED,True,False,25
+538027,07/02/2026,Arsenal,Sunderland,SCHEDULED,True,False,25
+538028,07/02/2026,Burnley,West Ham United,SCHEDULED,True,False,25
+538029,07/02/2026,Fulham,Everton,SCHEDULED,True,False,25
+538030,07/02/2026,Liverpool,Manchester City,SCHEDULED,True,False,25
+538031,07/02/2026,Leeds United FC,Nottingham Forest,SCHEDULED,True,False,25
+538032,07/02/2026,Manchester United,Tottenham,SCHEDULED,True,False,25
+538033,07/02/2026,Newcastle United,Brentford,SCHEDULED,True,False,25
+538034,07/02/2026,Wolverhampton Wanderers,Chelsea,SCHEDULED,True,False,25
+538035,11/02/2026,Sunderland,Liverpool,SCHEDULED,True,False,26
+538036,11/02/2026,Aston Villa,Brighton,SCHEDULED,True,False,26
+538037,11/02/2026,Crystal Palace,Burnley,SCHEDULED,True,False,26
+538038,11/02/2026,Brentford,Arsenal,SCHEDULED,True,False,26
+538039,11/02/2026,Chelsea,Leeds United FC,SCHEDULED,True,False,26
+538040,11/02/2026,Everton,Bournemouth,SCHEDULED,True,False,26
+538041,11/02/2026,Manchester City,Fulham,SCHEDULED,True,False,26
+538042,11/02/2026,Nottingham Forest,Wolverhampton Wanderers,SCHEDULED,True,False,26
+538043,11/02/2026,Tottenham,Newcastle United,SCHEDULED,True,False,26
+538044,11/02/2026,West Ham United,Manchester United,SCHEDULED,True,False,26
+538045,21/02/2026,Sunderland,Fulham,SCHEDULED,True,False,27
+538046,21/02/2026,Aston Villa,Leeds United FC,SCHEDULED,True,False,27
+538047,21/02/2026,Crystal Palace,Wolverhampton Wanderers,SCHEDULED,True,False,27
+538048,21/02/2026,Brentford,Brighton,SCHEDULED,True,False,27
+538049,21/02/2026,Chelsea,Burnley,SCHEDULED,True,False,27
+538050,21/02/2026,Everton,Manchester United,SCHEDULED,True,False,27
+538051,21/02/2026,Manchester City,Newcastle United,SCHEDULED,True,False,27
+538052,21/02/2026,Nottingham Forest,Liverpool,SCHEDULED,True,False,27
+538053,21/02/2026,Tottenham,Arsenal,SCHEDULED,True,False,27
+538054,21/02/2026,West Ham United,Bournemouth,SCHEDULED,True,False,27
+538055,28/02/2026,Bournemouth,Sunderland,SCHEDULED,True,False,28
+538056,28/02/2026,Brighton,Nottingham Forest,SCHEDULED,True,False,28
+538057,28/02/2026,Arsenal,Chelsea,SCHEDULED,True,False,28
+538058,28/02/2026,Burnley,Brentford,SCHEDULED,True,False,28
+538059,28/02/2026,Fulham,Tottenham,SCHEDULED,True,False,28
+538060,28/02/2026,Liverpool,West Ham United,SCHEDULED,True,False,28
+538061,28/02/2026,Leeds United FC,Manchester City,SCHEDULED,True,False,28
+538062,28/02/2026,Manchester United,Crystal Palace,SCHEDULED,True,False,28
+538063,28/02/2026,Newcastle United,Everton,SCHEDULED,True,False,28
+538064,28/02/2026,Wolverhampton Wanderers,Aston Villa,SCHEDULED,True,False,28
+538065,04/03/2026,Bournemouth,Brentford,SCHEDULED,True,False,29
+538066,04/03/2026,Aston Villa,Chelsea,SCHEDULED,True,False,29
+538067,04/03/2026,Brighton,Arsenal,SCHEDULED,True,False,29
+538068,04/03/2026,Everton,Burnley,SCHEDULED,True,False,29
+538069,04/03/2026,Fulham,West Ham United,SCHEDULED,True,False,29
+538070,04/03/2026,Leeds United FC,Sunderland,SCHEDULED,True,False,29
+538071,04/03/2026,Manchester City,Nottingham Forest,SCHEDULED,True,False,29
+538072,04/03/2026,Newcastle United,Manchester United,SCHEDULED,True,False,29
+538073,04/03/2026,Tottenham,Crystal Palace,SCHEDULED,True,False,29
+538074,04/03/2026,Wolverhampton Wanderers,Liverpool,SCHEDULED,True,False,29
+538075,14/03/2026,Sunderland,Brighton,SCHEDULED,True,False,30
+538076,14/03/2026,Crystal Palace,Leeds United FC,SCHEDULED,True,False,30
+538077,14/03/2026,Arsenal,Everton,SCHEDULED,True,False,30
+538078,14/03/2026,Brentford,Wolverhampton Wanderers,SCHEDULED,True,False,30
+538079,14/03/2026,Burnley,Bournemouth,SCHEDULED,True,False,30
+538080,14/03/2026,Chelsea,Newcastle United,SCHEDULED,True,False,30
+538081,14/03/2026,Liverpool,Tottenham,SCHEDULED,True,False,30
+538082,14/03/2026,Manchester United,Aston Villa,SCHEDULED,True,False,30
+538083,14/03/2026,Nottingham Forest,Fulham,SCHEDULED,True,False,30
+538084,14/03/2026,West Ham United,Manchester City,SCHEDULED,True,False,30
+538085,21/03/2026,Bournemouth,Manchester United,SCHEDULED,True,False,31
+538086,21/03/2026,Aston Villa,West Ham United,SCHEDULED,True,False,31
+538087,21/03/2026,Brighton,Liverpool,SCHEDULED,True,False,31
+538088,21/03/2026,Everton,Chelsea,SCHEDULED,True,False,31
+538089,21/03/2026,Fulham,Burnley,SCHEDULED,True,False,31
+538090,21/03/2026,Leeds United FC,Brentford,SCHEDULED,True,False,31
+538091,21/03/2026,Manchester City,Crystal Palace,SCHEDULED,True,False,31
+538092,21/03/2026,Newcastle United,Sunderland,SCHEDULED,True,False,31
+538093,21/03/2026,Tottenham,Nottingham Forest,SCHEDULED,True,False,31
+538094,21/03/2026,Wolverhampton Wanderers,Arsenal,SCHEDULED,True,False,31
+538095,11/04/2026,Sunderland,Tottenham,SCHEDULED,True,False,32
+538096,11/04/2026,Crystal Palace,Newcastle United,SCHEDULED,True,False,32
+538097,11/04/2026,Arsenal,Bournemouth,SCHEDULED,True,False,32
+538098,11/04/2026,Brentford,Everton,SCHEDULED,True,False,32
+538099,11/04/2026,Burnley,Brighton,SCHEDULED,True,False,32
+538100,11/04/2026,Chelsea,Manchester City,SCHEDULED,True,False,32
+538101,11/04/2026,Liverpool,Fulham,SCHEDULED,True,False,32
+538102,11/04/2026,Manchester United,Leeds United FC,SCHEDULED,True,False,32
+538103,11/04/2026,Nottingham Forest,Aston Villa,SCHEDULED,True,False,32
+538104,11/04/2026,West Ham United,Wolverhampton Wanderers,SCHEDULED,True,False,32
+538112,18/04/2026,Newcastle United,Bournemouth,SCHEDULED,True,False,33
+538113,18/04/2026,Nottingham Forest,Burnley,SCHEDULED,True,False,33
+538114,18/04/2026,Tottenham,Brighton,SCHEDULED,True,False,33
+538105,18/04/2026,Aston Villa,Sunderland,SCHEDULED,True,False,33
+538106,18/04/2026,Crystal Palace,West Ham United,SCHEDULED,True,False,33
+538107,18/04/2026,Brentford,Fulham,SCHEDULED,True,False,33
+538108,18/04/2026,Chelsea,Manchester United,SCHEDULED,True,False,33
+538109,18/04/2026,Everton,Liverpool,SCHEDULED,True,False,33
+538110,18/04/2026,Leeds United FC,Wolverhampton Wanderers,SCHEDULED,True,False,33
+538111,18/04/2026,Manchester City,Arsenal,SCHEDULED,True,False,33
+538115,25/04/2026,Bournemouth,Leeds United FC,SCHEDULED,True,False,34
+538116,25/04/2026,Sunderland,Nottingham Forest,SCHEDULED,True,False,34
+538117,25/04/2026,Brighton,Chelsea,SCHEDULED,True,False,34
+538118,25/04/2026,Arsenal,Newcastle United,SCHEDULED,True,False,34
+538119,25/04/2026,Burnley,Manchester City,SCHEDULED,True,False,34
+538120,25/04/2026,Fulham,Aston Villa,SCHEDULED,True,False,34
+538121,25/04/2026,Liverpool,Crystal Palace,SCHEDULED,True,False,34
+538122,25/04/2026,Manchester United,Brentford,SCHEDULED,True,False,34
+538123,25/04/2026,West Ham United,Everton,SCHEDULED,True,False,34
+538124,25/04/2026,Wolverhampton Wanderers,Tottenham,SCHEDULED,True,False,34
+538125,02/05/2026,Bournemouth,Crystal Palace,SCHEDULED,True,False,35
+538126,02/05/2026,Aston Villa,Tottenham,SCHEDULED,True,False,35
+538127,02/05/2026,Arsenal,Fulham,SCHEDULED,True,False,35
+538128,02/05/2026,Brentford,West Ham United,SCHEDULED,True,False,35
+538129,02/05/2026,Chelsea,Nottingham Forest,SCHEDULED,True,False,35
+538130,02/05/2026,Everton,Manchester City,SCHEDULED,True,False,35
+538131,02/05/2026,Leeds United FC,Burnley,SCHEDULED,True,False,35
+538132,02/05/2026,Manchester United,Liverpool,SCHEDULED,True,False,35
+538133,02/05/2026,Newcastle United,Brighton,SCHEDULED,True,False,35
+538134,02/05/2026,Wolverhampton Wanderers,Sunderland,SCHEDULED,True,False,35
+538135,09/05/2026,Sunderland,Manchester United,SCHEDULED,True,False,36
+538136,09/05/2026,Brighton,Wolverhampton Wanderers,SCHEDULED,True,False,36
+538137,09/05/2026,Crystal Palace,Everton,SCHEDULED,True,False,36
+538138,09/05/2026,Burnley,Aston Villa,SCHEDULED,True,False,36
+538139,09/05/2026,Fulham,Bournemouth,SCHEDULED,True,False,36
+538140,09/05/2026,Liverpool,Chelsea,SCHEDULED,True,False,36
+538141,09/05/2026,Manchester City,Brentford,SCHEDULED,True,False,36
+538142,09/05/2026,Nottingham Forest,Newcastle United,SCHEDULED,True,False,36
+538143,09/05/2026,Tottenham,Leeds United FC,SCHEDULED,True,False,36
+538144,09/05/2026,West Ham United,Arsenal,SCHEDULED,True,False,36
+538145,17/05/2026,Bournemouth,Manchester City,SCHEDULED,True,False,37
+538146,17/05/2026,Aston Villa,Liverpool,SCHEDULED,True,False,37
+538147,17/05/2026,Arsenal,Burnley,SCHEDULED,True,False,37
+538148,17/05/2026,Brentford,Crystal Palace,SCHEDULED,True,False,37
+538149,17/05/2026,Chelsea,Tottenham,SCHEDULED,True,False,37
+538150,17/05/2026,Everton,Sunderland,SCHEDULED,True,False,37
+538151,17/05/2026,Leeds United FC,Brighton,SCHEDULED,True,False,37
+538152,17/05/2026,Manchester United,Nottingham Forest,SCHEDULED,True,False,37
+538153,17/05/2026,Newcastle United,West Ham United,SCHEDULED,True,False,37
+538154,17/05/2026,Wolverhampton Wanderers,Fulham,SCHEDULED,True,False,37
+538155,24/05/2026,Sunderland,Chelsea,SCHEDULED,True,False,38
+538156,24/05/2026,Brighton,Manchester United,SCHEDULED,True,False,38
+538157,24/05/2026,Crystal Palace,Arsenal,SCHEDULED,True,False,38
+538158,24/05/2026,Burnley,Wolverhampton Wanderers,SCHEDULED,True,False,38
+538159,24/05/2026,Fulham,Newcastle United,SCHEDULED,True,False,38
+538160,24/05/2026,Liverpool,Brentford,SCHEDULED,True,False,38
+538161,24/05/2026,Manchester City,Aston Villa,SCHEDULED,True,False,38
+538162,24/05/2026,Nottingham Forest,Bournemouth,SCHEDULED,True,False,38
+538163,24/05/2026,Tottenham,Everton,SCHEDULED,True,False,38
+538164,24/05/2026,West Ham United,Leeds United FC,SCHEDULED,True,False,38
